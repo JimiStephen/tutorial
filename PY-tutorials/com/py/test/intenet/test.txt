@@ -1,0 +1,2576 @@
+<!DOCTYPE html>
+<!--STATUS OK-->
+<html>
+
+
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="referrer" content="always" />
+<meta name="description" content="贾跃亭，男，汉族，1973年2月6日出生于山西襄汾，乐视控股集团创始人，乐视汽车生态全球董事长。2004年创建乐视网，于2010年8月在创业板上市，致力于打造基于视频产业、内容产业和智能终端的“平台+内容+终端+应用”完整生态系统，被业界称为“乐视模式”。2016年胡润百富榜，贾跃亭以420亿财富排名第31位。2016胡润IT富豪榜，贾跃亭以355亿元排名第八。2016福布斯中国富豪榜，贾跃亭排名第37位。2017年6月13日，乐视控股(北京)有限公司的法定代表人发生变更，由贾跃亭变更为吴孟；7月6日，辞去乐视网董事长，并出任乐视汽车生态全球董事长；7月27日晚，乐视网（300104）收到控股股东贾跃亭通知，贾跃亭直接所持乐视网股份被全部冻结。2017年11月10日，乐视网发布公告，称贾跃亭在回函中表示无力履行无息借款与增持承诺，“深表歉意”。 2017年12月12日，贾跃亭被列入了失信被...">
+<title>贾跃亭_百度百科</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+
+<meta name="keywords" content="贾跃亭 贾跃亭人物经历 贾跃亭个人生活 贾跃亭个人语录 贾跃亭获得荣誉 贾跃亭人物事件 贾跃亭社会评价 揭秘恒大与贾跃亭纠纷的事实与隐秘情节 我所了解的贾跃亭">
+<meta name="image" content="https://bkssl.bdimg.com/cms/static/baike.png">
+<script type="text/javascript">
+  // 配置 PD 监控。
+  window.alogObjectConfig = {
+    product: '103',
+    page: '103_1',
+    speed: {
+      sample: '0.008'
+    },
+    monkey: {
+      sample: '1',
+      hid: '1533'
+    },
+    exception: { 
+      sample: '0.004'
+    },
+    feature: {
+      sample: '0.004'
+    },
+    csp: {
+      sample: '0.008',
+      'default-src': [
+        {match: '*.baidu.com,*.bdimg.com,localhost', target: 'Accept'},
+        {match: '*', target: 'Accept,Warn'}
+      ]
+    }
+  };
+
+  void function(a,b,c,d,e,f,g){a.alogObjectName=e,a[e]=a[e]||function(){(a[e].q=a[e].q||[]).push(arguments)},a[e].l=a[e].l||+new Date,d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d;var h=!0;if(a.alogObjectConfig&&a.alogObjectConfig.sample){var i=Math.random();a.alogObjectConfig.rand=i,i>a.alogObjectConfig.sample&&(h=!1)}h&&(f=b.createElement(c),f.async=!0,f.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),g=b.getElementsByTagName(c)[0],g.parentNode.insertBefore(f,g))}(window,document,"script","/hunter/alog/alog.min.js","alog"),void function(){function a(){}window.PDC={mark:function(a,b){alog("speed.set",a,b||+new Date),alog.fire&&alog.fire("mark")},init:function(a){alog("speed.set","options",a)},view_start:a,tti:a,page_ready:a}}();
+  void function(n){var o=!1;n.onerror=function(n,e,t,c){var i=!0;return!e&&/^script error/i.test(n)&&(o?i=!1:o=!0),i&&alog("exception.send","exception",{msg:n,js:e,ln:t,col:c}),!1},alog("exception.on","catch",function(n){alog("exception.send","exception",{msg:n.msg,js:n.path,ln:n.ln,method:n.method,flag:"catch"})})}(window);
+</script>
+<meta name="csrf-token" content="">
+<meta itemprop="dateUpdate" content="2018-10-18 09:35:38" />
+
+<!--[if lte IE 9]>
+<script>
+    (function() {
+      var e = "abbr,article,aside,audio,canvas,datalist,details,dialog,eventsource,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video".split(","),
+        i = e.length;
+      while (i--) {
+        document.createElement(e[i]);
+      }
+    })();
+  </script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_a152d97.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_902f003.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/component/userbar-n/userbar-n_78dab81.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/larkplayer/larkplayer_981c735.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-common/widget/lib/webuploader/webuploader_08d9db4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module_6c32cb0.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/announcement/announcement_cba33f4.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/label/label_ca156c6.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/newSideShare/sideShare_9c411cd.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/video/pageMask/pageMask_ff9a193.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/focusAndRelation/focusAndRelation_3a5f624.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/hotspotmining/hotspotmining_6fe426d.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/mainContent_98e3702.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaRelation_ac86a59.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_3b0d7a5.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/toolButtons-n_8b4919b.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/toolButtons-n/userInfo-n_7e90184.css"/><link rel="stylesheet" type="text/css" href="https://bkssl.bdimg.com/static/wiki-lemma/widget/tools/searchHeader/searchHeader-n_f9a6e5b.css"/>    
+</head>
+
+<script type="text/javascript">
+    alog('speed.set', 'ht', +new Date);
+</script>
+<script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?55b574651fcae74b0a9f1cf9c8d7c93a";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
+<body class="wiki-lemma normal">
+
+
+<div class="header-wrapper pc-header-new">
+<div class="topbar cmn-clearfix">
+<ul class="wgt-userbar wgt-userbar-n" id="j-wgt-userbar">
+<li>
+<a href="http://www.baidu.com/">百度首页</a>
+</li>
+</ul>
+<div class="separator"></div>
+<div class="wiki-common-headTabBar">
+<a href="https://www.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://www.baidu.com/s?ie=utf-8&fr=bks0000&wd=">网页</a>
+<a href="http://news.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://news.baidu.com/ns?tn=news&cl=2&rn=20&ct=1&fr=bks0000&ie=utf-8&word=">新闻</a>
+<a href="https://tieba.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=">贴吧</a>
+<a href="https://zhidao.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://zhidao.baidu.com/search?pn=0&&rn=10&lm=0&fr=bks0000&word=">知道</a>
+<a href="http://music.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://music.baidu.com/search?f=ms&ct=134217728&ie=utf-8&rn=&lm=-1&pn=30&fr=bks0000&key=">音乐</a>
+<a href="http://image.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=">图片</a>
+<a href="http://v.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=22&ie=utf-8&fr=bks0000&word=">视频</a>
+<a href="http://map.baidu.com/" nslog="normal" nslog-type="10600112" data-href="http://map.baidu.com/m?ie=utf-8&fr=bks0000&word=">地图</a>
+<a href="https://wenku.baidu.com/" nslog="normal" nslog-type="10600112" data-href="https://wenku.baidu.com/search?lm=0&od=0&ie=utf-8&fr=bks0000&word=">文库</a>
+<b class="baike">百科</b>
+</div>
+</div>
+<div class="header">
+<div class="layout">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-main cmn-clearfix wgt-searchbar-large">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080011" name="word" type="text" autocomplete="off" autocorrect="off" value="贾跃亭" /><button id="search" nslog="normal" nslog-type="10080008" type="button">进入词条</button><button id="searchLemma" nslog="normal" nslog-type="10080009" type="button">全站搜索</button><a class="help" href="/help" nslog="normal" nslog-type="10080010" target="_blank">帮助</a>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="clear" style="margin-right:8px;">清除历史记录</span><span id="close" nslog="normal" nslog-type="10080012">关闭</span>
+</li>
+</ul>
+</div></div>
+</div>
+<div class="declare-wrap" id="J-declare-wrap">
+<div class="declare" id="J-declare">声明：百科词条人人可编辑，词条创建和修改均免费，绝不存在官方及代理商付费代编，请勿上当受骗。<a class="declare-details" target="_blank" href="/common/declaration">详情>></a>
+<div class="close-btn" id="J-declare-close">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="navbar-wrapper">
+<div class="wgt-navbar">
+<div class="navbar-bg">
+<div class="navbar-bg-top">
+<div class="navbar-content layout">
+<div class="navbar-content-box">
+<dl class="index ">
+<dt><a href="/">首页</a></dt>
+<dd>
+<div><a href="/calendar/" target="_blank">历史上的今天</a></div>
+<div><a href="/vbaike/" target="_blank">百科冷知识</a></div>
+<div><a href="/vbaike#gallary" target="_blank">图解百科</a></div>
+</dd>
+</dl>
+<dl class="cat ">
+<dt><a>分类</a></dt>
+<dd>
+<div><a href="/art" target="_blank">艺术</a></div>
+<div><a href="/science" target="_blank">科学</a></div>
+<div><a href="/ziran" target="_blank">自然</a></div>
+<div><a href="/wenhua" target="_blank">文化</a></div>
+<div><a href="/dili" target="_blank">地理</a></div>
+<div><a href="/shenghuo" target="_blank">生活</a></div>
+<div><a href="/shehui" target="_blank">社会</a></div>
+<div><a href="/renwu" target="_blank">人物</a></div>
+<div><a href="/jingji" target="_blank">经济</a></div>
+<div><a href="/tiyu" target="_blank">体育</a></div>
+<div><a href="/lishi" target="_blank">历史</a></div>
+</dd>
+</dl>
+<dl class="second-know ">
+<dt><a>秒懂百科</a></dt>
+<dd><div><a href="https://child.baidu.com/" target="_blank">秒懂少儿APP</a></div>
+<div><a href="/item/秒懂星课堂" target="_blank">秒懂星课堂</a></div>
+<div><a href="/item/秒懂大师说" target="_blank">秒懂大师说</a></div>
+<div><a href="/item/秒懂看瓦特" target="_blank">秒懂看瓦特</a></div>
+<div><a href="/item/秒懂五千年" target="_blank">秒懂五千年</a></div>
+<div><a href="/item/秒懂全视界" target="_blank">秒懂全视界</a></div>
+</dd>
+</dl>
+<dl class="special ">
+<dt><a>特色百科</a></dt>
+<dd><div><a href="/museum/" target="_blank">数字博物馆</a></div>
+<div><a href="/feiyi?fr=dhlfeiyi" target="_blank">非遗百科</a></div>
+<div><a href="https://shushuo.baidu.com/" target="_blank">百度数说</a></div>
+<div><a href="/city/" target="_blank">城市百科</a></div>
+<div><a href="/wikicategory/view?categoryName=恐龙大全" target="_blank">恐龙百科</a></div>
+<div><a href="/wikicategory/view?categoryName=多肉植物" target="_blank">多肉百科</a></div>
+</dd>
+</dl>
+<dl class="user ">
+<dt><a>用户</a></dt>
+<dd>
+<div><a href="/kedou/" target="_blank">蝌蚪团</a></div>
+<div><a href="/event/ranmeng/" target="_blank">燃梦计划</a></div>
+<div><a href="/task/" target="_blank">百科任务</a></div>
+<div><a href="/mall/" target="_blank">百科商城</a></div>
+</dd>
+</dl>
+<dl class="cooperation ">
+<dt><a>权威合作</a></dt>
+<dd>
+<div><a href="/operation/cooperation#joint" target="_blank">合作模式</a></div>
+<div><a href="/operation/cooperation#issue" target="_blank">常见问题</a></div>
+<div><a href="/operation/cooperation#connection" target="_blank">联系方式</a></div>
+</dd>
+</dl>
+<div class="usercenter">
+<div><a href="/usercenter" target="_blank"><em class="cmn-icon cmn-icons cmn-icons_navbar-usercenter"></em>个人中心</a></div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="body-wrapper">
+<div class="before-content">
+<div class="secondsknow-large-container J-secondsknow-large-container">
+<div class="secondsknow-large-gradient"></div>
+<div class="secondsknow-large">
+<div class="sl-slogen"></div>
+<div class="sl-player">
+<div class="sl-player__main">
+<div class="sl-player-initial-cover J-sl-player-initial-cover">
+<div class="sl-player-initial-cover__play">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_play sl-player-initial-cover__play__icon"></em>
+</div>
+</div>
+<div class="sl-player-el" id="sl-player-el"></div>
+</div>
+<div class="sl-player__list J-sl-player__list">
+<div class="sl-player__list__title">
+<div class="sl-player__list__title__relative J-sl-player-title sl-player-title--active">相关视频</div>
+</div>
+</div>
+</div>
+<div class="sl-sub-slogen"></div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="content">
+<div class="personal-content">
+</div>
+<div class="main-content">
+<div class="top-tool">
+<a class="add-sub-icon top-tool-icon" href="javascript:;" title="添加义项" nslog-type="50000101">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_add-subLemma-solid"></em>
+</a>
+<a href="/divideload/%E8%B4%BE%E8%B7%83%E4%BA%AD" title="拆分词条" target="_blank" class="split-icon top-tool-icon" style="display:none;" nslog-type="50000104">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lemma-split"></em>
+</a>
+<div class="top-collect top-tool-icon" nslog="area" nslog-type="50000102">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>
+<span class="collect-text">收藏</span>
+<div class="collect-tip">查看<a href="/uc/favolemma" target="_blank">我的收藏</a></div>
+</div>
+<a href="javascript:void(0);" id="j-top-vote" class="top-vote top-tool-icon" nslog-type="10060801">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em>
+<span class="vote-count">0</span>
+<span class="vote-tip">有用+1</span>
+<span class="voted-tip">已投票</span>
+</a><div class="bksharebuttonbox top-share">
+<a class="top-share-icon top-tool-icon" nslog-type="9067">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_share"></em>
+<span class="share-count" id="j-topShareCount">0</span>
+</a>
+<div class="new-top-share" id="top-share">
+<ul class="top-share-list">
+<li class="top-share-item">
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060501">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060701">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060401">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+</li>
+<li class="top-share-item">
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060601">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:0;height:0;clear:both"></div><dl class="lemmaWgt-lemmaTitle lemmaWgt-lemmaTitle-">
+<dd class="lemmaWgt-lemmaTitle-title">
+<h1 >贾跃亭</h1>
+<a href="javascript:;" class="edit-lemma cmn-btn-hover-blue cmn-btn-28 j-edit-link"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+<a class="lock-lemma" nslog-type="10003105" target="_blank" href="/view/10812319.htm" title="锁定"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_lock-lemma"></em>锁定</a>
+</dd>
+</dl><div class="promotion-declaration">
+</div><div class="lemma-summary" label-module="lemmaSummary">
+<div class="para" label-module="para">贾跃亭，男，汉族，1973年2月6日出生于山西襄汾，乐视控股集团创始人，<a target=_blank href="/item/%E4%B9%90%E8%A7%86%E6%B1%BD%E8%BD%A6/10088669" data-lemmaid="10088669">乐视汽车</a>生态全球董事长。2004年创建乐视网，于2010年8月在创业板上市，致力于打造基于视频产业、内容产业和智能终端的“平台+内容+终端+应用”完整生态系统，被业界称为“乐视模式”。</div><div class="para" label-module="para">2016年胡润百富榜，贾跃亭以420亿财富排名第31位。<sup class="sup--normal" data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_3110930">&nbsp;</a>
+2016胡润IT富豪榜，贾跃亭以355亿元排名第八。<sup class="sup--normal" data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_3110930">&nbsp;</a>
+2016福布斯中国富豪榜，贾跃亭排名第37位。<sup class="sup--normal" data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_3110930">&nbsp;</a>
+</div><div class="para" label-module="para">2017年6月13日，乐视控股(北京)有限公司的法定代表人发生变更，由贾跃亭变更为吴孟；<sup class="sup--normal" data-sup="4">
+[4]</sup><a class="sup-anchor" name="ref_[4]_3110930">&nbsp;</a>
+7月6日，辞去乐视网董事长，并出任<a target=_blank href="/item/%E4%B9%90%E8%A7%86%E6%B1%BD%E8%BD%A6/10088669" data-lemmaid="10088669">乐视汽车</a>生态全球董事长；7月27日晚，乐视网（300104）收到控股股东贾跃亭通知，贾跃亭直接所持乐视网股份被全部冻结。</div><div class="para" label-module="para">2017年11月10日，乐视网发布公告，称贾跃亭在回函中表示无力履行无息借款与增持承诺，“深表歉意”。<sup class="sup--normal" data-sup="5">
+[5]</sup><a class="sup-anchor" name="ref_[5]_3110930">&nbsp;</a>
+  2017年12月12日，贾跃亭被列入了失信被执行人名单，执行法院为北京市第三中级人民法院。<sup class="sup--normal" data-sup="6">
+[6]</sup><a class="sup-anchor" name="ref_[6]_3110930">&nbsp;</a>
+</div><div class="para" label-module="para">2017年12月13日，贾跃亭出任法拉第未来公司CEO。<sup class="sup--normal" data-sup="7">
+[7]</sup><a class="sup-anchor" name="ref_[7]_3110930">&nbsp;</a>
+</div><div class="para" label-module="para">2018年10月9日，乐视网第一大股东贾跃亭所持该公司股份较6月30日累计减少2201.9128万股。<sup class="sup--normal" data-sup="8">
+[8]</sup><a class="sup-anchor" name="ref_[8]_3110930">&nbsp;</a>
+</div>
+</div>
+<div class="configModuleBanner">
+</div><div class="lemmaWgt-focusAndRelation">
+<ul class="focusAndRelation">
+<li class="module relation">
+<div class="flag"><i>人物关系</i><em></em></div>
+<a href="http://baike.baidu.com/subview/2069576/6327948.htm" target="_blank" class="viewPort nslog-area" nslog-type="10000302">
+<img src="https://imgsa.baidu.com/baike/pic/item/8601a18b87d6277f0f807bdb21381f30e824fc47.jpg" />
+</a>
+<div class="hasErrorBox hasErrorHidden">
+<a class="hasError" href="">
+有错误<span class="relateId" style="display:none;">16817</span></a>
+<span class="hadSubError">已反馈</span>
+</div>
+</li>
+<li id="fixBox" class="relateOnlyOne">
+<div class="openFix" title="若关系内容有误，请点击纠错进行反馈">纠错</div>
+<div class="closeFix">关闭纠错</div>
+</li>
+</ul>
+<form id="errFormSub" action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" target="userSubErr" method="post">
+<input id="source_id" name="source_id" type="text" value="" />
+<input id="errForm_query" name="query" type="text" value="" />
+<input id="html_url" name="html_url" type="text" value="" />
+<input id="img_url" name="img_url" type="text" value="" />
+</form>
+<iframe id="userSubErr" name="userSubErr" style="display:none;" frameborder="0">
+</iframe>
+</div>
+<div id="hotspotmining_s" class="clearfix" alog-alias="hotspotmining-subLemma-">
+<div class="anchor-list">
+<a name="hotspotmining" class="lemma-anchor " ></a>
+</div><ul class="hotspotminingNavbar clearfix">
+<li class="active" data-id="374837">恒大合作</li>
+<li  data-id="262213">TA说</li>
+</ul>
+<div id="hotspotminingContent-374837" class="hotspotminingContent clearfix showPic" style="display: block">
+<div class="hotspotminingContent_pic ">
+<a href="https://baike.baidu.com/tashuo/browse/content?id=fbc778d5b0b30a1877e1a574&lemmaId=5757030&lemmaId=5757030&fr=qingtian" target="_blank"><img src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/whfpf%3D180%2C140%2C50/sign=435f157538fae6cd0ce1f821698e3e1c/ca1349540923dd54823a532adc09b3de9c824823.jpg" /></a>
+</div>
+<div class="hotspotminingContent_cnt ">
+<div class="hotspotminingContent_cnt_tit"><span class="hotspotminingContent_cnt_tit_tit"><a href="https://baike.baidu.com/tashuo/browse/content?id=fbc778d5b0b30a1877e1a574&lemmaId=5757030&lemmaId=5757030&fr=qingtian" target="_blank">揭秘恒大与贾跃亭纠纷的事实与隐秘情节</a></span><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/hotspotmining/img/flag_new_c80aa2a.png" />
+<span class="hotspotminingContent_cnt_tit_tim">2018-11-19 20:11</span>
+</div>
+<div class="hotspotminingContent_cnt_cnt">
+<span>纷扰多时的Faraday Future（简称FF）纠纷陷入僵局，到底真相如何？自诞生之日起就引起极大关注的FF又将如何演变？界面新闻试图还原这场跌宕复杂的博弈。</span><a href="https://baike.baidu.com/tashuo/browse/content?id=fbc778d5b0b30a1877e1a574&lemmaId=5757030&lemmaId=5757030&fr=qingtian" target="_blank">...详情</a></div>
+</div>
+<div class="hotspotminingContent_rel ">
+<div class="hotspotminingContent_rel_tit">相关新闻</div>
+<ul class="hotspotminingContent_rel_cnt">
+</ul>
+</div>
+<div class="hotspotminingContent_web">
+内容来自<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/hotspotmining/img/logo_tashuo_33661ef.png">
+</div>
+</div>
+<div id="hotspotminingContent-262213" class="hotspotminingContent clearfix showPic" >
+<div class="hotspotminingContent_pic ">
+<a href="https://baike.baidu.com/tashuo/browse/content?id=f97c8e2647d3a202f5c2c294&fr=qingtian&lemmaId=5757030" target="_blank"><img src="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/whfpf%3D180%2C140%2C50/sign=6e010114c611728b3078df62aec1f2f6/2e2eb9389b504fc26a633e80eedde71190ef6d73.jpg" /></a>
+</div>
+<div class="hotspotminingContent_cnt ">
+<div class="hotspotminingContent_cnt_tit"><span class="hotspotminingContent_cnt_tit_tit"><a href="https://baike.baidu.com/tashuo/browse/content?id=f97c8e2647d3a202f5c2c294&fr=qingtian&lemmaId=5757030" target="_blank">我所了解的贾跃亭</a></span><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/hotspotmining/img/flag_new_c80aa2a.png" />
+<span class="hotspotminingContent_cnt_tit_tim">2017-12-10 12:12</span>
+</div>
+<div class="hotspotminingContent_cnt_cnt">
+<span>2016年11月6日，距离花费巨资召开的旧金山BigBang发布会 （LeEco正式全面落地美国发布会） 仅仅17天之后，没有任何征兆信号与内部知会，老贾发出了题为《乐视的海水与火焰：是被巨浪吞没还是把海洋煮沸？》的全员邮件，亲手引爆了乐视危机。</span><a href="https://baike.baidu.com/tashuo/browse/content?id=f97c8e2647d3a202f5c2c294&fr=qingtian&lemmaId=5757030" target="_blank">...详情</a></div>
+</div>
+<div class="hotspotminingContent_rel ">
+<div class="hotspotminingContent_rel_tit">相关新闻</div>
+<ul class="hotspotminingContent_rel_cnt">
+</ul>
+</div>
+<div class="hotspotminingContent_web">
+内容来自<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/hotspotmining/img/logo_tashuo_33661ef.png">
+</div>
+</div>
+</div>
+<div class="basic-info cmn-clearfix">
+<dl class="basicInfo-block basicInfo-left">
+<dt class="basicInfo-item name">中文名</dt>
+<dd class="basicInfo-item value">
+贾跃亭
+</dd>
+<dt class="basicInfo-item name">国&nbsp;&nbsp;&nbsp;&nbsp;籍</dt>
+<dd class="basicInfo-item value">
+中国
+</dd>
+<dt class="basicInfo-item name">民&nbsp;&nbsp;&nbsp;&nbsp;族</dt>
+<dd class="basicInfo-item value">
+汉族
+</dd>
+<dt class="basicInfo-item name">出生地</dt>
+<dd class="basicInfo-item value">
+山西襄汾
+</dd>
+<dt class="basicInfo-item name">出生日期</dt>
+<dd class="basicInfo-item value">
+1973年2月6日
+</dd>
+<dt class="basicInfo-item name">职&nbsp;&nbsp;&nbsp;&nbsp;业</dt>
+<dd class="basicInfo-item value">
+FF创始人、全球CEO<sup class="sup--normal" data-sup="9">
+[9]</sup><a class="sup-anchor" name="ref_[9]_3110930">&nbsp;</a>
+</dd>
+</dl><dl class="basicInfo-block basicInfo-right">
+<dt class="basicInfo-item name">主要成就</dt>
+<dd class="basicInfo-item value">
+<a target=_blank href="/item/%E4%B9%90%E8%A7%86%E7%BD%91">乐视网</a>创始人、CEO
+<br/>2014十大商业人物
+<br/>2016福布斯中国富豪榜排名第37位
+</dd>
+<dt class="basicInfo-item name">代表作品</dt>
+<dd class="basicInfo-item value">
+乐视网 乐视致新 乐视影业 网酒网
+</dd>
+<dt class="basicInfo-item name">教育背景</dt>
+<dd class="basicInfo-item value">
+企业管理研究生
+</dd>
+<dt class="basicInfo-item name">妻&nbsp;&nbsp;&nbsp;&nbsp;子</dt>
+<dd class="basicInfo-item value">
+甘薇
+</dd>
+</dl></div>
+<div class="lemmaWgt-lemmaCatalog">
+<div class="lemma-catalog">
+<h2 class="block-title">目录</h2>
+<div class="catalog-list column-3">
+<ol>
+<li class="level1">
+<span class="index">1</span>
+<span class="text"><a href="#1">人物经历</a></span>
+</li>
+<li class="level1">
+<span class="index">2</span>
+<span class="text"><a href="#2">个人生活</a></span>
+</li>
+<li class="level1">
+<span class="index">3</span>
+<span class="text"><a href="#3">个人语录</a></span>
+</li>
+</ol><ol><li class="level1">
+<span class="index">4</span>
+<span class="text"><a href="#4">获得荣誉</a></span>
+</li>
+<li class="level1">
+<span class="index">5</span>
+<span class="text"><a href="#5">人物事件</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_1">财款冻结</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_2">责令回国</a></span>
+</li>
+</ol><ol><li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_3">人物话题</a></span>
+</li>
+<li class="level2">
+<span class="index">▪</span>
+<span class="text"><a href="#5_4">列为失信</a></span>
+</li>
+<li class="level1">
+<span class="index">6</span>
+<span class="text"><a href="#6">社会评价</a></span>
+</li>
+</ol>
+
+</div>
+</div>
+</div>
+<div class="anchor-list">
+<a name="1" class="lemma-anchor para-title" ></a>
+<a name="sub3110930_1" class="lemma-anchor " ></a>
+<a name="人物经历" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">贾跃亭</span>人物经历</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="1" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><a class="lemma-album layout-right nslog:10000206" title="贾跃亭图集"  href="/pic/%E8%B4%BE%E8%B7%83%E4%BA%AD/5757030/16381787/6a63f6246b600c339368d8d3184c510fd9f9a193?fr=lemma&ct=cover" target="_blank"  style="width:222px;" nslog-type="10000206">
+<div class="album-wrap" style="width:220px;height:146px;">
+<img class="picture" alt="贾跃亭图集" src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=8a0334232a381f309a198aab99014c67/6a63f6246b600c339368d8d3184c510fd9f9a193.jpg" style="width:220px;height:146px;"/>
+</div>
+<div class="description">
+贾跃亭图集<span class="number">(15张)</span>
+</div>
+<div class="albumBg">
+<div class="albumBgFir" style="width:214px;"></div>
+<div class="albumBgSec" style="width:208px;"></div>
+</div>
+</a>
+</div>
+<div class="para" label-module="para">1995年，任垣曲县地方税务局网络技术管理员；<sup class="sup--normal" data-sup="10">
+[10]</sup><a class="sup-anchor" name="ref_[10]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">1996年，在垣曲县舜王大街开办卓越实业公司；</div>
+<div class="para" label-module="para">2002年，创建山西西贝尔通信科技有限公司；</div>
+<div class="para" label-module="para">2003年，创建西伯尔联合通信科技（北京）有限公司，2007年新加坡主板上市；</div>
+<div class="para" label-module="para">2004年，创建乐视网信息技术（北京）股份有限公司；</div>
+<div class="para" label-module="para">2008年，创建乐视电影公司——<a target=_blank href="/item/%E4%B9%90%E8%A7%86%E5%BD%B1%E4%B8%9A">乐视影业</a>；</div>
+<div class="para" label-module="para">2009年，领导推出第一款乐视TV·云视频超清机Letv-818，采用linux系统；</div>
+<div class="para" label-module="para">2010年，乐视网国内创业板上市；</div>
+<div class="para" label-module="para">2011年，领导推出乐视TV·云视频超清机S10/S11，采用linux系统；</div>
+<div class="para" label-module="para">2012年，领导推出3D产品乐视TV·3D云视频超清机S30/S32，采用linux系统；</div>
+<div class="para" label-module="para">2012年7月，领导推出智能型产品乐视TV·3D云视频智能机T1，采用安卓2.3系统；</div>
+<div class="para" label-module="para">2012年8月，创建乐视互联网电视终端业务公司——乐视致新电子科技（天津）有限公司；</div>
+<div class="para" label-module="para">2012年9月19日，宣布将推出自有品牌的智能电视乐视TV·超级电视；</div>
+<div class="para" label-module="para">2012年12月19日，领导推出业内首款1.5G双核智能机顶盒乐视盒子C1，采用Android 4.1系统；</div>
+<div class="para" label-module="para">2012年12月，创建定位高端葡萄酒消费的电子商务网站<a target=_blank href="/item/%E7%BD%91%E9%85%92%E7%BD%91">网酒网</a>。<sup class="sup--normal" data-sup="11">
+[11]</sup><a class="sup-anchor" name="ref_[11]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2013年3月19日，领导推出乐视盒子C1S，采用Android 4.1系统，由世界顶尖科技服务商富士康专业制造，具有世界级品质；</div>
+<div class="para" label-module="para">2013年5月7日，领导推出60寸乐视TV·超级电视X60，售价6999元与乐视TV·超级电视 S40，售价1999元。</div>
+<div class="para" label-module="para">2013年9月30日，<a target=_blank href="/item/%E4%B9%90%E8%A7%86%E7%BD%91">乐视网</a>发布公告，拟以现金和发行股份相结合的方式购买花儿影视100%的股权，以发行股份的方式购买乐视新媒体 99.5%的股权，并募集配套资金，交易总额为15.98亿元。</div>
+<div class="para" label-module="para">2013年10月10日，领导推出50英寸超级电视S50，定价2499元。这一价格仅是同尺寸智能电视的一半，甚至三分之一。击穿2500元大关和42英寸主流智能电视的价格体系。</div>
+<div class="para" label-module="para">2015年4月14日，发布<a target=_blank href="/item/%E4%B9%90%E8%A7%86%E8%B6%85%E7%BA%A7%E6%89%8B%E6%9C%BA">乐视超级手机</a>系列。</div>
+<div class="para" label-module="para">2016年04月21日，“无破界不生态”新品发布会，在发布了乐视超4 X50和超4 X50 Pro两款电视新品后，紧接着推出乐视超级手机2、乐2 Pro和乐Max 2三款新机<sup class="sup--normal" data-sup="12">
+[12]</sup><a class="sup-anchor" name="ref_[12]_3110930">&nbsp;</a>
+。</div>
+<div class="para" label-module="para">2016年5月4日，《新财富500富人榜》出炉，贾跃亭家族以财富是640亿元，并列第八。<sup class="sup--normal" data-sup="13">
+[13]</sup><a class="sup-anchor" name="ref_[13]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2016年5月8日，贾跃亭成为中国企业家俱乐部理事成员。<sup class="sup--normal" data-sup="14">
+[14]</sup><a class="sup-anchor" name="ref_[14]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2016年8月5日，<a target=_blank href="/item/%E4%B9%90%E8%A7%86">乐视</a>完成酷派收购，乐视创始人贾跃亭获任酷派董事会主席及提名委员会主席。<sup class="sup--normal" data-sup="15">
+[15]</sup><a class="sup-anchor" name="ref_[15]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2016年10月13日，2016年胡润百富榜，贾跃亭以420亿财富排名第31位。<sup class="sup--normal" data-sup="1">
+[1]</sup><a class="sup-anchor" name="ref_[1]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2016年10月18日，2016胡润IT富豪榜发布，贾跃亭以355亿元排名第八。<sup class="sup--normal" data-sup="2">
+[2]</sup><a class="sup-anchor" name="ref_[2]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2016年10月27日，2016福布斯中国富豪榜公布，贾跃亭排名第37位。<sup class="sup--normal" data-sup="3">
+[3]</sup><a class="sup-anchor" name="ref_[3]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2016年11月6日，乐视控股CEO贾跃亭发布全员信回应近日公司供应链传闻，并表示其本人自愿永远只领取公司1元年薪<sup class="sup--normal" data-sup="16">
+[16]</sup><a class="sup-anchor" name="ref_[16]_3110930">&nbsp;</a>
+。</div>
+<div class="para" label-module="para">2017年4月20日，贾跃亭发布《致股东信》，贾跃亭在信中表示，乐视网2016年营收超200亿元，市值超过600亿<sup class="sup--normal" data-sup="17">
+[17]</sup><a class="sup-anchor" name="ref_[17]_3110930">&nbsp;</a>
+。</div>
+<div class="para" label-module="para">2017年5月21日，贾跃亭申请辞去总经理职务，专任董事长一职。<sup class="sup--normal" data-sup="18">
+[18]</sup><a class="sup-anchor" name="ref_[18]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2017年6月7日，贾跃亭任乐视汽车董事长。<sup class="sup--normal" data-sup="19">
+[19]</sup><a class="sup-anchor" name="ref_[19]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2017年7月6日，辞去乐视网董事长，并出任<a target=_blank href="/item/%E4%B9%90%E8%A7%86%E6%B1%BD%E8%BD%A6">乐视汽车</a>生态全球董事长。<sup class="sup--normal" data-sup="20">
+[20]</sup><a class="sup-anchor" name="ref_[20]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2017年7月下旬，贾跃亭直接所持乐视网股份被全部冻结。截至2017年7月27日，贾跃亭新增被北京市第三中级人民法院等轮候冻结股份数量358493.3254万股，轮候期限为36个月，占总股本179.72%；乐视控股所持乐视网股份新增被北京市第三中级人民法院等轮候冻结股份数量6670.578万股，轮候期限为36个月，占总股本3.34%。此次股份被司法冻结，主要系贾跃亭为乐视手机业务融资承担个人连带担保引发的财产保全所致，冻结仅限于贾跃亭与乐视控股自身持有的股份，不会对其他股东股份造成影响。<sup class="sup--normal" data-sup="21">
+[21]</sup><a class="sup-anchor" name="ref_[21]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2017年8月17日，乐视网发布公告称，公司完成工商变更登记并取得换发营业执照。公告显示，乐视网法人代表由之前的贾跃亭变更为梁军(乐视网总经理)。<sup class="sup--normal" data-sup="22">
+[22]</sup><a class="sup-anchor" name="ref_[22]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2017年12月13日，贾跃亭出任法拉第未来公司公司CEO。<sup class="sup--normal" data-sup="7">
+[7]</sup><a class="sup-anchor" name="ref_[7]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2018年7月13日，FF官方微信公众号发布的文章中表示，贾跃亭的职务则是FF创始人、全球CEO。<sup class="sup--normal" data-sup="9">
+[9]</sup><a class="sup-anchor" name="ref_[9]_3110930">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="2" class="lemma-anchor para-title" ></a>
+<a name="sub3110930_2" class="lemma-anchor " ></a>
+<a name="个人生活" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">贾跃亭</span>个人生活</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="2" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para"><div class="lemma-picture text-pic layout-right" style="width:220px; text-indent: 28px; cursor: move; float: right;">
+<a class="image-link" nslog-type="9317" 
+			href="/pic/%E8%B4%BE%E8%B7%83%E4%BA%AD/5757030/0/4d086e061d950a7bd396369b09d162d9f3d3c9ca?fr=lemma&ct=single" target="_blank"
+		title="贾跃亭微博截图" style="width:220px;height:191px;">
+<img  class="lazy-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAMAAAAoyzS7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF9fX1AAAA0VQI3QAAAAxJREFUeNpiYAAIMAAAAgABT21Z4QAAAABJRU5ErkJggg==" data-src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=539c17c0a70f4bfb88d09956334e788f/4d086e061d950a7bd396369b09d162d9f3d3c9ca.jpg"  alt="贾跃亭微博截图" style="width:220px;height:191px;"/>
+</a>
+<span class="description">
+贾跃亭微博截图
+</span>
+</div>2014年11月22日，贾跃亭因患<a target=_blank href="/item/%E8%83%B8%E8%85%BA%E7%98%A4">胸腺瘤</a>而在香港接受了手术治疗，手术进行的十分顺利，即将进行第二阶段治疗。乐视控股公关部随即确认了这一消息。<sup class="sup--normal" data-sup="23">
+[23]</sup><a class="sup-anchor" name="ref_[23]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2014年11月24日晚间，易凯资本有限公司CEO<a target=_blank href="/item/%E7%8E%8B%E5%86%89/40231" data-lemmaid="40231">王冉</a>称，听说乐视CEO贾跃亭已经回北京，正在医院接受手术后的第二阶段治疗。<sup class="sup--normal" data-sup="24">
+[24]</sup><a class="sup-anchor" name="ref_[24]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2014年11月25日，乐视网在上海举办年度营销推介会上，会议开始的第一个环节，乐视网网站事业群执行总裁高飞表示：老贾回来了。他表示，随着很多东西的尘埃落定，很多事情都会清者自清。<sup class="sup--normal" data-sup="23">
+[23]</sup><a class="sup-anchor" name="ref_[23]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2014年11月26日，贾跃亭确认其已经从香港回到北京。贾跃亭称，自己“香港手术顺利，已回京住院进一步治疗。”<sup class="sup--normal" data-sup="23">
+[23]</sup><a class="sup-anchor" name="ref_[23]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2014年12月10日，妻子<a target=_blank href="/item/%E7%94%98%E8%96%87/16817" data-lemmaid="16817">甘薇</a>诞下双胞胎女儿。<sup class="sup--normal" data-sup="25">
+[25]</sup><a class="sup-anchor" name="ref_[25]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2016年8月23日，妻子甘薇再次为贾跃亭诞下一个儿子。<sup class="sup--normal" data-sup="26">
+[26]</sup><a class="sup-anchor" name="ref_[26]_3110930">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="3" class="lemma-anchor para-title" ></a>
+<a name="sub3110930_3" class="lemma-anchor " ></a>
+<a name="个人语录" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">贾跃亭</span>个人语录</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="3" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">“勇于创新，敢于做不一样的事儿一直是乐视战略秉承的理念之一。当大家都看到机会的时候，这件事儿做起来就没有太大的价值了。”<sup class="sup--normal" data-sup="27">
+[27]</sup><a class="sup-anchor" name="ref_[27]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">“跨界创新一直是乐视的一个重要发展策略,这其中包括硬件创新,技术创新,体验创新,营销模式创新以及盈利模式创新。过去十年乐视的发展,就是基于用户不断进行跨界创新,这也是乐视生态布局的重要思想。”<sup class="sup--normal" data-sup="28">
+[28]</sup><a class="sup-anchor" name="ref_[28]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">“99%的人不看好的事情，才有可能成就颠覆。”<sup class="sup--normal" data-sup="29">
+[29]</sup><a class="sup-anchor" name="ref_[29]_3110930">&nbsp;</a>
+<b></b></div>
+<div class="para" label-module="para">“我没有时间准备。就正常地表述了自己的想法。”<sup class="sup--normal" data-sup="30">
+[30]</sup><a class="sup-anchor" name="ref_[30]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">“互联网时代，人们忙碌了一天回到家，手机一挥，手机中未播放完的乐视网高清影片出现在客厅的乐视超级电视上继续播放，喝一杯在网酒网订购的法国红酒，通过乐视网观看乐视影业出品和发行的电影《小时代》”。<sup class="sup--normal" data-sup="31">
+[31]</sup><a class="sup-anchor" name="ref_[31]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">“为什么叫梦想呢，很多你做出来的梦，现实中根本不存在，等你讲起来，人家会认为你是在做梦。”<sup class="sup--normal" data-sup="32">
+[32]</sup><a class="sup-anchor" name="ref_[32]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">超级电视S50现货销售再次创造历史，标志着垂直整合的乐视生态模式，颠覆了传统，得到了消费者充分认同。这是电视行业的历史转折点，是消费者接受互联网CP2C直达用户模式的里程碑。@超级电视 不是一台电视，而是一套完整的大屏生态系统，一直被模仿，不可被超越。感谢乐迷！<sup class="sup--normal" data-sup="33">
+[33]</sup><a class="sup-anchor" name="ref_[33]_3110930">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="4" class="lemma-anchor para-title" ></a>
+<a name="sub3110930_4" class="lemma-anchor " ></a>
+<a name="获得荣誉" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">贾跃亭</span>获得荣誉</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="4" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">2014年，贾跃亭获“2014十大商业人物”。<sup class="sup--normal" data-sup="34">
+[34]</sup><a class="sup-anchor" name="ref_[34]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2014年，获得“福布斯2014中国上市公司50位最佳CEO”。<sup class="sup--normal" data-sup="35">
+[35]</sup><a class="sup-anchor" name="ref_[35]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">2014年，中国400富豪榜第78名。<sup class="sup--normal" data-sup="36">
+[36]</sup><a class="sup-anchor" name="ref_[36]_3110930">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="5" class="lemma-anchor para-title" ></a>
+<a name="sub3110930_5" class="lemma-anchor " ></a>
+<a name="人物事件" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">贾跃亭</span>人物事件</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="5" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="anchor-list">
+<a name="5_1" class="lemma-anchor para-title" ></a>
+<a name="sub3110930_5_1" class="lemma-anchor " ></a>
+<a name="财款冻结" class="lemma-anchor " ></a>
+<a name="5-1" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">贾跃亭</span>财款冻结</h3>
+</div>
+<div class="para" label-module="para">2017年6月26日，招商银行股份有限公司上海川北支行于向上海市高级人民法院申请财产保全，请求冻结被申请人乐风移动香港有限公司、乐视移动智能信息技术（北京）有限公司、乐视控股（北京）有限公司、贾跃亭、甘薇名下银行存款共计人民币1236584434.07元，或查封、扣押其他等值财产，并以自身财产提供了信用担保。<sup class="sup--normal" data-sup="37">
+[37]</sup><a class="sup-anchor" name="ref_[37]_3110930">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="5_2" class="lemma-anchor para-title" ></a>
+<a name="sub3110930_5_2" class="lemma-anchor " ></a>
+<a name="责令回国" class="lemma-anchor " ></a>
+<a name="5-2" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">贾跃亭</span>责令回国</h3>
+</div>
+<div class="para" label-module="para">2018年1月2日，贾跃亭发布关于《北京证监局责令贾跃亭回国履责通告》的回应函。委托贾跃民于2017年12月29日下午前往北京证监局进行了当面沟通和汇报。贾跃亭再次对乐视体系公司债务危机引发的影响表示歉意，承诺“一定竭尽全力解决债务问题”，并已委托甘薇、贾跃民全权代理行使上市公司股东权利和履行股东责任。<sup class="sup--normal" data-sup="38">
+[38]</sup><a class="sup-anchor" name="ref_[38]_3110930">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="5_3" class="lemma-anchor para-title" ></a>
+<a name="sub3110930_5_3" class="lemma-anchor " ></a>
+<a name="人物话题" class="lemma-anchor " ></a>
+<a name="5-3" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">贾跃亭</span>人物话题</h3>
+</div>
+<div class="para" label-module="para">2017年11月，“下周回国贾跃亭”已经成为网上著名的段子。已经赴美四个多月的贾跃亭表示，首要任务是完成FF的A轮融资，因此暂时还不会回国。因为他担心，“一旦回国之后又来不了美国，FF的融资就没戏了，就垮了。”</div>
+<div class="para" label-module="para">贾跃亭始终是个话题人物，公开面对媒体“实话实说”是第一次。腾讯《棱镜》发布了一篇独家对话贾跃亭的报道《赴美这四个月，我想了些什么》，其中贾跃亭对很多外界关注的话题第一次做出了回应。在这次长达150分钟的对话中，贾跃亭对一些事情承认自己当初过于“决断”，比如在造车问题上的“冒进”才导致了如今的局面；但他也对外界一些揣测坚决予以澄清，比如关于当初乐视网IPO存在造假的传言，以及关于他从乐视攫取了巨额财产等。</div>
+<div class="para" label-module="para">这是有关贾跃亭和乐视比较正面的一篇报道，因此也被乐视控股的员工广为传播，不过乐视控股方面并没有就此发表具体评论。<sup class="sup--normal" data-sup="39">
+[39]</sup><a class="sup-anchor" name="ref_[39]_3110930">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="5_4" class="lemma-anchor para-title" ></a>
+<a name="sub3110930_5_4" class="lemma-anchor " ></a>
+<a name="列为失信" class="lemma-anchor " ></a>
+<a name="5-4" class="lemma-anchor " ></a>
+</div><div class="para-title level-3" label-module="para-title">
+<h3 class="title-text"><span class="title-prefix">贾跃亭</span>列为失信</h3>
+</div>
+<div class="para" label-module="para">2018年5月17日发布，贾跃亭与国泰君安证券之间的纠纷。贾跃亭应向国泰君安证券支付融资本金人民币3亿元，但贾跃亭的履行情况为全部未履行。被北京市第三中级人民法院列为失信被执行人。在这一案件中，贾跃亭也再次被列为失信被执行人。<sup class="sup--normal" data-sup="40">
+[40]</sup><a class="sup-anchor" name="ref_[40]_3110930">&nbsp;</a>
+</div><div class="anchor-list">
+<a name="6" class="lemma-anchor para-title" ></a>
+<a name="sub3110930_6" class="lemma-anchor " ></a>
+<a name="社会评价" class="lemma-anchor " ></a>
+</div><div class="para-title level-2" label-module="para-title">
+<h2 class="title-text"><span class="title-prefix">贾跃亭</span>社会评价</h2>
+<a class="edit-icon j-edit-link" data-edit-dl="6" href="javascript:;"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-lemma"></em>编辑</a>
+</div>
+<div class="para" label-module="para">作为乐视的掌舵者，贾跃亭，就是一个喜欢颠覆的人。版权分销、视频第一股、盒子、超级电视……乐视几乎成了近几年网络视频行业的“弄潮儿”，不断成为“第一个吃螃蟹的人”。<i>（证券日报评）</i><sup class="sup--normal" data-sup="41">
+[41]</sup><a class="sup-anchor" name="ref_[41]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">贾跃亭只去过一次美国。他最喜欢的就是马刺队更衣室里那一句话：当一切看起来无可挽回之时，我跑去看石匠重复捶击他面前的岩石一百次，而那块石头连一个裂缝都没有露出来。接下来的第一百零一次捶击之时，此石一分为二。不是因为这一次捶击，而是因为你的始终如一。<i>（外滩画报评）</i><sup class="sup--normal" data-sup="42">
+[42]</sup><a class="sup-anchor" name="ref_[42]_3110930">&nbsp;</a>
+</div>
+<div class="para" label-module="para">从外形与言谈看，贾确实不具备电视杀手的气质，但不要忽略隐藏在他消瘦身躯中偏执的力量。贾跃亭或许将自己定位于《疯狂原始人》中的新人类盖，而那些质疑者如同仍在迷恋洞穴的瓜哥。贾的样本意义在于：他会为如何在大屏领域打造一种闭环生态系统，以及需要怎样的产业链控制力、多大的用户规模才能够形成价值正循环，充当小白鼠，这也是乔布斯留下的难题之一。<i>（中国企业家评）</i><sup class="sup--normal" data-sup="43">
+[43]</sup><a class="sup-anchor" name="ref_[43]_3110930">&nbsp;</a>
+</div>
+<div class="go-auth-box">
+<div class="go-auth-con">
+<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_info"></em>
+百度百科内容由网友共同编辑，如您发现自己的词条内容不准确或不完善，欢迎使用本人词条编辑服务（免费）参与修正。<a href="/personal/auth/贾跃亭/5757030?bk_fr=lemma" target="_blank" nslog-type="10090202">立即前往>></a>
+</div>
+</div>
+<div class="anchor-list">
+<a name="a" class="lemma-anchor a" ></a>
+</div><div class="album-list">
+<div class="header">
+<span class="title">词条图册</span>
+<a class="more-link" href="/pic/%E8%B4%BE%E8%B7%83%E4%BA%AD/5757030?fr=lemma" target="_blank" nslog-type="10000204">更多图册<em></em></a>
+</div>
+<div class="scroller">
+<div class="list">
+</div>
+</div>
+<div class="footer">
+</div>
+</div>
+<div class="tashuo-bottom" id="tashuo_bottom">
+<div class="tashuo-bottom-title-essence">
+<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/ta-logo-blue_6da9967.png" alt="">
+<span>解读词条背后的知识</span>
+<a href="/tashuo/topic?topicId=ad8965055d00f6c20cc8f4e5&fromLemmaModule=pcBottom" class="tashuo-more" target="_blank">查看全部<em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_arrow-right"></em></a>
+</div>
+<div class="tashuo-multiple">
+<div class="tashuo-wrapper">
+<div class="tashuo-view">
+<ul class="tashuo-slider maqueeCanvas" style="width:1968px">
+<li class="slider-item">
+<ul class="tashuo-list">
+<li class="tashuo-item J-item" data-tashuoId="fbc778d5b35d091876e1a506">
+<div class="tashuo-author">
+<a href="/tashuo/authorcenter?authorId=e8676af1bf86bab8aa1c6227" target="_blank">
+<div class="ta-author-area"><span><img src="https://imgsa.baidu.com/baike/pic/item/c83d70cf3bc79f3d4ed32ef4b6a1cd11738b29c0.jpg" /></span></div>
+<div class="ta-author-slogan-area">
+<strong>若若</strong>
+<span>TA说作者</span>
+</div>
+</a>
+</div>
+<a href="/tashuo/browse/content?id=fbc778d5b35d091876e1a506&lemmaId=&fromLemmaModule=pcBottom" class="cover" target="_blank">
+<img src="https://imgsa.baidu.com/baike/pic/item/9358d109b3de9c822b196f226681800a19d8431b.jpg" data-width="500" data-height="334" class="cover-img">
+<div class="overlay"><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/overlay_1ccc6d9.png"></div>
+<p class="title">
+贾跃亭的前世今生
+</p></a>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=fbc778d5b35d091876e1a506&lemmaId=&fromLemmaModule=pcBottom" target="_blank">
+贾跃亭是中国企业界名人，乐视网千疮百孔，麻烦越来越大、越来越多。但是很多人都不知道，贾跃亭是如何攫取他的第一桶金的。本系列就好好扒一扒，看看他是怎么从一个农村人，一跃而成为中国企业界呼风唤雨的人物，进而又是怎么把乐视经营得一团糟、自己还能成为百亿富翁的。1973年2月，贾跃...</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2017-07-17</span><span class="tashuo-like J-like " data-isvote="0"><i></i><strong class="J-number">2004</strong></span>
+</div>
+</li>
+<li class="tashuo-item J-item" data-tashuoId="6774351af13152499a335672">
+<div class="tashuo-author">
+<a href="/tashuo/authorcenter?authorId=eca9aca482087f4ed5278825" target="_blank">
+<div class="ta-author-area"><span><img src="https://imgsa.baidu.com/baike/pic/item/29381f30e924b8999bc592e162061d950b7bf66a.jpg" /></span></div>
+<div class="ta-author-slogan-area">
+<strong>爱范儿</strong>
+<span>聚焦新创和消费主题的科技媒体</span>
+</div>
+<i></i></a>
+</div>
+<a href="/tashuo/browse/content?id=6774351af13152499a335672&lemmaId=&fromLemmaModule=pcBottom" class="cover" target="_blank">
+<img src="https://imgsa.baidu.com/baike/pic/item/18d8bc3eb13533fa2fe851efa3d3fd1f40345b91.jpg" data-width="1024" data-height="683" class="cover-img">
+<div class="overlay"><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/overlay_1ccc6d9.png"></div>
+<p class="title">
+贾跃亭有没有在造车？独家探访法拉第未来公司，现场直击14台FF91
+</p></a>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=6774351af13152499a335672&lemmaId=&fromLemmaModule=pcBottom" target="_blank">
+贾老板在上班吗？在游走过程中，FF 工作人员告诉我们，没准在哪就能碰到贾老板，并且证明贾老板非常认真的在工作。</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2018-01-24</span><span class="tashuo-like J-like " data-isvote="0"><i></i><strong class="J-number">762</strong></span>
+</div>
+</li>
+<li class="tashuo-item J-item" data-tashuoId="b699ee5347ea82862bfa14b2">
+<div class="tashuo-author">
+<a href="/tashuo/authorcenter?authorId=afa769b974bac541c9cfd720" target="_blank">
+<div class="ta-author-area"><span><img src="https://imgsa.baidu.com/baike/pic/item/bd315c6034a85edfc5d4809343540923dd547521.jpg" /></span></div>
+<div class="ta-author-slogan-area">
+<strong>AI财经社</strong>
+<span>专注未来，以及更好的生活</span>
+</div>
+<i></i></a>
+</div>
+<a href="/tashuo/browse/content?id=b699ee5347ea82862bfa14b2&lemmaId=&fromLemmaModule=pcBottom" class="cover" target="_blank">
+<img src="https://imgsa.baidu.com/baike/pic/item/6d81800a19d8bc3eb9caa979898ba61ea9d34546.jpg" data-width="550" data-height="381" class="cover-img">
+<div class="overlay"><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/overlay_1ccc6d9.png"></div>
+<p class="title">
+贾跃亭承认“穷”违背借钱诺言，负债174亿的乐视网会追责吗？
+</p></a>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=b699ee5347ea82862bfa14b2&lemmaId=&fromLemmaModule=pcBottom" target="_blank">
+在监管问询和乐视网两次发函催促下，贾跃亭姐弟终于承认，目前无力履行借款给上市公司的承诺。11月10日，乐视网公告披露贾跃亭及贾跃芳关于借款给上市公司的回复函，贾跃亭称，因2016 年下半年，乐视非上市体系及其本人出现资金危机，至 2017 年上半年，资金危机持续加重，其本人...</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2017-11-11</span><span class="tashuo-like J-like " data-isvote="0"><i></i><strong class="J-number">708</strong></span>
+</div>
+</li>
+<li class="tashuo-item J-item" data-tashuoId="f97c8e2647d3a202f5c2c294">
+<div class="tashuo-author">
+<a href="/tashuo/authorcenter?authorId=02c9b57396d29adc821a9925" target="_blank">
+<div class="ta-author-area"><span><img src="https://imgsa.baidu.com/baike/pic/item/72f082025aafa40f4c1a2504a764034f79f0190e.jpg" /></span></div>
+<div class="ta-author-slogan-area">
+<strong>虎嗅网</strong>
+<span>虎嗅网官方账号</span>
+</div>
+<i></i></a>
+</div>
+<a href="/tashuo/browse/content?id=f97c8e2647d3a202f5c2c294&lemmaId=&fromLemmaModule=pcBottom" class="cover" target="_blank">
+<img src="https://imgsa.baidu.com/baike/pic/item/63d0f703918fa0ecbbce20a62d9759ee3d6ddb14.jpg" data-width="998" data-height="750" class="cover-img">
+<div class="overlay"><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/overlay_1ccc6d9.png"></div>
+<p class="title">
+我所了解的贾跃亭
+</p></a>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=f97c8e2647d3a202f5c2c294&lemmaId=&fromLemmaModule=pcBottom" target="_blank">
+本文作者曾在乐视担任公关相关职务，亲历乐视2016年的波峰、2017年的波谷。那么在他的眼中，乐视究竟是一家什么样的企业？贾跃亭是什么样的人？孙宏斌给乐视带来了什么影响？下面是作者的一家之言，虎嗅编发时有删节。 去年11月6日，距离花费巨资召开的旧金山BigBang发布会 ...</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2017-12-09</span><span class="tashuo-like J-like " data-isvote="0"><i></i><strong class="J-number">706</strong></span>
+</div>
+</li>
+</ul>
+</li>
+<li class="slider-item">
+<ul class="tashuo-list">
+<li class="tashuo-item J-item" data-tashuoId="0cbc6fa2b332c838f30e0401">
+<div class="tashuo-author">
+<a href="/tashuo/authorcenter?authorId=51917f417947fa5470672f26" target="_blank">
+<div class="ta-author-area"><span><img src="https://imgsa.baidu.com/baike/pic/item/0d338744ebf81a4c17722208dc2a6059242da6ab.jpg" /></span></div>
+<div class="ta-author-slogan-area">
+<strong>君临</strong>
+<span>成长股投资服务平台</span>
+</div>
+<i></i></a>
+</div>
+<a href="/tashuo/browse/content?id=0cbc6fa2b332c838f30e0401&lemmaId=&fromLemmaModule=pcBottom" class="cover" target="_blank">
+<img src="https://imgsa.baidu.com/baike/pic/item/ae51f3deb48f8c548e4f9fbb30292df5e1fe7f81.jpg" data-width="640" data-height="427" class="cover-img">
+<div class="overlay"><img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/tashuo/img/overlay_1ccc6d9.png"></div>
+<p class="title">
+乐视烧掉一千亿，大败局的血泪教训
+</p></a>
+<p class="abstract">
+<a href="/tashuo/browse/content?id=0cbc6fa2b332c838f30e0401&lemmaId=&fromLemmaModule=pcBottom" target="_blank">
+乐视生态帝国正在分崩离析。上周，贾跃亭辞去上市公司董事长职位，160亿元的股权被冻结，旗下业务一个个的被变卖、清算，已经没有哪个好同学还能够将他拯救于水火之中了。乐视之败，败在哪？败在他的贪婪与野心。乐视上市八年来，在一级市场、二级市场，累计募集了上千亿元的资本，业务涉及电...</a>
+</p>
+<div class="tashuo-operator">
+<span class="tashuo-publish-date">2017-07-13</span><span class="tashuo-like J-like " data-isvote="0"><i></i><strong class="J-number">674</strong></span>
+</div>
+</li>
+</ul>
+</li>
+</ul></div>
+<div class="tashuo-bottom-pager"></div>
+</div>
+</div>
+</div>
+<div class="rs-container-foot">
+<a name="rs-1"></a>
+<a name="rs_3110930_14305" class="anchor-2"></a>
+<div id="rs-container-3110930-14305" class="rslazy rs-container" lazy-init="lemmars.tableAction(baidu.g('rs-3110930-14305'))"></div>
+</div><script type="text/javascript">
+        window.rsInsertData = window['rsInsertData'] || [];
+        var rsdataList = {"foot":[{"fentryTableId":14305,"fentryTableName":"2012\u80e1\u6da6\u5c11\u58ee\u6d3e\u5bcc\u8c6a\u699c","fentryTableType":1,"entryId":2390714,"templateId":0,"entryTitle":"2012\u80e1\u6da6\u5c11\u58ee\u6d3e\u5bcc\u8c6a\u699c","isManual":0,"isExpand":1}],"top":[]};
+
+        if (rsdataList.top || rsdataList.foot) {
+            rsInsertData.push([3110930, rsdataList]);
+        }
+    </script>
+<dl class="lemma-reference collapse nslog-area log-set-param" data-nslog-type="2" log-set-param="ext_reference">
+<dt class="reference-title">参考资料</dt>
+<dd class="reference-list-wrap">
+<ul class="reference-list">
+<li class="reference-item reference-item--type1 " id="reference-[1]-3110930-wrap">
+<span class="index">1.</span>
+<a class="gotop anchor"  name="refIndex_1_3110930" id="refIndex_1_3110930" title="向上跳转" href="#ref_[1]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/04e6OMtbahFkSe2yE4CON91Auq2jTVQjcNSc1JkaAQsOMY686m6DSnXfp3-X1a1Kzx67w8Ay8iZUuCWavCt4td0DvrR8" target="_blank" class="text">2016胡润百富榜：王健林以2150亿元三度成首富<span class="linkout">&nbsp;</span></a>
+<span class="site">．腾讯新闻</span><span>&#91;引用日期2016-10-14&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[2]-3110930-wrap">
+<span class="index">2.</span>
+<a class="gotop anchor"  name="refIndex_2_3110930" id="refIndex_2_3110930" title="向上跳转" href="#ref_[2]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/99a8JhaqLDoYAzozyJyo9vfDKGIWinQCblX6hFVn3hD4pW5wuyH0YCJ8Y1WBBKtavv8vs8StPCdaUNGL3SnPmTcTQk2p2FS0X1bLwTRx0MsTMgKiP3HrVRU09TPAgSkyTKWz-4gYjw" target="_blank" class="text">2016胡润IT富豪榜：马云马化腾两匹马高居前两位<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪网</span><span>&#91;引用日期2016-10-18&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[3]-3110930-wrap">
+<span class="index">3.</span>
+<a class="gotop anchor"  name="refIndex_3_3110930" id="refIndex_3_3110930" title="向上跳转" href="#ref_[3]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/ff2dfuYoOnmg9dQcU__MCZPuk_pvx7s1PB-vTuf5C-QYMXIvwmVb3b2H2Wxnb3LH939zYWtAkO0DOfToiaG_KU8pO8M3QgLG2IR3uN37vau3ufDo6gbSTOWhhA" target="_blank" class="text">福布斯2016中国富豪排行榜公布：王健林蝉联第一 二马紧随<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪科技</span><span>&#91;引用日期2016-10-27&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[4]-3110930-wrap">
+<span class="index">4.</span>
+<a class="gotop anchor"  name="refIndex_4_3110930" id="refIndex_4_3110930" title="向上跳转" href="#ref_[4]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/2d7euebL6P1BJCBnpAxmMJMSAteF7xG3wbStf7iCBk_cS30ed2lQN9lYluCQDCQhZmrX6005dUj3NHN6G9vIEu6gvryicCaMpGPHb1SSrxUGT2gy" target="_blank" class="text">贾跃亭不再担任乐视控股法定代表人 | 新京报财讯<span class="linkout">&nbsp;</span></a>
+<span class="site">．新京报</span><span>&#91;引用日期2017-07-18&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[5]-3110930-wrap">
+<span class="index">5.</span>
+<a class="gotop anchor"  name="refIndex_5_3110930" id="refIndex_5_3110930" title="向上跳转" href="#ref_[5]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/65beSALKpEq0qZXQ92p-rdVgJK9xqKgLwgFR_f2NVNaha8UtXoDKJNOdu_HD4ZO-1uuytJbOanl90SDaJqw78-42irhqY8jgKh1UAcpSNdt6GAxdBWn__w" target="_blank" class="text">乐视网：贾跃亭称无力履行无息借款与增持承诺<span class="linkout">&nbsp;</span></a>
+<span class="site">．腾讯</span><span>&#91;引用日期2017-11-10&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[6]-3110930-wrap">
+<span class="index">6.</span>
+<a class="gotop anchor"  name="refIndex_6_3110930" id="refIndex_6_3110930" title="向上跳转" href="#ref_[6]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/dd3eduJ3urp0ujlBzuA275Or6Wq0ekdCis31HXTKIDofaVsIU8G7mrJ56XZ4wynd9i8evJWGa8Twm-xV9jx4Io3-x9LfOhIFzchA7ICzmkZpPkdSawfjzZA564w" target="_blank" class="text">贾跃亭被北京市三中法院列入“老赖”名单<span class="linkout">&nbsp;</span></a>
+<span class="site">．凤凰网</span><span>&#91;引用日期2017-12-14&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[7]-3110930-wrap">
+<span class="index">7.</span>
+<a class="gotop anchor"  name="refIndex_7_3110930" id="refIndex_7_3110930" title="向上跳转" href="#ref_[7]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/31d5YBUUNI4Xiq72ME9PO2-gA5CyRtBlZKqGtw3m-n5FHhTycjpWygYaixqRXYuQ2zr7LC8DgN8kQi98jFLET_I5obCTd_VQ-L39DKvVoSVaiE8U_FaUusdzAHSxD-38XiGSXsZHGhF1cpAb" target="_blank" class="text">贾跃亭出任CEO，宣布FF完成10亿美元融资 网友：“民族英雄”<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪</span><span>&#91;引用日期2017-12-19&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[8]-3110930-wrap">
+<span class="index">8.</span>
+<a class="gotop anchor"  name="refIndex_8_3110930" id="refIndex_8_3110930" title="向上跳转" href="#ref_[8]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/7d22i-o97mcfWy-V95qJM8T2RVRQRhEdczKPhzu7NiFwv4uc6_qQLZU4MkxgFvEMUf-rkILmR7WmnAg7H8MLa4pkZ0D-kyOmJVc" target="_blank" class="text">贾跃亭回应减持2202万股乐视网：法院未通知直接处置还债<span class="linkout">&nbsp;</span></a>
+<span class="site">．搜狐</span><span>&#91;引用日期2018-10-18&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[9]-3110930-wrap">
+<span class="index">9.</span>
+<a class="gotop anchor"  name="refIndex_9_3110930" id="refIndex_9_3110930" title="向上跳转" href="#ref_[9]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/97c8lWWAz1cnSwBV7nFjU2X1ZAbaBMqo6vDUkrUVzYGVKlo83uCuxCn6xnKJUeLtGUJVmLIkiiDyJnl3ezFAsibqz5xOsg" target="_blank" class="text">FF官宣：恒大夏海钧兼任董事长 贾跃亭留任CEO<span class="linkout">&nbsp;</span></a>
+<span class="site">．腾讯</span><span>&#91;引用日期2018-07-15&#93;</span></li><li class="reference-item reference-item--type1 " id="reference-[10]-3110930-wrap">
+<span class="index">10.</span>
+<a class="gotop anchor"  name="refIndex_10_3110930" id="refIndex_10_3110930" title="向上跳转" href="#ref_[10]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/378fV4_vVFrpBbQvmI_w46MqefZoosJsznsZFPI52h7iY_ikehvY9Ofypvat0nqiq3yn_3IojNj1KorYttfsUM8qikQpeRNJVQ" target="_blank" class="text">乐视网贾跃亭：“贾布斯”的超级电视野心<span class="linkout">&nbsp;</span></a>
+<span class="site">．搜狐</span><span>．2013-05-27</span><span>&#91;引用日期2014-02-26&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[11]-3110930-wrap">
+<span class="index">11.</span>
+<a class="gotop anchor"  name="refIndex_11_3110930" id="refIndex_11_3110930" title="向上跳转" href="#ref_[11]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/8938_oyvUwqx7tydkgzl-D8AStSBQLzpxDD70zdYt2h3QkR5oRyqqeZVjzns0-yqu5VeggVOAfjX9tFj6rG5JkVH775A2hA98X2onqL6JDaVCp5Gyj8" target="_blank" class="text">国内首家高端进口葡萄酒电商平台正式上线 打造全程保真<span class="linkout">&nbsp;</span></a>
+<span class="site">．赛迪网</span><span>．2012-12-04</span><span>&#91;引用日期2013-10-30&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[12]-3110930-wrap">
+<span class="index">12.</span>
+<a class="gotop anchor"  name="refIndex_12_3110930" id="refIndex_12_3110930" title="向上跳转" href="#ref_[12]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/9ee6jXXOQ2eZH4wiOFSs2xtwk1U45dfkt7PEME7LfldKsphE0pOf05rQUP4E_RU5OFC6zLDx_AmHWN2Ulsc0Yx8P78R2_SnxW1B5eNzFQop4ObuB" target="_blank" class="text">乐视超级手机2/乐2 Pro/乐Max2发布：1099元起售<span class="linkout">&nbsp;</span></a>
+<span class="site">．人民网</span><span>&#91;引用日期2016-04-21&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[13]-3110930-wrap">
+<span class="index">13.</span>
+<a class="gotop anchor"  name="refIndex_13_3110930" id="refIndex_13_3110930" title="向上跳转" href="#ref_[13]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/c43aBpKM4n_uMFyfSUH5lrJZzMy7MmEWQwWv_0Z5Zb5VT7nEMwZ_ki0yGOiEnFuJYpjWhzr8weAoDLEKmYy3FIQRkQ2rNzpDQc8Ou3uq" target="_blank" class="text">2016新财富500富人榜：王思聪、奶茶妹妹冲进前11<span class="linkout">&nbsp;</span></a>
+<span class="site">．凤凰科技 </span><span>&#91;引用日期2016-05-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[14]-3110930-wrap">
+<span class="index">14.</span>
+<a class="gotop anchor"  name="refIndex_14_3110930" id="refIndex_14_3110930" title="向上跳转" href="#ref_[14]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/fa31_fGROcVDj540_dXqRXb39spXn5HG9gbtdTgfaLgAbSs4EkkTF9UQRoDCqRC2L6q3K3-hedHLrcOLNjUDq0qFvIJ76KdK1TuD3aczlmrjzdfmH2P1" target="_blank" class="text">马云任中国企业家俱乐部主席：最怕看到谁是首富<span class="linkout">&nbsp;</span></a>
+<span class="site">．网易新闻</span><span>&#91;引用日期2016-05-08&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[15]-3110930-wrap">
+<span class="index">15.</span>
+<a class="gotop anchor"  name="refIndex_15_3110930" id="refIndex_15_3110930" title="向上跳转" href="#ref_[15]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/73693jBvmhsmHnFmspkvpaMga6VSjpXdcmz7ye07HFo8y8EtDCfqcgkas1HKekRZy56tXPYjUAkBCFRk7T4puU_vd32Pq9cdaX2zA6vKCd6yJYVa_jg_6BkAYp0WrZOaNat_qBYxat1W9Z1HPH-XXaKpefPk" target="_blank" class="text">乐视完成酷派收购 贾跃亭任董事会主席<span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网</span><span>&#91;引用日期2016-08-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[16]-3110930-wrap">
+<span class="index">16.</span>
+<a class="gotop anchor"  name="refIndex_16_3110930" id="refIndex_16_3110930" title="向上跳转" href="#ref_[16]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/9096cFwk2aW6PR8f8MJtSD2gevkD2LQ7ZkiqzmHT506Ur8sgG4ja78no_NUIiwl2hDts-G4KajycrwLUb0PoWTY73yyoc1oG63u2EHmdIiB2SK0zsv62ikBDEX4M0jPiLFxDwzshPM7i" target="_blank" class="text">贾跃亭反思生态扩张过快：将为此承担责任 永远只领1元年薪<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪</span><span>&#91;引用日期2016-11-07&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[17]-3110930-wrap">
+<span class="index">17.</span>
+<a class="gotop anchor"  name="refIndex_17_3110930" id="refIndex_17_3110930" title="向上跳转" href="#ref_[17]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/8f98Mh97S1OfNDZBOuvDKsgyMmY_Bbb1P3BPjZE5b7Hv9lRz1rxJ7a_xnIf5t410iTCFIqf926yIbmDEB89pMaSqObYP" target="_blank" class="text">贾跃亭发致股东信：2017年乐视网要实现盈利<span class="linkout">&nbsp;</span></a>
+<span class="site">．腾讯网</span><span>&#91;引用日期2017-04-21&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[18]-3110930-wrap">
+<span class="index">18.</span>
+<a class="gotop anchor"  name="refIndex_18_3110930" id="refIndex_18_3110930" title="向上跳转" href="#ref_[18]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/2a31dTlFda_SweKLwFXy5axd0Chc3DLL3KGuR_0Olp9BlQ_zF1qvgK_X6O82jzCX53linJ8zZ9QRxbQ5ajCztMf5W6OX69HwyxoWcJDSAi_I" target="_blank" class="text">贾跃亭辞任乐视网总经理、仍任董事长<span class="linkout">&nbsp;</span></a>
+<span class="site">．凤凰网</span><span>&#91;引用日期2017-05-21&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[19]-3110930-wrap">
+<span class="index">19.</span>
+<a class="gotop anchor"  name="refIndex_19_3110930" id="refIndex_19_3110930" title="向上跳转" href="#ref_[19]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/80c1URdcCulw454yFWazA4tH1imYh63nBYxJQDn2gUt89pLC5Jv4aN2yXm4QAqFQMcevFavAM5sFVz1IuO6blBNOQRTSn9Lvi4Y0L5Qlob93KW2f907A" target="_blank" class="text">科技晚报:贾跃亭任乐视汽车董事长|王卫套现百亿<span class="linkout">&nbsp;</span></a>
+<span class="site">．网易</span><span>&#91;引用日期2017-06-07&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[20]-3110930-wrap">
+<span class="index">20.</span>
+<a class="gotop anchor"  name="refIndex_20_3110930" id="refIndex_20_3110930" title="向上跳转" href="#ref_[20]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/ea58QiuLN1E3Y7sxVmmzSMksIMK611WMpQYLf4ZXAzMLqtJIhYJoWemoONDqXnqYlO7T0r1CGgJSzdpqaxI2hGYaOlbxW1wCHlNNSnVSi9foS4pbPbia2_I0sSs" target="_blank" class="text">贾跃亭辞去乐视网董事长 任乐视汽车生态董事长<span class="linkout">&nbsp;</span></a>
+<span class="site">．凤凰网</span><span>&#91;引用日期2017-07-07&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[21]-3110930-wrap">
+<span class="index">21.</span>
+<a class="gotop anchor"  name="refIndex_21_3110930" id="refIndex_21_3110930" title="向上跳转" href="#ref_[21]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/184cVTGQZV51gZC98oidQmfpY7uS7sRZ_i2OAXIsrtHtnV6q-6Q-FslSp68HZ0QCB9L-a4X1dUToZlZfYJ_OpR51eSquC-04339kShp7" target="_blank" class="text">贾跃亭在乐视网全部持股被轮候冻结7.5遍：控制权影响未明<span class="linkout">&nbsp;</span></a>
+<span class="site">．澎湃新闻</span><span>&#91;引用日期2017-08-05&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[22]-3110930-wrap">
+<span class="index">22.</span>
+<a class="gotop anchor"  name="refIndex_22_3110930" id="refIndex_22_3110930" title="向上跳转" href="#ref_[22]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/7473bjANGpxj-R0g1Pl_mEOyBlB_DewG_7NswP00dbDVfvY7k_MpsJr1e2vwoOHcdccCiUQq1U-k5ASbCzOv6mZ4XA00TYeR8bW8M5_Vyn_X" target="_blank" class="text">乐视网法人代表不再是贾跃亭 变更为梁军<span class="linkout">&nbsp;</span></a>
+<span class="site">．网易新闻</span><span>&#91;引用日期2017-08-17&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[23]-3110930-wrap">
+<span class="index">23.</span>
+<a class="gotop anchor"  name="refIndex_23_3110930" id="refIndex_23_3110930" title="向上跳转" href="#ref_[23]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/b764J2H2CQWMzPBrESfRSOL12bLRWG3VJCD4xG8hb2-uw8EZTm9Br0K_RgWJDlmUox-_r4mnsvD6tTBhUFmqvbuvpzOW0bax1nwMAO_hlSKo" target="_blank" class="text">乐视董事长贾跃亭微博确认返京治疗<span class="linkout">&nbsp;</span></a>
+<span class="site">．网易</span><span>&#91;引用日期2014-11-26&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[24]-3110930-wrap">
+<span class="index">24.</span>
+<a class="gotop anchor"  name="refIndex_24_3110930" id="refIndex_24_3110930" title="向上跳转" href="#ref_[24]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/be1ektPCDnyPoYktYKj2CWJQu4elZhjwhSyNmXOe3LFj1UorKbUhMe2M5YjV6CrjDn6jam-cYuybHURr0c0h7DVfxotaHWrp1zD-sBImFv8z" target="_blank" class="text">知情人:乐视CEO贾跃亭已回京 正住院接受治疗<span class="linkout">&nbsp;</span></a>
+<span class="site">．网易</span><span>&#91;引用日期2014-11-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[25]-3110930-wrap">
+<span class="index">25.</span>
+<a class="gotop anchor"  name="refIndex_25_3110930" id="refIndex_25_3110930" title="向上跳转" href="#ref_[25]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/d6aayTCzN-ItsU2JriYSSzJ-iPcIoilzh2D3fRz1MIpxVEn2V56eec2N3mqS0roI56cyqF2CBJEvZqfXd0Grnxq1aksbxA3FjFEdGFi3UlYZ" target="_blank" class="text">甘薇产双胞胎女儿 老公系乐视老板贾跃亭<span class="linkout">&nbsp;</span></a>
+<span class="site">．网易新闻中心</span><span>&#91;引用日期2014-12-11&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[26]-3110930-wrap">
+<span class="index">26.</span>
+<a class="gotop anchor"  name="refIndex_26_3110930" id="refIndex_26_3110930" title="向上跳转" href="#ref_[26]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/9e57fnKvrVZXIM5zphXzyfZfjWPYX0Tq6rJVUHxd05GeNREox-mpLuSvYYrRpwYBeZ6L7bH_yQlun610mmhNLYfBKvvdX8VeVULUS0oJOuk" target="_blank" class="text">甘薇二胎生儿子报平安：末末弟弟来了 一切顺利<span class="linkout">&nbsp;</span></a>
+<span class="site">．网易</span><span>&#91;引用日期2016-08-24&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[27]-3110930-wrap">
+<span class="index">27.</span>
+<a class="gotop anchor"  name="refIndex_27_3110930" id="refIndex_27_3110930" title="向上跳转" href="#ref_[27]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/d78dkTCFeKfBE8U7tkrHuur5lJG9OJUzW1_Rps1hfdtng4XIMP9eYv0LiIFQfOTKUBDAfzQ0bZ2LCPpsVX5XJFluLRJwdFL3ISAWIqEkqibYtg" target="_blank" class="text">乐视网贾跃亭：乐视一直在做战略领导者<span class="linkout">&nbsp;</span></a>
+<span class="site">．(每日经济新闻 2013年9月25日)</span><span>．2013-9-25</span><span>&#91;引用日期2013-10-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[28]-3110930-wrap">
+<span class="index">28.</span>
+<a class="gotop anchor"  name="refIndex_28_3110930" id="refIndex_28_3110930" title="向上跳转" href="#ref_[28]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/f89aooXwk3B5ECgVhqXd-3w3HbJj0SBFGeN4x_RnNudaRf42sZwFio0t6Vzj1UfBx1N1plv809t8-ZDICEX8-03I5qbsnRj4nFOJzgEjp6B1rWTFVw" target="_blank" class="text">跨界新视野<span class="linkout">&nbsp;</span></a>
+<span class="site">．全景网</span><span>．2013-09-17</span><span>&#91;引用日期2013-10-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[29]-3110930-wrap">
+<span class="index">29.</span>
+<a class="gotop anchor"  name="refIndex_29_3110930" id="refIndex_29_3110930" title="向上跳转" href="#ref_[29]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/434b8SApybaG5HJCW5vZZMx032ClPfSuL0vev81cPOYO_DfWWnrvw_wsHKbvyuUYGoPMIOsmpKtGF7fnoDUtSpuIoCcibgs2oBynx9n3aKeE5Lk" target="_blank" class="text">贾跃亭：乐视没有理由在美国做不好<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪科技</span><span>&#91;引用日期2014-09-30&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[30]-3110930-wrap">
+<span class="index">30.</span>
+<a class="gotop anchor"  name="refIndex_30_3110930" id="refIndex_30_3110930" title="向上跳转" href="#ref_[30]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/a962pI12KHMJO5xkjRFsZxc5BlUgC0RgQykbkn7ZyORl4HDY80jM86DuDwzJ16d-S91Bcs8mUpfb8uvSkESKGwJUrpjE7zA" target="_blank" class="text">新娱乐大亨贾跃亭<span class="linkout">&nbsp;</span></a>
+<span class="site">．外滩画报网站</span><span>．2013-09-11</span><span>&#91;引用日期2013-10-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[31]-3110930-wrap">
+<span class="index">31.</span>
+<a class="gotop anchor"  name="refIndex_31_3110930" id="refIndex_31_3110930" title="向上跳转" href="#ref_[31]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/d959xLdVu4-VpStr2kIIYwNR1Yeub0bolKO8ZdjCR5Y54UV9HiJas1eV89jDGsowx4Xv8xFNldmWtbSSWq53E21YEF9q_NZVZeafOgtmxlIXV6_iJgUpHvLvWEGtGNPgW3PlSvwU" target="_blank" class="text">乐视网贾跃亭：超级电视三年内销量五百万不是难事儿<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪财经</span><span>．2013-0904</span><span>&#91;引用日期2013-10-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[32]-3110930-wrap">
+<span class="index">32.</span>
+<a class="gotop anchor"  name="refIndex_32_3110930" id="refIndex_32_3110930" title="向上跳转" href="#ref_[32]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/7a10KIciIboiDul2T7RCbcBh4uJKMG1_MDc2S3AlLpFyuN-dYItM1jQXJqocvW709Ib7XJf_Ro_UxjfRYiFTcuT5XcJb1jid" target="_blank" class="text">跨界冒险家<span class="linkout">&nbsp;</span></a>
+<span class="site">．比特网</span><span>．2013-08-05</span><span>&#91;引用日期2013-10-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[33]-3110930-wrap">
+<span class="index">33.</span>
+<a class="gotop anchor"  name="refIndex_33_3110930" id="refIndex_33_3110930" title="向上跳转" href="#ref_[33]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/7f3c00v2V5-LETVFngccX2zg3MCSkaLzfBEYEKb70aGjg1Lgre5pejnRJBeUoDqeyM7ODM9MawWK2gBMojT0amCu__wZZf8YJzkwYaCnlco" target="_blank" class="text">这是一个转折点<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪微博</span><span>．2013-10-22</span><span>&#91;引用日期2013-10-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[34]-3110930-wrap">
+<span class="index">34.</span>
+<a class="gotop anchor"  name="refIndex_34_3110930" id="refIndex_34_3110930" title="向上跳转" href="#ref_[34]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/febe3G314eorSYymnlNxi1rhcYnJt0HYeFFgmRq8Yr28_Zf9Kyv1Mibkx8csbgEWxweyLlTU4IEWnqI9po4z2qtk3cE_AWQ92ZpRHyyR" target="_blank" class="text">乐视CEO贾跃亭获2014十大商业人物<span class="linkout">&nbsp;</span></a>
+<span class="site">．凤凰资讯</span><span>&#91;引用日期2015-01-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[35]-3110930-wrap">
+<span class="index">35.</span>
+<a class="gotop anchor"  name="refIndex_35_3110930" id="refIndex_35_3110930" title="向上跳转" href="#ref_[35]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/7e1cCk-3DbEtaXD2HQoaUO452tQBh1e7kgwdXAJkTl9ruOL50Gqy_VeLruYWFXKKchQoEapWqXE_zNphZWLVQmOk0XflVLXax4YFSrOtYak" target="_blank" class="text">福布斯中国2014上市公司最佳CEO<span class="linkout">&nbsp;</span></a>
+<span class="site">．福布斯中文网</span><span>&#91;引用日期2015-01-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[36]-3110930-wrap">
+<span class="index">36.</span>
+<a class="gotop anchor"  name="refIndex_36_3110930" id="refIndex_36_3110930" title="向上跳转" href="#ref_[36]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/1c7cGFqiFGbBgOe5WtL7HyA_s1byRN0W4ZYvVhcG8pLgpUs3mzdxNUKeEmfsjK0iQ0KQrquQXd-EC3H65inhoaN3WPC4xNRbY3GheCan_aftVmkJM3VsqjM5zGXG" target="_blank" class="text">贾跃亭_个人简介<span class="linkout">&nbsp;</span></a>
+<span class="site">．福布斯中文网</span><span>&#91;引用日期2015-01-06&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[37]-3110930-wrap">
+<span class="index">37.</span>
+<a class="gotop anchor"  name="refIndex_37_3110930" id="refIndex_37_3110930" title="向上跳转" href="#ref_[37]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/ec2bZTD24m8cUsFTRsuO3ssZllP3e60iyEQj8o_v6ZX8uXhQBuO3Vg2g5betamBJfNYM_eTwfLWyAiytMK-k0R7VCFvpKTByMF-t8L35wUzOC5bvyEa6BEJvgZEpRdg" target="_blank" class="text">贾跃亭夫妇及旗下三公司12亿存款被冻结<span class="linkout">&nbsp;</span></a>
+<span class="site">．凤凰网</span><span>&#91;引用日期2017-07-03&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[38]-3110930-wrap">
+<span class="index">38.</span>
+<a class="gotop anchor"  name="refIndex_38_3110930" id="refIndex_38_3110930" title="向上跳转" href="#ref_[38]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/ec46GGAPkZ82vjmnoNM9b8D517_RljSNZQbgyaqMNeVjcJXR5u1lwdLjXWZA_adrn64rQXGAvTpZZTZbXV2LdUdt-6Hseafl6nBuLYmhKvDdNGUVqfTajjaS3j8JbmGed7GvtjvN-Pdw" target="_blank" class="text">乐视风波再转向 贾跃亭道歉派代表全权处理<span class="linkout">&nbsp;</span></a>
+<span class="site">．新浪</span><span>&#91;引用日期2018-02-07&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[39]-3110930-wrap">
+<span class="index">39.</span>
+<a class="gotop anchor"  name="refIndex_39_3110930" id="refIndex_39_3110930" title="向上跳转" href="#ref_[39]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/4bdf2qnw7wkg1ohBW8ymrgOBpspZOTt2BVcQc68-AliOb7daBlf-GahVbrbeN7HASKCrU98_AilskHTatFinS96zYAoU9o6W5dg6YnrwqkQhqxwURb0_aT2YuPh451Aw" target="_blank" class="text">贾跃亭否认乐视IPO造假 为FF融资暂时不会回国<span class="linkout">&nbsp;</span></a>
+<span class="site">．新华网</span><span>&#91;引用日期2017-11-13&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[40]-3110930-wrap">
+<span class="index">40.</span>
+<a class="gotop anchor"  name="refIndex_40_3110930" id="refIndex_40_3110930" title="向上跳转" href="#ref_[40]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/123eDqLWbjY_C2LtwYJqc6nGA1M99YB8LHOuTkiGtJCC0qzm6J9tqN9JVU1hjPyq8bwt_ZWVXDWV82v7FPdrtFArcyZyH9LkKicf9Oq-AGwFVNUSbYgStgEN" target="_blank" class="text">贾跃亭严重失信限乘火车飞机 其姐姐同时在列<span class="linkout">&nbsp;</span></a>
+<span class="site">．社会--人民网</span><span>&#91;引用日期2018-06-02&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[41]-3110930-wrap">
+<span class="index">41.</span>
+<a class="gotop anchor"  name="refIndex_41_3110930" id="refIndex_41_3110930" title="向上跳转" href="#ref_[41]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/f932kX-5VuD4QZ8BYcSyqHwCK48u-mdhmHDm91tcirgUO6cfqqbS_sCIXPEUlx3urFiHGZVVEFcN6z3nkY5aP7YTLRcJN29hk4iokVq5wmtV" target="_blank" class="text">“颠覆者”贾跃亭<span class="linkout">&nbsp;</span></a>
+<span class="site">．凤凰网</span><span>．2013-9-28</span><span>&#91;引用日期2013-10-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[42]-3110930-wrap">
+<span class="index">42.</span>
+<a class="gotop anchor"  name="refIndex_42_3110930" id="refIndex_42_3110930" title="向上跳转" href="#ref_[42]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/0926dfwfv8GhrgcazAQn9b00ZMf0L4DNUQsoBGDmBwc4JwumL6-H7EVAgr7_3fhFBDOJb56K3orZEPatnOSW36cbm_ISXH6i" target="_blank" class="text">互联网破局者贾跃亭<span class="linkout">&nbsp;</span></a>
+<span class="site">．比特网</span><span>．2013-9-12</span><span>&#91;引用日期2013-10-25&#93;</span></li><li class="reference-item reference-item--type1 more" id="reference-[43]-3110930-wrap">
+<span class="index">43.</span>
+<a class="gotop anchor"  name="refIndex_43_3110930" id="refIndex_43_3110930" title="向上跳转" href="#ref_[43]_3110930">&nbsp;&nbsp;</a>
+<a rel="nofollow" href="/redirect/7717nJrYPy_QgrMGCzr7S7uhcA7rL03WpJIA6vDbn8Yotk3SqI4eTDXcZXZOxwL_4YvtpKmBnL_jS8U9dDEcW6N26z4lVPSkX1ZcxA0r9a8UCg" target="_blank" class="text">乐视迷局:“颠覆者”贾跃亭能否打造大屏巨无霸<span class="linkout">&nbsp;</span></a>
+<span class="site">．中国企业家网</span><span>．2013-6-4</span><span>&#91;引用日期2013-10-25&#93;</span></li></ul>
+</dd>
+<dd class="toggle">
+<span class="text expand-text">展开全部</span>
+<span class="text collapse-text">收起</span>
+<em class="toggle-arrow"></em>
+</dd>
+</dl>
+<div id="open-tag">
+<div class="open-tag-title">词条标签：</div>
+<dd id="open-tag-item">
+<span class="taglist">
+人物
+</span>
+</dd>
+<div class="open-tag-collapse" id="open-tag-collapse"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="side-content">
+<div class="summary-pic">
+<a href="/pic/%E8%B4%BE%E8%B7%83%E4%BA%AD/5757030/0/810a19d8bc3eb135888664c8ab1ea8d3fd1f4404?fr=lemma&amp;ct=single" target="_blank" nslog-type="10002401">
+<img src="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=c088ec926fd9f2d3201123e991d7ed2e/810a19d8bc3eb135888664c8ab1ea8d3fd1f4404.jpg" />
+<button class="picAlbumBtn"><em></em><span>图集</span></button>
+<div>贾跃亭图册</div>
+</a>
+</div>
+<div class="tashuo-right" id="tashuo_right">
+<div class="tashuo-right-content-essence">
+<div class="J-items">
+</div>
+</div>
+</div>
+<div class="lemmaWgt-promotion-vbaike">
+<div class="promotion_title">V百科<a href="/vbaike#gallary" target="_blank">往期回顾</a></div>
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightPreciseAd" data-lemmaId="5757030" data-lemmaTitle="贾跃亭"></div><div class="lemmaWgt-sideRecommend">
+<a name="zhixinWrap" class="qnAnchor"></a>
+<div class="zhixin-box" id="zhixinWrap" data-source="" data-newLemmaId="5757030">
+</div>
+<form id="zhixinErrorForm" class="hidden" action="https://sp2.baidu.com/-uV1bjeh1BF3odCf/index.php/feedback/zx/baikeJC" target="zhixinSubErr" method="post">
+<input class="js-url" name="fb_html_url" type="hidden" />
+<input class="js-query" name="fb_query" type="hidden" />
+<input class="js-title" name="fb_card_title" type="hidden" />
+<input class="js-content" name="fb_content" type="hidden" />
+<input class="js-souceId" name="fb_source_id" type="hidden" />
+</form>
+<iframe id="zhixinSubErr" name="zhixinSubErr" style="display:none" frameborder="0"></iframe>
+</div>
+<div class="lemmaWgt-promotion-slide">
+<div class="promotion_viewport">
+<dl>
+</dl>
+<div class="promotion_viewport_pager"></div>
+</div>
+</div><div class="lemmaWgt-promotion-rightBigAd">
+</div><dl class="side-box lemma-statistics">
+<dt class="title">词条统计</dt>
+<dd class="description split-line">
+<ul>
+<li>浏览次数：<span id="j-lemmaStatistics-pv"></span>次</li>
+<li>编辑次数：131次<a href="/historylist/%E8%B4%BE%E8%B7%83%E4%BA%AD/5757030" class="nslog:1021" target="_blank">历史版本</a></li>
+<li>
+<span class="latest-title">最近更新：</span>
+<span class="latest-content">
+<a class="show-userCard" data-uid="68447938" title="查看此用户资料" target="_blank" href="http://www.baidu.com/p/zoujunchuan198"
+                     nslog-type="1022">zoujunchuan198</a><a href="https://baike.baidu.com/item/百科分类达人团" 
+                                title="百科分类达人团" target="_blank" class="contribute-flag-container">
+<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-3_8c8d491.png" alt="" class="contribute-flag-icon">
+</a>
+<span class="j-modified-time" style="display:none">（2018-10-18）</span>
+</span>
+</li>
+</ul>
+</dd>
+<dt class="title">突出贡献榜</dt>
+<dd class="description excellent-description">
+<ul>
+<li>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="822801470" username="翌日88" target="_blank" href="http://www.baidu.com/p/%E7%BF%8C%E6%97%A588?from=wk">翌日88</a>
+<a href="https://baike.baidu.com/kedou" 
+                        title="百科蝌蚪团" target="_blank" class="contribute-flag-container">
+<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-1_b15774c.png" alt="" class="contribute-flag-icon">
+</a>
+<div class="right">
+<a target="_blank" href="https://baike.baidu.com/item/百度百科：热词版本"><img align="absmiddle" alt="热词版本" title="热词版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/hotspot_63f6e5b.png"></a>
+</div>
+</li>
+<li>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="1566134637" username="微信红包头条" target="_blank" href="http://www.baidu.com/p/%E5%BE%AE%E4%BF%A1%E7%BA%A2%E5%8C%85%E5%A4%B4%E6%9D%A1?from=wk">微信红包头条</a>
+<a href="https://baike.baidu.com/item/百科热词团队" 
+                        title="百科热词团" target="_blank" class="contribute-flag-container">
+<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-2_c3032c2.png" alt="" class="contribute-flag-icon">
+</a>
+<div class="right">
+<a target="_blank" href="https://baike.baidu.com/item/百度百科：热词版本"><img align="absmiddle" alt="热词版本" title="热词版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/hotspot_63f6e5b.png"></a>
+</div>
+</li>
+<li>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="810885320" username="aozizio" target="_blank" href="http://www.baidu.com/p/aozizio?from=wk">aozizio</a>
+<a href="https://baike.baidu.com/item/百科热词团队" 
+                        title="百科热词团" target="_blank" class="contribute-flag-container">
+<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-2_c3032c2.png" alt="" class="contribute-flag-icon">
+</a>
+<div class="right">
+<a target="_blank" href="https://baike.baidu.com/item/百度百科：热词版本"><img align="absmiddle" alt="热词版本" title="热词版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/hotspot_63f6e5b.png"></a>
+</div>
+</li>
+<li>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="1073859304" username="紫雪510" target="_blank" href="http://www.baidu.com/p/%E7%B4%AB%E9%9B%AA510?from=wk">紫雪510</a>
+<a href="https://baike.baidu.com/item/百科热词团队" 
+                        title="百科热词团" target="_blank" class="contribute-flag-container">
+<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-2_c3032c2.png" alt="" class="contribute-flag-icon">
+</a>
+<div class="right">
+<a target="_blank" href="https://baike.baidu.com/item/百度百科：热词版本"><img align="absmiddle" alt="热词版本" title="热词版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/hotspot_63f6e5b.png"></a>
+</div>
+</li>
+<li>
+<a title="查看此用户资料" class="usercard show-userCard" data-uid="120194118" username="申义亚" target="_blank" href="http://www.baidu.com/p/%E7%94%B3%E4%B9%89%E4%BA%9A?from=wk">申义亚</a>
+<a href="https://baike.baidu.com/kedou" 
+                        title="百科蝌蚪团" target="_blank" class="contribute-flag-container">
+<img src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/contribute-flag-1_b15774c.png" alt="" class="contribute-flag-icon">
+</a>
+<div class="right">
+<a target="_blank" href="https://baike.baidu.com/item/百度百科：热词版本"><img align="absmiddle" alt="热词版本" title="热词版本" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaStatistics/img/hotspot_63f6e5b.png"></a>
+</div>
+</li>
+</ul>
+</dd>
+</dl>
+<div class="side-catalog" style="visibility:hidden">
+<div class="side-bar">
+<em class="circle start"></em>
+<em class="circle end"></em>
+</div>
+<div class="catalog-scroller">
+<dl class="catalog-list">
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#1" class="title-link">
+<span class="text">
+<span class="title-index">1</span>
+<span class="title-link" nslog-type="10002802">人物经历</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#2" class="title-link">
+<span class="text">
+<span class="title-index">2</span>
+<span class="title-link" nslog-type="10002802">个人生活</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#3" class="title-link">
+<span class="text">
+<span class="title-index">3</span>
+<span class="title-link" nslog-type="10002802">个人语录</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#4" class="title-link">
+<span class="text">
+<span class="title-index">4</span>
+<span class="title-link" nslog-type="10002802">获得荣誉</span>
+</span>
+</a>
+</dt>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#5" class="title-link">
+<span class="text">
+<span class="title-index">5</span>
+<span class="title-link" nslog-type="10002802">人物事件</span>
+</span>
+</a>
+</dt>
+<dd class="catalog-title level2">
+<a href="#5_1" class="title-link">
+<span class="text">
+<span class="title-index">5.1</span>
+<span class="title-link" nslog-type="10002802">财款冻结</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_2" class="title-link">
+<span class="text">
+<span class="title-index">5.2</span>
+<span class="title-link" nslog-type="10002802">责令回国</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_3" class="title-link">
+<span class="text">
+<span class="title-index">5.3</span>
+<span class="title-link" nslog-type="10002802">人物话题</span>
+</span>
+</a>
+</dd>
+<dd class="catalog-title level2">
+<a href="#5_4" class="title-link">
+<span class="text">
+<span class="title-index">5.4</span>
+<span class="title-link" nslog-type="10002802">列为失信</span>
+</span>
+</a>
+</dd>
+<dt class="catalog-title level1">
+<em class="pointer"></em>
+<a href="#6" class="title-link">
+<span class="text">
+<span class="title-index">6</span>
+<span class="title-link" nslog-type="10002802">社会评价</span>
+</span>
+</a>
+</dt>
+<a class="arrow" href="javascript:void(0);"></a>
+</dl>
+</div>
+<div class="right-wrap">
+<a class="go-up disable" href="javascript:void(0);"></a>
+<a class="go-down" href="javascript:void(0);"></a>
+</div>
+<div class="bottom-wrap">
+<a class="toggle-button" href="javascript:void(0);" nslog-type="10002803"></a>
+<a class="gotop-button" href="javascript:void(0);" nslog-type="10002804"></a>
+</div>
+</div>
+<div id="side_box_fengchao" class="fengchao side-box" nslog="area" nslog-type="10000902">
+</div>
+<div id="side_box_unionAd" class="unionAd side-box">
+<div class="union-content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="after-content">
+<div class="fc-guess-like new" id="fc_guess_like_new">
+<span class="logo-du">
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+</span>
+<h6>猜你关注</h6>
+<ul class="cmn-clearfix">
+</ul>
+</div>
+</div>
+</div>
+
+<div class="wgt-footer-main">
+<div class="content">
+<dl class="fresh">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-fresh"></em>新手上路</dt>
+<dd>
+<div><a target="_blank" href="/usercenter/tasks#guide">成长任务</a></div>
+<div><a target="_blank" href="/help#main01">编辑入门</a></div>
+<div><a target="_blank" href="/help#main06">编辑规则</a></div>
+<div><a target="_blank" href="/item/%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91%EF%BC%9A%E6%9C%AC%E4%BA%BA%E8%AF%8D%E6%9D%A1%E7%BC%96%E8%BE%91%E6%9C%8D%E5%8A%A1/22442459?bk_fr=pcFooter">本人编辑</a><img src="https://bkssl.bdimg.com/static/wiki-common/widget/component/footer/img/new-icon_a64774d.png" class="new-icon" alt="new"></div>
+</dd>
+</dl>
+<dl class="question">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-question"></em>我有疑问</dt>
+<dd>
+<div><a id="J-bk-feedback-query" data-lemma="贾跃亭" href="javascript:void(0);" nslog-type="10070001">内容质疑</a></div>
+<div><a target="_blank" href="http://zhiqiu.baidu.com/baike/passport/html/baikechat.html" nslog-type="10000003">在线客服</a></div>
+<div><a target="_blank" href="http://tieba.baidu.com/f?ie=utf-8&fr=bks0000&kw=%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91">官方贴吧</a></div>
+<div><a id="J-bk-feedback-main" href="javascript:void(0);">意见反馈</a></div>
+</dd>
+</dl>
+<dl class="suggestion">
+<dt><em class="cmn-icon cmn-icons cmn-icons_footer-suggestion"></em>投诉建议</dt>
+<dd>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=1">举报不良信息</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=2">未通过词条申诉</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=6">投诉侵权信息</a></div>
+<div><a target="_blank" href="http://help.baidu.com/newadd?prod_id=10&category=5">封禁查询与解封</a></div>
+</dd>
+</dl>
+</div>
+<div class="copyright">©2018&nbsp;Baidu&nbsp;<a href="http://www.baidu.com/duty/" target="_blank">使用百度前必读</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_en=baike&class=89&id=1637" target="_blank">百科协议</a>&nbsp;|&nbsp;<a href="http://help.baidu.com/question?prod_id=10&class=690&id=1001779" target="_blank">隐私政策</a>&nbsp;|&nbsp;<a href="/operation/cooperation" target="_blank">百度百科合作平台</a>&nbsp;|&nbsp;<span>京ICP证030173号&nbsp;</span><img class="copyright-img" width="13" height="16" src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/copy_rignt_24.png"></div>
+<p class="recordcode"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001" target="_blank"><i class="icon-police"></i>京公网安备11000002000001号</a></p>
+</div>
+
+
+<div class="lemmaWgt-searchHeader">
+<div class="layout cmn-clearfix">
+<div class="wgt-searchbar wgt-searchbar-new wgt-searchbar-simple cmn-clearfix ">
+<div class="logo-container">
+<a class="logo cmn-inline-block" title="到百科首页" href="/">
+<span class="cmn-baike-logo">
+<em class="cmn-icon cmn-icons cmn-icons_logo-bai"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-du"></em>
+<em class="cmn-icon cmn-icons cmn-icons_logo-baike"></em>
+</span>
+</a>
+</div>
+<div class="search">
+<div class="form">
+<form id="searchForm" action="/search/word" method="GET" target="_self">
+<input id="query" nslog="normal" nslog-type="10080015" name="word" type="text" autocomplete="off" autocorrect="off" value="贾跃亭" /><button id="search" nslog="normal" nslog-type="10080013" type="button">进入词条</button>
+</form>
+<form id="searchLemmaForm" action="/search" method="GET" target="_self">
+<input id="searchLemmaQuery" name="word" type="hidden" />
+<input name="pn" type="hidden" value="0" />
+<input name="rn" type="hidden" value="0" />
+<input name="enc" type="hidden" value="utf8" />
+</form>
+<ul id="suggestion" class="suggestion">
+<div class="sug"></div>
+<li class="extra">
+<span id="clear" style="margin-right:8px;">清除历史记录</span><span id="close" nslog="normal" nslog-type="10080016">关闭</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="tool-buttons">
+<a class="toolButtons-edit button j-edit-link" href="javascript:;" nslog-type="10010001"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_edit-hollow"></em>编辑</a>
+<a class="toolButtons-collect button" href="javascript:;" nslog-type="10010002"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_star-solid"></em>收藏</a>
+<a class="toolButtons-vote button top-vote" href="javascript:;" nslog-type="10010003"><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-hollow"></em><em class="cmn-icon wiki-lemma-icons wiki-lemma-icons_zan-solid"></em><span class="j-tool-btn-vote-num">赞</span></a>
+</div>
+<div class="user-info">
+<a class="user-link unlogin" href="javascript:;" nslog-type="10010008" target="_blank">登录</a>
+</div>
+</div></div>
+<div class="new-bdsharebuttonbox new-side-share" id="side-share">
+<span class="title">分享</span>
+<div class="side-border">
+<div class="triangle"></div>
+<a class="share-link bds_qzone"  href="javascript:void(0);" nslog-type="10060101">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qzone"></em>
+</a>
+<a class="share-link bds_tsina" href="javascript:void(0);" nslog-type="10060301">
+<em class="cmn-icon cmn-icons cmn-icons_logo-sina-weibo"></em>
+</a>
+<a class="bds_wechat"  href="javascript:void(0);" nslog-type="10060001">
+<em class="cmn-icon cmn-icons cmn-icons_logo-wechat"></em>
+</a>
+<a class="share-link bds_tqq"  href="javascript:void(0);" nslog-type="10060201">
+<em class="cmn-icon cmn-icons cmn-icons_logo-qq"></em>
+</a>
+</div>
+</div>
+<div class="qrcode-wrapper" id="layer" style="display: none">
+<div class="bd_weixin_popup_header">
+<em class="cmn-icon cmn-icons cmn-icons_close"></em>
+<span>分享到微信朋友圈</span>
+</div>
+<div id="wechat-qrcode-img"></div>
+<div class="bd_weixin_popup_footer">打开微信“扫一扫”即可将网页分享至朋友圈</div>
+</div>
+<div></div><div></div>
+
+</body><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/js/mod_4302fe0.js"></script>
+<script type="text/javascript">require.resourceMap({"res":{"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/lemmaInsert_18f1b51.js","pkg":"wiki-lemma:p5","deps":["wiki-common:widget/component/nslog/nslog.js"]},"wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/tangram.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaRelation/tangram_459492a.js","pkg":"wiki-lemma:p5"},"wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip.js":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip_53efc29.js","deps":["wiki-common:widget/lib/jquery/jquery.js","wiki-common:widget/lib/jsmart/jsmart.js","wiki-common:widget/component/nslog/nslog.js"]}},"pkg":{"wiki-lemma:p5":{"url":"https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma-module-lemmaRelation_853c311.js"}}});</script><script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-common/pkg/wiki-common-base_3c65fca.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/pkg/wiki-lemma_102ede3.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/focusAndRelation/focusAndRelation_91a429a.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/hotspotmining/hotspotmining_419cada.js"></script>
+<script type="text/javascript" src="https://bkssl.bdimg.com/static/wiki-lemma/widget/lemma_content/configModule/zhixin/zhixin_58e6342.js"></script>
+<script type="text/javascript">!function(){  var $ = require('wiki-common:widget/lib/jquery/jquery'),
+    userbar = require('wiki-common:widget/component/userbar-n/userbar-n');
+    
+  userbar.buildUserbar($('#j-wgt-userbar'), null);
+}();
+!function(){  require('wiki-common:widget/component/headTabBar/headTabBar');
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-main'));
+  }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var cookie = require('wiki-common:widget/util/cookie');
+    if (!cookie.get('baikedeclare')) {
+        $('#J-declare-wrap').css('display', 'block');
+    }
+    $('#J-declare-close').on('click', function () {
+        // 用户关闭后，不再显示，这里暂设过期时间为1年
+        cookie.set('baikedeclare', 'showed', {
+            expires: 365 * 60 * 60 * 24 * 1000,
+            path: '/'
+        });
+        $('#J-declare-wrap').css('display', 'none');
+    });
+}();
+!function(){var $ = require('wiki-common:widget/lib/jquery/jquery');
+
+var timer = '';
+
+$('.wgt-navbar').on('mouseenter', 'dl', function() {
+  clearTimeout(timer);
+  timer = setTimeout(function() {
+    $('.wgt-navbar').addClass('wgt-navbar-hover');
+  }, 300);
+}).on('mouseleave', function() {
+  clearTimeout(timer);
+  $('.wgt-navbar').removeClass('wgt-navbar-hover');
+}).on('click', 'a', function() {
+  clearTimeout(timer);
+  $('.wgt-navbar').removeClass('wgt-navbar-hover');
+});
+}();
+!function(){    var safeCall = require('wiki-common:widget/util/safeCall');
+    var s = require('wiki-lemma:widget/lemma_content/configModule/secondsKnowLarge/secondsKnowLarge');
+    var c = require('wiki-lemma:widget/lemma_content/configModule/secondsKnowLarge/container');
+    c.initialize({"secondsKnow":[{"videoSrc":{"type":"baikePlayer","secondKind":"1","secondId":275704,"mid":"mda-XlyBxXa3YeFjM7md","cover":"https:\/\/gss3.bdstatic.com\/7Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D685%2C390%2C0\/sign=96e443b4b91bb0518f71e0685047ec8c\/3ac79f3df8dcd1008532b7b7788b4710b8122ffd.jpg","cover_small":"https:\/\/gss3.bdstatic.com\/7Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D280%2C150%2C0\/sign=d457cde349a98226b8947867ecbf8b39\/3ac79f3df8dcd1008532b7b7788b4710b8122ffd.jpg"},"coverSrc":"3ac79f3df8dcd1008532b7b7788b4710b8122ffd","title":"\u8d3e\u8dc3\u4ead\u7684\u91ce\u86ee\u53d1\u5bb6\u53f2","mediaId":"mda-XlyBxXa3YeFjM7md","secondId":275704},{"videoSrc":{"type":"baikePlayer","secondKind":"1","secondId":332402,"mid":"mda-O90YUxXa3YeFjM7m","cover":"https:\/\/gss2.bdstatic.com\/9fo3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D685%2C390%2C0\/sign=45031be10146f21fc9610d1390195d58\/0b55b319ebc4b745d160e20cc4fc1e178a821537.jpg","cover_small":"https:\/\/gss2.bdstatic.com\/9fo3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D280%2C150%2C0\/sign=2032233c66224f4a57cc20536fcaa26a\/0b55b319ebc4b745d160e20cc4fc1e178a821537.jpg"},"coverSrc":"0b55b319ebc4b745d160e20cc4fc1e178a821537","title":"\u4e00\u5206\u949f\u4e86\u89e3\u8d3e\u8dc3\u4ead","mediaId":"mda-O90YUxXa3YeFjM7m","secondId":332402},{"videoSrc":{"type":"baikePlayer","secondKind":"1","secondId":360658,"mid":"mda-O9Xgcgc0fVwWQ4bv","cover":"https:\/\/gss0.bdstatic.com\/-4o3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D685%2C390%2C0\/sign=bb0697f18e35e5dd9079f69f10fb91d7\/9922720e0cf3d7ca8f0f48d5f91fbe096a63a99c.jpg","cover_small":"https:\/\/gss0.bdstatic.com\/-4o3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D280%2C150%2C0\/sign=79d4437a3201213fcf661d9c32da04e9\/9922720e0cf3d7ca8f0f48d5f91fbe096a63a99c.jpg"},"coverSrc":"9922720e0cf3d7ca8f0f48d5f91fbe096a63a99c","title":"\u9648\u91cc\uff1a\u521b\u4e1a\u5f53\u5982\u8d3e\u8dc3\u4ead\uff0c\u4e0d\u8981\u8ba9\u68a6\u60f3\u6b7b\u6389","mediaId":"mda-O9Xgcgc0fVwWQ4bv","secondId":360658},{"videoSrc":{"type":"baikePlayer","secondKind":"1","secondId":525344,"mid":"mda-O9RnUmeZEwxyMv5u","cover":"https:\/\/gss2.bdstatic.com\/-fo3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D685%2C390%2C0\/sign=2f3fc5b15f66d0167e4ccd68f116e23f\/8d5494eef01f3a293b1193b29425bc315d607cf4.jpg","cover_small":"https:\/\/gss2.bdstatic.com\/-fo3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D280%2C150%2C0\/sign=c2dbf4d8a9c27d1ea57368847de89f56\/8d5494eef01f3a293b1193b29425bc315d607cf4.jpg"},"coverSrc":"8d5494eef01f3a293b1193b29425bc315d607cf4","title":"FF\u4e89\u593a\u6218\u6052\u5927\u66f4\u5360\u4f18\u52bf","mediaId":"mda-O9RnUmeZEwxyMv5u","secondId":525344}],"pageBg":null,"type":"normal","orgId":null,"lemmaId":5757030,"lemmaTitle":"\u8d3e\u8dc3\u4ead"}, function (data) {
+        safeCall(s.initialize, data, s);
+    });
+}();
+!function(){                var $ = require('wiki-common:widget/lib/jquery/jquery');
+                var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+                // 展现策略
+                rightCheck.editView('5757030', function(res) {
+                    if (!res.errno) {
+                        if (res.data.edit) {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    } else {
+                        if ('1') {
+                            $('.lemmaWgt-lemmaTitle .add-subLemma').css('display', 'inline-block');
+                            $('.top-tool .add-sub-icon').css('display', 'inline-block');
+                        }
+                    }
+                });
+                require('wiki-lemma:widget/basicElement/addSub/addSub.js')({                    lemmaId: '5757030',                    lemmaTitle:"\u8d3e\u8dc3\u4ead",                    lemmaDesc:null,                    versionId: '133502406',                    subLemmaId: '3110930'                });
+            }();
+!function(){        var $ = require('wiki-common:widget/lib/jquery/jquery');
+        var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+        // 展现策略
+        rightCheck.editView('5757030', function(res) {
+            if (!res.errno) {
+                if (res.data.divide) {
+                    $('.top-tool .split-icon').css('display', 'block');
+                }
+            }
+        });
+    }();
+!function(){    var nslog = require('wiki-common:widget/component/nslog/nslog');
+	require.async(["wiki-lemma:widget/basicElement/collect/collect"],function(collect){
+		collect({
+            newLemmaId:"5757030",
+			lemmaId:"3110930",
+			subLemmaId:"3110930"
+		});
+	});
+}();
+!function(){    require.async(["wiki-lemma:widget/basicElement/topShare/topShare"],function(topShare){
+        topShare({
+            newLemmaId: '5757030'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+    var nsLog = require('wiki-common:widget/component/nslog/nslog');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog");
+    
+    // 展现策略
+    rightCheck.editView('5757030', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                nsLog('10003104');              
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        } else {
+            if ('1') {
+                $('.lemmaWgt-lemmaTitle .edit-lemma').css('display', 'inline-block');
+                // 编辑和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .edit-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .edit-lemma').before('<br/><br/>');
+                  }
+                }
+            } else {
+                nsLog('10003104');  
+                $('.lemmaWgt-lemmaTitle .lock-lemma').show();
+                // 锁定和申请本人实名验证保证同一行展示
+                if ($('.lemmaWgt-lemmaTitle .personal').length > 0) {
+                  if ($('.lemmaWgt-lemmaTitle .lock-lemma').offset().left > $('.lemmaWgt-lemmaTitle .personal').offset().left) {
+                    $('.lemmaWgt-lemmaTitle .lock-lemma').before('<br/><br/>');
+                  }
+                }
+            }
+        }
+    });
+
+    var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
+    if (canDiscussion) {
+        // 锁定跳转
+        $('body').on('click', '.lock-lemma', function () {
+            var me = $(this);
+            var content = '<div style="text-align: left;width: 528px">'
+                + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-bottom: 20px;">' 
+                + '词条锁定，暂时无法编辑</h2>' 
+                + '<p style="font-size: 16px;color: #333;line-height: 26px;">'
+                + '亲爱的用户，词条存在争议或词条内容较完善都可能被锁定（'
+                + '<a href="/view/10812319.htm" target="_blank">查看详情</a>）。</p>'
+                + '<p style="font-size: 16px;color: #333;line-height: 26px;">'
+                + '如果你认为锁定词条内容存在问题需要修改，可进行以下操作：</p></div>';
+            new Dialog({
+                title: '编辑提示',
+                content: content,
+                btns: [
+                    {
+                        text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>',
+                        key: 'discussion'
+                    }
+                ],
+                onBtnClick: function(btnKey){
+                    if (btnKey === 'discussion') {
+                        window.location.href = '/planet/talk?lemmaId=5757030&category=1';
+                    }
+                }
+            }).show();
+        });
+        // 获取讨论数
+        $.get('/discussion/api/getdiscussioncount?lemmaId=5757030', function (res) {
+            if (res && res.errno === 0 && res.data.discussionCount > 0) {
+                var numText = res.data.discussionCount <= 99 ? res.data.discussionCount : '99+';
+                $('.j-discussion-link .num').text(numText).show();
+            }
+        });
+        $('.lemmaWgt-lemmaTitle .j-discussion-link').on('click', function () {
+            $(this).find('.num').remove();
+        });
+    }
+}();
+!function(){    require("wiki-lemma:widget/lemma_content/configModule/focusAndRelation/focusAndRelation");
+  }();
+!function(){        require('wiki-lemma:widget/lemma_content/configModule/hotspotmining/hotspotmining');
+    }();
+!function(){	require('wiki-lemma:widget/lemma_content/mainContent/basicInfo/basicInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require('wiki-common:widget/component/nslog/nslog');
+    nslog(10002701);
+    $('.lemmaWgt-lemmaCatalog a').on('click', function () {
+           nslog(10002702);
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5757030', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5757030', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5757030', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5757030', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5757030', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5757030', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5757030', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5757030', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5757030', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+
+    // 展现策略
+    rightCheck.editView('5757030', function(res) {
+        if (!res.errno) {
+            if (res.data.edit) {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        } else {
+            if ('1') {
+                $('.para-title .edit-icon').css('display', 'block');
+            }
+        }
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require('wiki-common:widget/component/nslog/nslog');
+    // 展现量
+    nslog('10090201');
+}();
+!function(){	require.async(["wiki-common:widget/lib/jquery/jquery","wiki-lemma:widget/lemma_content/mainContent/albumList/albumList","wiki-common:widget/component/nslog/nslog"],function($,AlbumList,nslog){
+		var list=new AlbumList({
+			newLemmaId:"5757030",
+			lemmaTitle:"贾跃亭",
+			lemmaId:"3110930",
+			subLemmaId:"3110930",
+			data:{"16381787":{"coverpic":"6a63f6246b600c339368d8d3184c510fd9f9a193","desc":"\u8d3e\u8dc3\u4ead\u56fe\u96c6","albumTag":"","height":146,"width":220,"total":15,"coverurl":"https:\/\/gss0.bdstatic.com\/-4o3dSag_xI4khGkpoWK1HF6hhy\/baike\/s%3D235\/sign=acb59a2a4e086e066ea8384837087b5a\/6a63f6246b600c339368d8d3184c510fd9f9a193.jpg","toppics":[{"src":"6a63f6246b600c339368d8d3184c510fd9f9a193","owner":"\u5348\u591c\u5251\u4fa0","desc":"\u8d85\u7ea7\u7535\u89c6\u53d1\u5e03\u4f1a\u8d3e\u8dc3\u4ead\u6f14\u8bb2","height":683,"width":1024},{"src":"6609c93d70cf3bc71430cbf7d300baa1cd112afc","owner":"\u5348\u591c\u5251\u4fa0","desc":"\u8d85\u7ea7\u7535\u89c6\u53d1\u5e03\u4f1a\u8d3e\u8dc3\u4ead\u6f14\u8bb2","height":854,"width":1280},{"src":"902397dda144ad34618c819cd2a20cf431ad85fd","owner":"\u5348\u591c\u5251\u4fa0","desc":"\u8d85\u7ea7\u7535\u89c6\u53d1\u5e03\u4f1a\u8d3e\u8dc3\u4ead\u6f14\u8bb2","height":1280,"width":886}]},"0":{"coverpic":"810a19d8bc3eb135888664c8ab1ea8d3fd1f4404","width":500,"height":500,"desc":"\u8bcd\u6761\u56fe\u7247","total":3,"coverurl":"https:\/\/gss3.bdstatic.com\/-Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/s%3D235\/sign=8dadc96db4389b503cffe751b034e5f1\/810a19d8bc3eb135888664c8ab1ea8d3fd1f4404.jpg"}}
+		});
+		!!window.ScriptLazyLoad && window.ScriptLazyLoad.regist({
+			dom:$('.album-list'),
+			loadFunc:function(){
+				list.load();
+				nslog(1258);
+			},
+			distance:500
+		});
+	});
+}();
+!function(){                    require.async(["wiki-common:widget/lib/jquery/jquery","wiki-lemma:widget/basicElement/modulePager/modulePager"],function($,Pager){
+                        var slideTo = function (index) {
+                            var scroller = $('.tashuo-view');
+                            scroller.stop().animate({scrollLeft: (index - 1) * 738}, 500);
+                        };
+                        var pager = new Pager({
+                            total:2,
+                            handleNext:function(index){
+                                slideTo(index);
+                            },
+                            handlePrev:function(index){
+                                slideTo(index);
+                            }
+                        });
+                        pager.appendTo($(".tashuo-bottom-pager"));
+                    });
+                }();
+!function(){    require.async(["wiki-lemma:widget/lemma_content/mainContent/tashuo/tashuo"],function(init){
+        init();
+    });
+}();
+!function(){        require.async(['wiki-lemma:widget/lemma_content/mainContent/lemmaRelation/lemmaInsert'], function(init) {
+            init({ // 关系化统计需求--传参  shangwenbin
+                lemmaId: "3110930",
+                newLemmaId: "5757030",
+                subLemmaId: "3110930",
+                lemmaTitle: "贾跃亭"
+            });
+        });
+    }();
+!function(){		require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReference","wiki-lemma:widget/lemma_content/mainContent/lemmaReference/lemmaReferenceTip/lemmaReferenceTip"],function(Reference,ReferenceTip){
+			new Reference({
+				subLemmaId:"3110930"
+			});
+			new ReferenceTip({
+				subLemmaId:"5757030",
+				lemmaTitle:"贾跃亭",
+				reference:[{"type":"1","title":"2016\u80e1\u6da6\u767e\u5bcc\u699c\uff1a\u738b\u5065\u6797\u4ee52150\u4ebf\u5143\u4e09\u5ea6\u6210\u9996\u5bcc","url":"\/redirect\/04e6OMtbahFkSe2yE4CON91Auq2jTVQjcNSc1JkaAQsOMY686m6DSnXfp3-X1a1Kzx67w8Ay8iZUuCWavCt4td0DvrR8","site":"\u817e\u8baf\u65b0\u95fb","publishDate":"","refDate":"2016-10-14","index":1},{"type":"1","title":"2016\u80e1\u6da6IT\u5bcc\u8c6a\u699c\uff1a\u9a6c\u4e91\u9a6c\u5316\u817e\u4e24\u5339\u9a6c\u9ad8\u5c45\u524d\u4e24\u4f4d","url":"\/redirect\/99a8JhaqLDoYAzozyJyo9vfDKGIWinQCblX6hFVn3hD4pW5wuyH0YCJ8Y1WBBKtavv8vs8StPCdaUNGL3SnPmTcTQk2p2FS0X1bLwTRx0MsTMgKiP3HrVRU09TPAgSkyTKWz-4gYjw","site":"\u65b0\u6d6a\u7f51","publishDate":"","refDate":"2016-10-18","index":2},{"type":"1","title":"\u798f\u5e03\u65af2016\u4e2d\u56fd\u5bcc\u8c6a\u6392\u884c\u699c\u516c\u5e03\uff1a\u738b\u5065\u6797\u8749\u8054\u7b2c\u4e00 \u4e8c\u9a6c\u7d27\u968f","url":"\/redirect\/ff2dfuYoOnmg9dQcU__MCZPuk_pvx7s1PB-vTuf5C-QYMXIvwmVb3b2H2Wxnb3LH939zYWtAkO0DOfToiaG_KU8pO8M3QgLG2IR3uN37vau3ufDo6gbSTOWhhA","site":"\u65b0\u6d6a\u79d1\u6280","publishDate":"","refDate":"2016-10-27","index":3},{"type":"1","title":"\u8d3e\u8dc3\u4ead\u4e0d\u518d\u62c5\u4efb\u4e50\u89c6\u63a7\u80a1\u6cd5\u5b9a\u4ee3\u8868\u4eba | \u65b0\u4eac\u62a5\u8d22\u8baf","url":"\/redirect\/2d7euebL6P1BJCBnpAxmMJMSAteF7xG3wbStf7iCBk_cS30ed2lQN9lYluCQDCQhZmrX6005dUj3NHN6G9vIEu6gvryicCaMpGPHb1SSrxUGT2gy","site":"\u65b0\u4eac\u62a5","publishDate":"","refDate":"2017-07-18","index":4},{"type":"1","title":"\u4e50\u89c6\u7f51\uff1a\u8d3e\u8dc3\u4ead\u79f0\u65e0\u529b\u5c65\u884c\u65e0\u606f\u501f\u6b3e\u4e0e\u589e\u6301\u627f\u8bfa","url":"\/redirect\/65beSALKpEq0qZXQ92p-rdVgJK9xqKgLwgFR_f2NVNaha8UtXoDKJNOdu_HD4ZO-1uuytJbOanl90SDaJqw78-42irhqY8jgKh1UAcpSNdt6GAxdBWn__w","site":"\u817e\u8baf","publishDate":"","refDate":"2017-11-10","index":5},{"type":"1","title":"\u8d3e\u8dc3\u4ead\u88ab\u5317\u4eac\u5e02\u4e09\u4e2d\u6cd5\u9662\u5217\u5165\u201c\u8001\u8d56\u201d\u540d\u5355","url":"\/redirect\/dd3eduJ3urp0ujlBzuA275Or6Wq0ekdCis31HXTKIDofaVsIU8G7mrJ56XZ4wynd9i8evJWGa8Twm-xV9jx4Io3-x9LfOhIFzchA7ICzmkZpPkdSawfjzZA564w","site":"\u51e4\u51f0\u7f51","publishDate":"","refDate":"2017-12-14","index":6},{"type":"1","title":"\u8d3e\u8dc3\u4ead\u51fa\u4efbCEO\uff0c\u5ba3\u5e03FF\u5b8c\u621010\u4ebf\u7f8e\u5143\u878d\u8d44 \u7f51\u53cb\uff1a\u201c\u6c11\u65cf\u82f1\u96c4\u201d","url":"\/redirect\/31d5YBUUNI4Xiq72ME9PO2-gA5CyRtBlZKqGtw3m-n5FHhTycjpWygYaixqRXYuQ2zr7LC8DgN8kQi98jFLET_I5obCTd_VQ-L39DKvVoSVaiE8U_FaUusdzAHSxD-38XiGSXsZHGhF1cpAb","site":"\u65b0\u6d6a","publishDate":"","refDate":"2017-12-19","index":7},{"type":"1","title":"\u8d3e\u8dc3\u4ead\u56de\u5e94\u51cf\u63012202\u4e07\u80a1\u4e50\u89c6\u7f51\uff1a\u6cd5\u9662\u672a\u901a\u77e5\u76f4\u63a5\u5904\u7f6e\u8fd8\u503a","url":"\/redirect\/7d22i-o97mcfWy-V95qJM8T2RVRQRhEdczKPhzu7NiFwv4uc6_qQLZU4MkxgFvEMUf-rkILmR7WmnAg7H8MLa4pkZ0D-kyOmJVc","site":"\u641c\u72d0","publishDate":"","refDate":"2018-10-18","index":8},{"type":"1","title":"FF\u5b98\u5ba3\uff1a\u6052\u5927\u590f\u6d77\u94a7\u517c\u4efb\u8463\u4e8b\u957f \u8d3e\u8dc3\u4ead\u7559\u4efbCEO","url":"\/redirect\/97c8lWWAz1cnSwBV7nFjU2X1ZAbaBMqo6vDUkrUVzYGVKlo83uCuxCn6xnKJUeLtGUJVmLIkiiDyJnl3ezFAsibqz5xOsg","site":"\u817e\u8baf","publishDate":"","refDate":"2018-07-15","index":9},{"index":10,"type":"1","title":"\u4e50\u89c6\u7f51\u8d3e\u8dc3\u4ead\uff1a\u201c\u8d3e\u5e03\u65af\u201d\u7684\u8d85\u7ea7\u7535\u89c6\u91ce\u5fc3","url":"\/redirect\/378fV4_vVFrpBbQvmI_w46MqefZoosJsznsZFPI52h7iY_ikehvY9Ofypvat0nqiq3yn_3IojNj1KorYttfsUM8qikQpeRNJVQ","site":"\u641c\u72d0","publishDate":"2013-05-27","refDate":"2014-02-26","count":"1"},{"index":11,"type":"1","title":"\u56fd\u5185\u9996\u5bb6\u9ad8\u7aef\u8fdb\u53e3\u8461\u8404\u9152\u7535\u5546\u5e73\u53f0\u6b63\u5f0f\u4e0a\u7ebf \u6253\u9020\u5168\u7a0b\u4fdd\u771f","url":"\/redirect\/8938_oyvUwqx7tydkgzl-D8AStSBQLzpxDD70zdYt2h3QkR5oRyqqeZVjzns0-yqu5VeggVOAfjX9tFj6rG5JkVH775A2hA98X2onqL6JDaVCp5Gyj8","site":"\u8d5b\u8fea\u7f51","publishDate":"2012-12-04","refDate":"2013-10-30"},{"type":"1","title":"\u4e50\u89c6\u8d85\u7ea7\u624b\u673a2\/\u4e502 Pro\/\u4e50Max2\u53d1\u5e03\uff1a1099\u5143\u8d77\u552e","url":"\/redirect\/9ee6jXXOQ2eZH4wiOFSs2xtwk1U45dfkt7PEME7LfldKsphE0pOf05rQUP4E_RU5OFC6zLDx_AmHWN2Ulsc0Yx8P78R2_SnxW1B5eNzFQop4ObuB","site":"\u4eba\u6c11\u7f51","publishDate":"","refDate":"2016-04-21","index":12},{"type":"1","title":"2016\u65b0\u8d22\u5bcc500\u5bcc\u4eba\u699c\uff1a\u738b\u601d\u806a\u3001\u5976\u8336\u59b9\u59b9\u51b2\u8fdb\u524d11","url":"\/redirect\/c43aBpKM4n_uMFyfSUH5lrJZzMy7MmEWQwWv_0Z5Zb5VT7nEMwZ_ki0yGOiEnFuJYpjWhzr8weAoDLEKmYy3FIQRkQ2rNzpDQc8Ou3uq","site":"\u51e4\u51f0\u79d1\u6280 ","publishDate":"","refDate":"2016-05-05","index":13},{"type":"1","title":"\u9a6c\u4e91\u4efb\u4e2d\u56fd\u4f01\u4e1a\u5bb6\u4ff1\u4e50\u90e8\u4e3b\u5e2d\uff1a\u6700\u6015\u770b\u5230\u8c01\u662f\u9996\u5bcc","url":"\/redirect\/fa31_fGROcVDj540_dXqRXb39spXn5HG9gbtdTgfaLgAbSs4EkkTF9UQRoDCqRC2L6q3K3-hedHLrcOLNjUDq0qFvIJ76KdK1TuD3aczlmrjzdfmH2P1","site":"\u7f51\u6613\u65b0\u95fb","publishDate":"","refDate":"2016-05-08","index":14},{"type":"1","title":"\u4e50\u89c6\u5b8c\u6210\u9177\u6d3e\u6536\u8d2d \u8d3e\u8dc3\u4ead\u4efb\u8463\u4e8b\u4f1a\u4e3b\u5e2d","url":"\/redirect\/73693jBvmhsmHnFmspkvpaMga6VSjpXdcmz7ye07HFo8y8EtDCfqcgkas1HKekRZy56tXPYjUAkBCFRk7T4puU_vd32Pq9cdaX2zA6vKCd6yJYVa_jg_6BkAYp0WrZOaNat_qBYxat1W9Z1HPH-XXaKpefPk","site":"\u65b0\u534e\u7f51","publishDate":"","refDate":"2016-08-06","index":15},{"type":"1","title":"\u8d3e\u8dc3\u4ead\u53cd\u601d\u751f\u6001\u6269\u5f20\u8fc7\u5feb\uff1a\u5c06\u4e3a\u6b64\u627f\u62c5\u8d23\u4efb \u6c38\u8fdc\u53ea\u98861\u5143\u5e74\u85aa","url":"\/redirect\/9096cFwk2aW6PR8f8MJtSD2gevkD2LQ7ZkiqzmHT506Ur8sgG4ja78no_NUIiwl2hDts-G4KajycrwLUb0PoWTY73yyoc1oG63u2EHmdIiB2SK0zsv62ikBDEX4M0jPiLFxDwzshPM7i","site":"\u65b0\u6d6a","publishDate":"","refDate":"2016-11-07","index":16},{"type":"1","title":"\u8d3e\u8dc3\u4ead\u53d1\u81f4\u80a1\u4e1c\u4fe1\uff1a2017\u5e74\u4e50\u89c6\u7f51\u8981\u5b9e\u73b0\u76c8\u5229","url":"\/redirect\/8f98Mh97S1OfNDZBOuvDKsgyMmY_Bbb1P3BPjZE5b7Hv9lRz1rxJ7a_xnIf5t410iTCFIqf926yIbmDEB89pMaSqObYP","site":"\u817e\u8baf\u7f51","publishDate":"","refDate":"2017-04-21","index":17,"count":"1"},{"type":"1","title":"\u8d3e\u8dc3\u4ead\u8f9e\u4efb\u4e50\u89c6\u7f51\u603b\u7ecf\u7406\u3001\u4ecd\u4efb\u8463\u4e8b\u957f","url":"\/redirect\/2a31dTlFda_SweKLwFXy5axd0Chc3DLL3KGuR_0Olp9BlQ_zF1qvgK_X6O82jzCX53linJ8zZ9QRxbQ5ajCztMf5W6OX69HwyxoWcJDSAi_I","site":"\u51e4\u51f0\u7f51","publishDate":"","refDate":"2017-05-21","index":18,"count":"1"},{"type":"1","title":"\u79d1\u6280\u665a\u62a5:\u8d3e\u8dc3\u4ead\u4efb\u4e50\u89c6\u6c7d\u8f66\u8463\u4e8b\u957f|\u738b\u536b\u5957\u73b0\u767e\u4ebf","url":"\/redirect\/80c1URdcCulw454yFWazA4tH1imYh63nBYxJQDn2gUt89pLC5Jv4aN2yXm4QAqFQMcevFavAM5sFVz1IuO6blBNOQRTSn9Lvi4Y0L5Qlob93KW2f907A","site":"\u7f51\u6613","publishDate":"","refDate":"2017-06-07","index":19},{"type":"1","title":"\u8d3e\u8dc3\u4ead\u8f9e\u53bb\u4e50\u89c6\u7f51\u8463\u4e8b\u957f \u4efb\u4e50\u89c6\u6c7d\u8f66\u751f\u6001\u8463\u4e8b\u957f","url":"\/redirect\/ea58QiuLN1E3Y7sxVmmzSMksIMK611WMpQYLf4ZXAzMLqtJIhYJoWemoONDqXnqYlO7T0r1CGgJSzdpqaxI2hGYaOlbxW1wCHlNNSnVSi9foS4pbPbia2_I0sSs","site":"\u51e4\u51f0\u7f51","publishDate":"","refDate":"2017-07-07","index":20},{"type":"1","title":"\u8d3e\u8dc3\u4ead\u5728\u4e50\u89c6\u7f51\u5168\u90e8\u6301\u80a1\u88ab\u8f6e\u5019\u51bb\u7ed37.5\u904d\uff1a\u63a7\u5236\u6743\u5f71\u54cd\u672a\u660e","url":"\/redirect\/184cVTGQZV51gZC98oidQmfpY7uS7sRZ_i2OAXIsrtHtnV6q-6Q-FslSp68HZ0QCB9L-a4X1dUToZlZfYJ_OpR51eSquC-04339kShp7","site":"\u6f8e\u6e43\u65b0\u95fb","publishDate":"","refDate":"2017-08-05","index":21},{"type":"1","title":"\u4e50\u89c6\u7f51\u6cd5\u4eba\u4ee3\u8868\u4e0d\u518d\u662f\u8d3e\u8dc3\u4ead \u53d8\u66f4\u4e3a\u6881\u519b","url":"\/redirect\/7473bjANGpxj-R0g1Pl_mEOyBlB_DewG_7NswP00dbDVfvY7k_MpsJr1e2vwoOHcdccCiUQq1U-k5ASbCzOv6mZ4XA00TYeR8bW8M5_Vyn_X","site":"\u7f51\u6613\u65b0\u95fb","publishDate":"","refDate":"2017-08-17","index":22},{"type":"1","title":"\u4e50\u89c6\u8463\u4e8b\u957f\u8d3e\u8dc3\u4ead\u5fae\u535a\u786e\u8ba4\u8fd4\u4eac\u6cbb\u7597","url":"\/redirect\/b764J2H2CQWMzPBrESfRSOL12bLRWG3VJCD4xG8hb2-uw8EZTm9Br0K_RgWJDlmUox-_r4mnsvD6tTBhUFmqvbuvpzOW0bax1nwMAO_hlSKo","site":"\u7f51\u6613","publishDate":"","refDate":"2014-11-26","index":23},{"type":"1","title":"\u77e5\u60c5\u4eba:\u4e50\u89c6CEO\u8d3e\u8dc3\u4ead\u5df2\u56de\u4eac \u6b63\u4f4f\u9662\u63a5\u53d7\u6cbb\u7597","url":"\/redirect\/be1ektPCDnyPoYktYKj2CWJQu4elZhjwhSyNmXOe3LFj1UorKbUhMe2M5YjV6CrjDn6jam-cYuybHURr0c0h7DVfxotaHWrp1zD-sBImFv8z","site":"\u7f51\u6613","publishDate":"","refDate":"2014-11-25","index":24},{"type":"1","title":"\u7518\u8587\u4ea7\u53cc\u80de\u80ce\u5973\u513f \u8001\u516c\u7cfb\u4e50\u89c6\u8001\u677f\u8d3e\u8dc3\u4ead","url":"\/redirect\/d6aayTCzN-ItsU2JriYSSzJ-iPcIoilzh2D3fRz1MIpxVEn2V56eec2N3mqS0roI56cyqF2CBJEvZqfXd0Grnxq1aksbxA3FjFEdGFi3UlYZ","site":"\u7f51\u6613\u65b0\u95fb\u4e2d\u5fc3","publishDate":"","refDate":"2014-12-11","index":25},{"type":"1","title":"\u7518\u8587\u4e8c\u80ce\u751f\u513f\u5b50\u62a5\u5e73\u5b89\uff1a\u672b\u672b\u5f1f\u5f1f\u6765\u4e86 \u4e00\u5207\u987a\u5229","url":"\/redirect\/9e57fnKvrVZXIM5zphXzyfZfjWPYX0Tq6rJVUHxd05GeNREox-mpLuSvYYrRpwYBeZ6L7bH_yQlun610mmhNLYfBKvvdX8VeVULUS0oJOuk","site":"\u7f51\u6613","publishDate":"","refDate":"2016-08-24","index":26},{"index":27,"type":"1","title":"\u4e50\u89c6\u7f51\u8d3e\u8dc3\u4ead\uff1a\u4e50\u89c6\u4e00\u76f4\u5728\u505a\u6218\u7565\u9886\u5bfc\u8005","url":"\/redirect\/d78dkTCFeKfBE8U7tkrHuur5lJG9OJUzW1_Rps1hfdtng4XIMP9eYv0LiIFQfOTKUBDAfzQ0bZ2LCPpsVX5XJFluLRJwdFL3ISAWIqEkqibYtg","site":"(\u6bcf\u65e5\u7ecf\u6d4e\u65b0\u95fb 2013\u5e749\u670825\u65e5)","publishDate":"2013-9-25","refDate":"2013-10-25"},{"index":28,"type":"1","title":"\u8de8\u754c\u65b0\u89c6\u91ce","url":"\/redirect\/f89aooXwk3B5ECgVhqXd-3w3HbJj0SBFGeN4x_RnNudaRf42sZwFio0t6Vzj1UfBx1N1plv809t8-ZDICEX8-03I5qbsnRj4nFOJzgEjp6B1rWTFVw","site":"\u5168\u666f\u7f51","publishDate":"2013-09-17","refDate":"2013-10-25","count":"1"},{"type":"1","title":"\u8d3e\u8dc3\u4ead\uff1a\u4e50\u89c6\u6ca1\u6709\u7406\u7531\u5728\u7f8e\u56fd\u505a\u4e0d\u597d","url":"\/redirect\/434b8SApybaG5HJCW5vZZMx032ClPfSuL0vev81cPOYO_DfWWnrvw_wsHKbvyuUYGoPMIOsmpKtGF7fnoDUtSpuIoCcibgs2oBynx9n3aKeE5Lk","site":"\u65b0\u6d6a\u79d1\u6280","publishDate":"","refDate":"2014-09-30","index":29,"count":"1"},{"index":30,"type":"1","title":"\u65b0\u5a31\u4e50\u5927\u4ea8\u8d3e\u8dc3\u4ead","url":"\/redirect\/a962pI12KHMJO5xkjRFsZxc5BlUgC0RgQykbkn7ZyORl4HDY80jM86DuDwzJ16d-S91Bcs8mUpfb8uvSkESKGwJUrpjE7zA","site":"\u5916\u6ee9\u753b\u62a5\u7f51\u7ad9","publishDate":"2013-09-11","refDate":"2013-10-25","count":"1"},{"index":31,"type":"1","title":"\u4e50\u89c6\u7f51\u8d3e\u8dc3\u4ead\uff1a\u8d85\u7ea7\u7535\u89c6\u4e09\u5e74\u5185\u9500\u91cf\u4e94\u767e\u4e07\u4e0d\u662f\u96be\u4e8b\u513f","url":"\/redirect\/d959xLdVu4-VpStr2kIIYwNR1Yeub0bolKO8ZdjCR5Y54UV9HiJas1eV89jDGsowx4Xv8xFNldmWtbSSWq53E21YEF9q_NZVZeafOgtmxlIXV6_iJgUpHvLvWEGtGNPgW3PlSvwU","site":"\u65b0\u6d6a\u8d22\u7ecf","publishDate":"2013-0904","refDate":"2013-10-25"},{"index":32,"type":"1","title":"\u8de8\u754c\u5192\u9669\u5bb6","url":"\/redirect\/7a10KIciIboiDul2T7RCbcBh4uJKMG1_MDc2S3AlLpFyuN-dYItM1jQXJqocvW709Ib7XJf_Ro_UxjfRYiFTcuT5XcJb1jid","site":"\u6bd4\u7279\u7f51","publishDate":"2013-08-05","refDate":"2013-10-25","count":"1"},{"index":33,"type":"1","title":"\u8fd9\u662f\u4e00\u4e2a\u8f6c\u6298\u70b9","url":"\/redirect\/7f3c00v2V5-LETVFngccX2zg3MCSkaLzfBEYEKb70aGjg1Lgre5pejnRJBeUoDqeyM7ODM9MawWK2gBMojT0amCu__wZZf8YJzkwYaCnlco","site":"\u65b0\u6d6a\u5fae\u535a","publishDate":"2013-10-22","refDate":"2013-10-25","count":"1"},{"type":"1","title":"\u4e50\u89c6CEO\u8d3e\u8dc3\u4ead\u83b72014\u5341\u5927\u5546\u4e1a\u4eba\u7269","url":"\/redirect\/febe3G314eorSYymnlNxi1rhcYnJt0HYeFFgmRq8Yr28_Zf9Kyv1Mibkx8csbgEWxweyLlTU4IEWnqI9po4z2qtk3cE_AWQ92ZpRHyyR","site":"\u51e4\u51f0\u8d44\u8baf","publishDate":"","refDate":"2015-01-06","index":34},{"type":"1","title":"\u798f\u5e03\u65af\u4e2d\u56fd2014\u4e0a\u5e02\u516c\u53f8\u6700\u4f73CEO","url":"\/redirect\/7e1cCk-3DbEtaXD2HQoaUO452tQBh1e7kgwdXAJkTl9ruOL50Gqy_VeLruYWFXKKchQoEapWqXE_zNphZWLVQmOk0XflVLXax4YFSrOtYak","site":"\u798f\u5e03\u65af\u4e2d\u6587\u7f51","publishDate":"","refDate":"2015-01-06","index":35},{"type":"1","title":"\u8d3e\u8dc3\u4ead_\u4e2a\u4eba\u7b80\u4ecb","url":"\/redirect\/1c7cGFqiFGbBgOe5WtL7HyA_s1byRN0W4ZYvVhcG8pLgpUs3mzdxNUKeEmfsjK0iQ0KQrquQXd-EC3H65inhoaN3WPC4xNRbY3GheCan_aftVmkJM3VsqjM5zGXG","site":"\u798f\u5e03\u65af\u4e2d\u6587\u7f51","publishDate":"","refDate":"2015-01-06","index":36},{"type":"1","title":"\u8d3e\u8dc3\u4ead\u592b\u5987\u53ca\u65d7\u4e0b\u4e09\u516c\u53f812\u4ebf\u5b58\u6b3e\u88ab\u51bb\u7ed3","url":"\/redirect\/ec2bZTD24m8cUsFTRsuO3ssZllP3e60iyEQj8o_v6ZX8uXhQBuO3Vg2g5betamBJfNYM_eTwfLWyAiytMK-k0R7VCFvpKTByMF-t8L35wUzOC5bvyEa6BEJvgZEpRdg","site":"\u51e4\u51f0\u7f51","publishDate":"","refDate":"2017-07-03","index":37},{"type":"1","title":"\u4e50\u89c6\u98ce\u6ce2\u518d\u8f6c\u5411 \u8d3e\u8dc3\u4ead\u9053\u6b49\u6d3e\u4ee3\u8868\u5168\u6743\u5904\u7406","url":"\/redirect\/ec46GGAPkZ82vjmnoNM9b8D517_RljSNZQbgyaqMNeVjcJXR5u1lwdLjXWZA_adrn64rQXGAvTpZZTZbXV2LdUdt-6Hseafl6nBuLYmhKvDdNGUVqfTajjaS3j8JbmGed7GvtjvN-Pdw","site":"\u65b0\u6d6a","publishDate":"","refDate":"2018-02-07","index":38},{"type":"1","title":"\u8d3e\u8dc3\u4ead\u5426\u8ba4\u4e50\u89c6IPO\u9020\u5047 \u4e3aFF\u878d\u8d44\u6682\u65f6\u4e0d\u4f1a\u56de\u56fd","url":"\/redirect\/4bdf2qnw7wkg1ohBW8ymrgOBpspZOTt2BVcQc68-AliOb7daBlf-GahVbrbeN7HASKCrU98_AilskHTatFinS96zYAoU9o6W5dg6YnrwqkQhqxwURb0_aT2YuPh451Aw","site":"\u65b0\u534e\u7f51","publishDate":"","refDate":"2017-11-13","index":39},{"type":"1","title":"\u8d3e\u8dc3\u4ead\u4e25\u91cd\u5931\u4fe1\u9650\u4e58\u706b\u8f66\u98de\u673a\u00a0\u5176\u59d0\u59d0\u540c\u65f6\u5728\u5217","url":"\/redirect\/123eDqLWbjY_C2LtwYJqc6nGA1M99YB8LHOuTkiGtJCC0qzm6J9tqN9JVU1hjPyq8bwt_ZWVXDWV82v7FPdrtFArcyZyH9LkKicf9Oq-AGwFVNUSbYgStgEN","site":"\u793e\u4f1a--\u4eba\u6c11\u7f51","publishDate":"","refDate":"2018-06-02","index":40},{"index":41,"type":"1","title":"\u201c\u98a0\u8986\u8005\u201d\u8d3e\u8dc3\u4ead","url":"\/redirect\/f932kX-5VuD4QZ8BYcSyqHwCK48u-mdhmHDm91tcirgUO6cfqqbS_sCIXPEUlx3urFiHGZVVEFcN6z3nkY5aP7YTLRcJN29hk4iokVq5wmtV","site":"\u51e4\u51f0\u7f51","publishDate":"2013-9-28","refDate":"2013-10-25"},{"index":42,"type":"1","title":"\u4e92\u8054\u7f51\u7834\u5c40\u8005\u8d3e\u8dc3\u4ead","url":"\/redirect\/0926dfwfv8GhrgcazAQn9b00ZMf0L4DNUQsoBGDmBwc4JwumL6-H7EVAgr7_3fhFBDOJb56K3orZEPatnOSW36cbm_ISXH6i","site":"\u6bd4\u7279\u7f51","publishDate":"2013-9-12","refDate":"2013-10-25"},{"index":43,"type":"1","title":"\u4e50\u89c6\u8ff7\u5c40:\u201c\u98a0\u8986\u8005\u201d\u8d3e\u8dc3\u4ead\u80fd\u5426\u6253\u9020\u5927\u5c4f\u5de8\u65e0\u9738","url":"\/redirect\/7717nJrYPy_QgrMGCzr7S7uhcA7rL03WpJIA6vDbn8Yotk3SqI4eTDXcZXZOxwL_4YvtpKmBnL_jS8U9dDEcW6N26z4lVPSkX1ZcxA0r9a8UCg","site":"\u4e2d\u56fd\u4f01\u4e1a\u5bb6\u7f51","publishDate":"2013-6-4","refDate":"2013-10-25"}]
+			});
+		});
+	}();
+!function(){        require.async(["wiki-common:widget/lib/jquery/jquery"],function($){
+            function openTagToggle(node) {
+                if ($(node).hasClass("collapse")) {
+                    $(node).removeClass("collapse");
+                    $("#open-tag").css("height", '22px');
+                } else {
+                    $(node).addClass("collapse");
+                    $("#open-tag").css("height", $("#open-tag-item").css("height"));
+                }
+            }
+            if (parseInt($("#open-tag-item").css("height")) <= 30) {
+                $('#open-tag-collapse').hide();
+            }
+            $("#open-tag-collapse").on("click", function () {
+                openTagToggle($("#open-tag")[0]);
+            });
+        });
+    }();
+!function(){    require.async(["wiki-lemma:widget/promotion/rightTashuo/rightTashuo"],function(init){
+        init({
+            lemmaId: 5757030,
+            lemmaTitle: '贾跃亭'
+        });
+    });
+}();
+!function(){        require('wiki-lemma:widget/lemma_content/configModule/zhixin/zhixin')(
+            5757030,
+            '贾跃亭'
+        );
+    }();
+!function(){    require.async(["wiki-lemma:widget/lemma_content/mainContent/lemmaStatistics/lemmaStatistics"],function(init){
+        init({
+            newLemmaIdEnc:"b7f93dd66066bbd7ab3eaf7d"
+        });
+    });
+}();
+!function(){	require.async(["wiki-lemma:widget/lemma_content/mainContent/sideCatalog/sideCatalog"],function(SideCatalog){
+		new SideCatalog();
+	});
+}();
+!function(){        require.async(["wiki-lemma:widget/promotion/fengchao/fengchao","wiki-lemma:widget/promotion/unionAd/unionAd"], function (init, unionAd) {
+            init({
+                newLemmaId: "5757030",
+                lemmaTitle: "贾跃亭",
+                encodeLemmaTitle: "%BC%D6%D4%BE%CD%A4",
+                adManager: {"albumCoverSecondJumpAd":0,"personalClaimWhiteList":1,"wapRelatedBusiness":1}
+            }, {
+                errFn: unionAd,
+                dom: $('#side_box_unionAd')
+            });
+        });
+    }();
+!function(){        require.async(['wiki-lemma:widget/promotion/guessLike/guessLike'], function (app) {
+            app.init({
+                lemmaTitle: '贾跃亭',
+                adManager: {"albumCoverSecondJumpAd":0,"personalClaimWhiteList":1,"wapRelatedBusiness":1}
+            });
+        });
+    }();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var Dialog = require("wiki-common:widget/ui/dialog/dialog");
+    var userLogin = require('wiki-common:widget/component/userLogin/userLogin');
+    var unameFiller = require('wiki-common:widget/component/unameFiller/unameFiller');
+    var rightCheck = require('wiki-lemma:widget/tools/rightCheck/rightCheck');
+    var nsLog = require('wiki-common:widget/component/nslog/nslog');
+
+            var isEnterprise = false;
+        var enterpriseOwnerUserId = 0;
+    
+    var userId = 0;
+    var editUrl = '/edit/' + encodeURIComponent('贾跃亭') + '/' + '5757030';
+    var pgcUrl = '/enterprise/editpgc?lemmaId=5757030';
+    var canDiscussion = $('.j-discussion-link').length > 0 ? true : false;
+
+    userLogin.regist({
+        onLogin: function(user) {
+            userId = user ? user.uid : 0;
+        }
+    });
+
+    function gotoEdit(url, isMidNight) {
+        if (isMidNight) {
+            Dialog.alert({
+                title: '编辑提示',
+                subMsg: '晚23:00至次日8:00，因审核系统例行维护，您提交的版本可能需要较长时间才能通过，望您谅解。',
+                onConfirm: function() {
+                    window.location.href = url;
+                }
+            });
+        } else {
+            window.location.href = url;
+        }    
+    }
+
+    function showChoseEditDialog(pgcCallback, ugcCallback) {
+        new Dialog({
+            title: '编辑提示',
+            subMsg: '<p>您已开通企业百科服务，推荐您直接编辑“官方资料”，官方资料仅限企业百科绑定的百科账号修改，其他用户账号不可修改。</p><p>如果您想修改其他网友编辑的普通词条内容，请注意遵守百科百科编辑规则。<p>',
+            btns: [{
+            key: 'pgc',
+            text: '编辑官方资料'
+            }, {
+            style: 'white',
+            text: '修改普通词条',
+            key: 'ugc'
+            }],
+            onBtnClick: function(btnKey){
+                if (btnKey === 'pgc') {
+                    pgcCallback && pgcCallback();
+                } else if (btnKey === 'ugc') {
+                    ugcCallback && ugcCallback();
+                }
+            }
+        }).show();
+    }
+
+    function checkUserLegal(res) {
+        var legal = false;
+        switch (res.errno) {
+            case 100001:
+                nsLog('10003106');
+                userLogin.showLoginPop();
+                break;
+            case 100006:
+                unameFiller.show();
+                break;
+            default:
+                legal = true;
+        }
+        return true;
+    }
+
+    function checkUgc(res, url) {
+        if (res.errno) {
+            switch (res.errno) {
+                case 100005:
+                    alert('对不起，您目前被封禁');
+                    break;
+                case 110001:
+                    alert('对不起，该词条被锁定');
+                    break;
+                case 110007:
+                    alert('对不起，消歧页无法编辑');
+                    break;
+                case 110005:
+                    nsLog('10003101');
+                    var content = '<div style="text-align: left;width: 490px">'
+                        + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-bottom: 20px;">' 
+                        + '编辑权限不足</h2>' 
+                        + '<p style="font-size: 16px;color: #333;line-height: 26px;margin-bottom: 17px;">'
+                        + '亲爱的用户，该词条内容已较完善，需百科等级达到4级且通过率达85%才可编辑哦。</p>'
+                        + '<p style="font-size: 16px;color: #333">你当前百科等级为'
+                        + res.data.userInfo.level + '级、通过率'
+                        + res.data.userInfo.passRatio + '%，可进行以下操作：</p></div>';
+                    var btns = [
+                        {
+                            text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                            key: 'task'
+                        }
+                    ];
+                    if (canDiscussion) {
+                        btns = [
+                            {
+                                key: 'discussion',
+                                text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>'
+                            },
+                            {
+                                text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                                key: 'task'
+                            }
+                        ];
+                    }
+                    new Dialog({
+                        title: '编辑提示',
+                        content: content,
+                        btns: btns,
+                        onBtnClick: function(btnKey){
+                            if (btnKey === 'discussion') {
+                                window.location.href = '/planet/talk?lemmaId=5757030&category=1';
+                            } else if (btnKey === 'task') {
+                                window.location.href = '/usercenter#guide';
+                            }
+                        }
+                    }).show();
+                    break;
+                case 110008:
+                    nsLog('10003102');
+                    var content = '<div style="text-align: left;width: 490px">'
+                        + '<h2 style="font-size: 20px;color: #333;line-height: 26px;margin-bottom: 20px;">' 
+                        + '编辑权限不足</h2>' 
+                        + '<p style="font-size: 16px;color: #333;line-height: 26px;margin-bottom: 17px;">'
+                        + '亲爱的用户，该词条内容已较完善，需百科等级达到6级且通过率达85%才可编辑哦。</p>'
+                        + '<p style="font-size: 16px;color: #333">你当前百科等级为'
+                        + res.data.userInfo.level + '级、通过率'
+                        + res.data.userInfo.passRatio + '%，可进行以下操作：</p></div>';
+                    var btns = [
+                        {
+                            text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                            key: 'task'
+                        }
+                    ];
+                    if (canDiscussion) {
+                        btns = [
+                            {
+                                key: 'discussion',
+                                text: '<span style="font-size: 14px">参与词条讨论，反馈词条问题</span>'
+                            },
+                            {
+                                text: '<span style="font-size: 14px">参加成长任务，提升编辑权限</span>',
+                                key: 'task'
+                            }
+                        ];
+                    }
+                    new Dialog({
+                        title: '编辑提示',
+                        content: content,
+                        btns: btns,
+                        onBtnClick: function(btnKey){
+                            if (btnKey === 'discussion') {
+                                window.location.href = '/planet/talk?lemmaId=5757030&category=1';
+                            } else if (btnKey === 'task') {
+                                window.location.href = '/usercenter#guide';
+                            }
+                        }
+                    }).show();
+                    break;
+                case 470001:
+                    alert('系统错误，请刷新重试');
+                    break;
+                case 110003:
+                    nsLog('10003103');
+                    Dialog.alert({
+                        title: '编辑提示',
+                        subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                    });
+                    break;
+            }
+        } else {
+            if (!res.data.right.noAudit) {
+                Dialog.alert({
+                    title: '编辑提示',
+                    subMsg: '很抱歉，该词条有其他用户编辑的版本正在提交，您暂时无法编辑。<br/>百科建议您晚些时候再编辑该词条，或者尝试编辑其他的词条。'
+                });
+                return;
+            }
+            gotoEdit(url, res.data.notice.isMidNight);
+        }
+    }
+
+    $(document.body).on('click', '.j-edit-link', function() {
+        nsLog('10003100');
+        var dl = $(this).attr('data-edit-dl');
+        if (dl) {
+            var url = editUrl + '?dl=' + dl;
+        } else {
+            var url = editUrl;
+        }
+
+        rightCheck.preeditCheck('5757030', '贾跃亭', '贾跃亭', '133502406', '', function(res) {
+            if (!checkUserLegal(res)) {
+                return;
+            }
+            if (isEnterprise && enterpriseOwnerUserId === userId) {
+                showChoseEditDialog(function() {
+                    location.href = pgcUrl;
+                }, function() {
+                    checkUgc(res, url);
+                });
+            } else {
+                checkUgc(res, url);
+            }
+        });
+    });
+}();
+!function(){  require.async(["wiki-common:widget/lib/jquery/jquery","wiki-common:widget/component/footer/footer_feedback"], function($, feedback){
+    feedback({el: '#J-bk-feedback-main'});
+    feedback({el: '#J-bk-feedback-query', config: {
+        appid: 215645,
+        productLine: 20184,
+        needContactWay: false,
+        issuePlaceholder: '亲爱的百度百科用户，请在此填写您的质疑内容及原因哦～'
+      },
+      proData: {
+        "kw": $('#J-bk-feedback-query').data('lemma')
+      }
+    });
+  });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      initSearchbar = require('wiki-common:widget/component/searchbar-n/searchbar');  
+    initSearchbar($('.wgt-searchbar-simple'));
+  }();
+!function(){    require.async(["wiki-lemma:widget/tools/searchHeader/toolButtons-n/toolButtons"],function(init){
+        init({
+            lemmaId:"3110930",
+            subLemmaId:"3110930",
+            newLemmaId:"5757030"
+        });
+    });
+}();
+!function(){    require('wiki-lemma:widget/tools/searchHeader/toolButtons-n/userInfo')();
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery'),
+      animation = require('wiki-common:widget/util/animation'),
+      nslog = require('wiki-common:widget/component/nslog/nslog'),
+      initSearchbar = require('wiki-common:widget/component/searchbar/searchbar');
+
+    var isFadeIn = false,
+        isFadeOut = false;
+
+    var fadeInAni, fadeOutAni;
+
+    $(window).on('scroll', function(e) {
+        var scrollTop = $(this).scrollTop();
+
+        if (scrollTop > 200 && !isFadeIn && $('.lemmaWgt-searchHeader').css('display') == 'none') {
+            fadeOutAni && fadeOutAni.stop();
+            fadeInAni = animation({
+                duration: 200,
+                easing: 'linear',
+                onStart: function() {
+                    isFadeOut = false;
+                    isFadeIn = true;
+                    $('.lemmaWgt-searchHeader').css('display', 'block');
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', progress)
+                },
+                onComplete: function(progress) {
+                    isFadeIn = false;
+                    nslog(10010007);
+                }
+            });
+        } else if (scrollTop <= 200 && !isFadeOut && $('.lemmaWgt-searchHeader').css('display') == 'block') {
+            fadeInAni && fadeInAni.stop();
+            fadeOutAni = animation({
+                duration: 300,
+                easing: 'linear',
+                onStart: function() {
+                    $('.lemmaWgt-searchHeader #suggestion').hide();
+                    isFadeIn = false;
+                    isFadeOut = true;
+                },
+                onStep: function(progress) {
+                    $('.lemmaWgt-searchHeader').css('opacity', 1 - progress);
+                },
+                onComplete: function(progress) {
+                    isFadeOut = false;
+                    $('.lemmaWgt-searchHeader').css('display', 'none');
+                }
+            });
+        }
+    });
+}();
+!function(){    require('wiki-lemma:widget/tools/newSideShare/qzopensl');
+    require.async(["wiki-lemma:widget/tools/newSideShare/taskSideShare"],function(taskShare){
+        taskShare.init({
+            title: '贾跃亭',
+            desc: "\u8d3e\u8dc3\u4ead\uff0c\u7537\uff0c\u6c49\u65cf\uff0c1973\u5e742\u67086\u65e5\u51fa\u751f\u4e8e\u5c71\u897f\u8944\u6c7e\uff0c\u4e50\u89c6\u63a7\u80a1\u96c6\u56e2\u521b\u59cb\u4eba\uff0c\u4e50\u89c6\u6c7d\u8f66\u751f\u6001\u5168\u7403\u8463\u4e8b\u957f\u30022004\u5e74\u521b\u5efa\u4e50\u89c6\u7f51\uff0c\u4e8e2010\u5e748\u6708\u5728\u521b\u4e1a\u677f\u4e0a\u5e02\uff0c\u81f4\u529b\u4e8e\u6253\u9020\u57fa\u4e8e\u89c6\u9891\u4ea7\u4e1a\u3001\u5185\u5bb9\u4ea7\u4e1a\u548c\u667a\u80fd\u7ec8\u7aef\u7684\u201c\u5e73\u53f0+\u5185\u5bb9+\u7ec8\u7aef+\u5e94\u7528\u201d\u5b8c\u6574\u751f\u6001\u7cfb\u7edf\uff0c\u88ab\u4e1a\u754c\u79f0\u4e3a\u201c\u4e50\u89c6\u6a21\u5f0f\u201d\u30022016\u5e74\u80e1\u6da6\u767e\u5bcc\u699c\uff0c\u8d3e\u8dc3\u4ead\u4ee5420\u4ebf\u8d22\u5bcc\u6392\u540d\u7b2c31\u4f4d\u30022016\u80e1\u6da6IT\u5bcc\u8c6a\u699c\uff0c\u8d3e\u8dc3\u4ead\u4ee5355\u4ebf\u5143\u6392\u540d\u7b2c\u516b\u30022016\u798f\u5e03\u65af\u4e2d\u56fd\u5bcc\u8c6a\u699c\uff0c\u8d3e\u8dc3\u4ead\u6392\u540d\u7b2c37\u4f4d\u30022017\u5e746\u670813\u65e5\uff0c\u4e50\u89c6\u63a7\u80a1(\u5317\u4eac)\u6709\u9650\u516c\u53f8\u7684\u6cd5\u5b9a\u4ee3\u8868\u4eba\u53d1\u751f\u53d8\u66f4\uff0c\u7531\u8d3e\u8dc3\u4ead\u53d8\u66f4\u4e3a\u5434\u5b5f\uff1b7\u67086\u65e5\uff0c\u8f9e\u53bb\u4e50\u89c6\u7f51\u8463\u4e8b\u957f\uff0c\u5e76\u51fa\u4efb\u4e50\u89c6\u6c7d\u8f66\u751f\u6001\u5168\u7403\u8463\u4e8b\u957f\uff1b7\u670827\u65e5\u665a\uff0c\u4e50\u89c6\u7f51\uff08300104\uff09\u6536\u5230\u63a7\u80a1\u80a1\u4e1c\u8d3e\u8dc3\u4ead\u901a\u77e5\uff0c\u8d3e\u8dc3\u4ead\u76f4\u63a5\u6240\u6301\u4e50\u89c6\u7f51\u80a1\u4efd\u88ab\u5168\u90e8\u51bb\u7ed3\u30022017\u5e7411\u670810\u65e5\uff0c\u4e50\u89c6\u7f51\u53d1\u5e03\u516c\u544a\uff0c\u79f0\u8d3e\u8dc3\u4ead\u5728\u56de\u51fd\u4e2d\u8868\u793a\u65e0\u529b\u5c65\u884c\u65e0\u606f\u501f\u6b3e\u4e0e\u589e\u6301\u627f\u8bfa\uff0c\u201c\u6df1\u8868\u6b49\u610f\u201d\u3002 2017\u5e7412\u670812\u65e5\uff0c\u8d3e\u8dc3\u4ead\u88ab\u5217\u5165\u4e86\u5931\u4fe1\u88ab",
+            pic: 'https:\/\/gss3.bdstatic.com\/-Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/w%3D268\/sign=5ea101529def76c6d0d2fc2da517fdf6\/810a19d8bc3eb135888664c8ab1ea8d3fd1f4404.jpg',
+            url: '',
+            qqPic: 'https:\/\/gss3.bdstatic.com\/-Po3dSag_xI4khGkpoWK1HF6hhy\/baike\/whfpf%3D500%2C500%2C50\/sign=1018e50c75f0f736d8ab1f416c688629\/810a19d8bc3eb135888664c8ab1ea8d3fd1f4404.jpg',
+            newLemmaId: '5757030',
+            lemmaTitle: '贾跃亭'
+        });
+    });
+}();
+!function(){    var $ = require('wiki-common:widget/lib/jquery/jquery');
+    var nslog = require("wiki-common:widget/component/nslog/nslog");
+    var testElem = require('wiki-common:widget/component/testElem/testElem');
+    var cmsModuleLoader = require('wiki-common:widget/component/cmsModuleLoader/cmsModuleLoader');
+
+    function requireAsync() {
+        require.async(['wiki-lemma:widget/tools/announcement/announcement']);
+    }
+
+    cmsModuleLoader('/api/wikiui/getlemmaconfig', [{
+        name: 'announcement',
+        script: 'wiki-lemma:widget/tools/announcement/announcement.js'
+    }]);
+
+    require.async(["wiki-lemma:widget/tools/lazyLoad/lazyLoad"], function(LazyLoad) {
+        new LazyLoad();
+    });
+
+    require.async(['wiki-common:widget/component/nslog/nslog','wiki-common:widget/lib/jquery/jquery'], function(nslog, $) {
+        nslog().setGlobal({
+            lemmaId: "3110930",
+            newLemmaId: "5757030",
+            subLemmaId: "3110930",
+            lemmaTitle: "贾跃亭"
+        });
+
+        // 词条页 pv
+        nslog(9322);
+
+        // 新版头部pv（小流量）
+        if ($('.pc-header-new').length > 0) {
+            nslog(9069);
+        }
+
+        // 链接点击 pv
+        var lemmaPageRegExp = new RegExp(/\/subview\/\d+|\/view\/\d+|\/item\//i);
+        $('body').on('mousedown', 'a', function() {
+            var href = $(this).attr('href');
+            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0) {
+                // 链接点击 pv
+                nslog(10000001);
+                if (lemmaPageRegExp.test(href)) {
+                    // 词条页链接点击 pv
+                    nslog(10000002, window.location.href, {
+                        targetTitle: $(this).text()
+                    });
+                }
+            }
+        });
+
+        /****** 词条页站内流转需求统计 start ******/
+        (function () {
+            // 各种统计配置
+            var circulationLinkCfg = {
+                innerLink: [ // 内链
+                    '.para',
+                    '.lemmaWgt-baseInfo-simple-largeMovie',
+                    '.lemmaWgt-baseInfo-simple-largeStar',
+                    '.basic-info .basicInfo-block',
+                    '.lemma-summary',
+                    '.lemmaWgt-lemmaSummary',
+                    '.view-tip-panel',
+                    '.horizontal-module',
+                    '.lemmaWgt-roleIntroduction',
+                    '.dramaSeries .dramaSerialList',
+                    '.module-music',
+                    '.table-view',
+                    '[log-set-param="table_view"]',
+                    '.list-module',
+                    '.cell-module',
+                    '.baseBox .dl-baseinfo', // 配置后台字段
+                    '.pvBtn-box .leadPVBtnWrapper',
+                    '.drama-actor',
+                    '#staffList',
+                    '.starMovieAndTvplay',
+                    '.main_tab:not(.main_tab-defaultTab)' // 除去词条tab外的tab
+                ],
+                relationTable: '.rs-container-foot', // 关系表
+                peopleRelation: '.star-info-block.relations, .lemmaWgt-focusAndRelation', // 人物关系（明星+普通）
+                moduleActors: '.featureBaseInfo .actors, .lemmaWgt-majorActors', // 主要演员、嘉宾、主持人
+                moduleWorks: '.featureBaseInfo .works, .large-feature .works', // 代表作品
+                moduleQuarterly: '.featureBaseInfo .po_quarterly, .mian_quarterly', // 分季介绍
+                rankStar: '.rank-list.stars-rank', // 明星榜
+                rankDrama: '.drama-rank-list', // 电视剧榜
+                specialTopic: '.special-topic', // 专题模块
+                modDetailTable: '#modDetailTable', // 关系表出图
+                chuizhitu: '.chuizhitu', // 垂直化模块
+                polysemantList: '.polysemantList-wrapper' // 义项切换
+            };
+            /****** 连接统计 ******/
+            function clickNslogFn() {
+                for (var k in circulationLinkCfg) {
+                    if (k === 'innerLink') {
+                        // 词条内链到词条页
+                        var tempArr = circulationLinkCfg[k];
+                        for (var i = 0, l = tempArr.length; i < l; i++) {
+                            tempArr[i] += ' a';
+                        }
+                        var sSelector = tempArr.join(', ');
+
+                        $('body').on('mousedown', sSelector, {key: k},function(e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            var tar = $(this).attr('target') || '';
+                            if (href && href.indexOf('/') >= 0 && href.indexOf('#') !== 0
+                            && tar === '_blank' && lemmaPageRegExp.test(href)) {
+                                // 词条页普通内链点击 pv
+                                nslog(10000004, null ,{division: key});
+                            }
+                        });
+                    } else {
+                        // 模块到词条页链接
+                        $(circulationLinkCfg[k]).on('mousedown', 'a', {key: k}, function (e) {
+                            var key = e.data.key;
+                            var href = $(this).attr('href');
+                            if (href && href.indexOf('#') !== 0 && lemmaPageRegExp.test(href)) {
+                                // 词条页配置模块链接点击 pv
+                                nslog(10000004, null, {division: key});
+                            }
+                        });
+                    }
+                }
+            }
+            // 发起统计请求
+            clickNslogFn();
+
+            /****** 各模块展现量pv ******/
+            function checkModuleIsShow() {
+                var result = [];
+                for (var k in circulationLinkCfg) {
+                    if (k !== 'innerLink' && k !== 'relationTable') {
+                        !!$(circulationLinkCfg[k]).html() && result.push(k);
+                    }
+                }
+                if (result.length > 0) {
+                    nslog(10000005, null, {showModules: result.join(',')});
+                }
+            }
+            checkModuleIsShow();
+
+        })();
+        /****** 词条页站内流转需求统计 end ******/
+
+    });
+
+    // 广告接入 wikiad 统一加载
+    // log 词条页广告被拦截情况（此处 log 请求行为）
+    nslog(70000101, window.location.href, {
+        api: 'lemma-ad',
+        action: 'request'
+    });
+    var tags = [{"tagId":0,"tagName":"\u4eba\u7269"}];
+    var tagsArray = [];
+    for (var key in tags) {
+        tagsArray.push(tags[key].tagName);
+    }
+    $.ajax({
+        type: 'GET',
+        url: '/api/wikiad/getsquirrels',
+        data: {
+            lemmaId: 5757030,
+            tags: tagsArray.join()
+        },
+        cache: false,
+        dataType: 'JSON',
+        success: function (res) {
+            // log 词条页广告被拦截情况（此处 log 请求成功）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'success'
+            });
+
+            if (!res.errno) {
+                if (res.data[5]) {
+                    require.async(['wiki-lemma:widget/promotion/rightPreciseAd/rightPreciseAd'], function(rightPreciseAd) {
+                        rightPreciseAd(res.data[5]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[5][0].adId,
+                            adTitle: res.data[5][0].name,
+                            adPos: 5
+                        });
+                    });
+                } else if (res.data[1]) {
+                                        require.async(['wiki-lemma:widget/promotion/vbaike/vbaike'], function(vbaike) {
+                        vbaike(res.data[1]);
+                        for(var i in res.data[1]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[1][i].adId,
+                                adTitle: res.data[1][i].name,
+                                adPos: 1
+                            });
+                        }
+                    });
+                                    }
+                if (res.data[9]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightBigAd/rightBigAd'], function(rightBigAd) {
+                        rightBigAd(res.data[9]);
+                            nslog(10002201, location.href, {
+                                adId: res.data[9][0].adId,
+                                adTitle: res.data[9][0].name,
+                                adPos: 9
+                            });
+                    });
+                                    } else if(res.data[2]) {
+                    require.async(['wiki-lemma:widget/promotion/slide/slide'], function(slide) {
+                        slide(res.data[2]);
+                        for(var i in res.data[2]) {
+                            nslog(10002201, location.href, {
+                                adId: res.data[2][i].adId,
+                                adTitle: res.data[2][i].name,
+                                adPos: 2
+                            });
+                        }
+                    });
+                }
+                if (res.data[3]) {
+                                        require.async(['wiki-lemma:widget/promotion/topAd/topAd'], function(topAd) {
+                        topAd(res.data[3]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[3][0].adId,
+                            adTitle: res.data[3][0].name,
+                            adPos: 3
+                        });
+                    });
+                                    }
+                if (res.data[4]) {
+                                        require.async(['wiki-lemma:widget/promotion/rightAd/rightAd'], function(rightAd) {
+                        rightAd(res.data[4]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[4][0].adId,
+                            adTitle: res.data[4][0].name,
+                            adPos: 4
+                        });
+                    });
+                                    }
+                if (res.data[15]) {
+                    require.async(['wiki-lemma:widget/promotion/banner/banner'], function(banner) {
+                        banner(res.data[15]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[15][0].adId,
+                            adTitle: res.data[15][0].name,
+                            adPos: 15
+                        });
+                    });
+                }
+                if (res.data[16]) {
+                    require.async(['wiki-lemma:widget/promotion/declaration/declaration'], function(declaration) {
+                        declaration(res.data[16]);
+                        nslog(10002201, location.href, {
+                            adId: res.data[16][0].adId,
+                            adTitle: res.data[16][0].name,
+                            adPos: 16
+                        });
+                    })
+                }
+            } else {
+                return;
+            }
+
+            setTimeout(function () {
+                var elemArr = {};
+                res.data[1] && res.data[1].length > 0 && (elemArr['lemma-vbaike-ad'] = $('.lemmaWgt-promotion-vbaike .promotion_viewport a:eq(0) img').get(0));
+                res.data[2] && res.data[2].length > 0 && (elemArr['lemma-slide-ad'] = $('.lemmaWgt-promotion-slide .promotion_viewport a:eq(0) img').get(0));
+                res.data[3] && res.data[3].length > 0 && (elemArr['lemma-navbar-ad'] = {
+                    node: $('.header [nslog-type="10002202"]').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.header [nslog-type="10002202"]').css('background-image').indexOf(res.data[3][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[4] && res.data[4].length > 0 && (elemArr['lemma-side-ad'] = {
+                    node: $('.right-ad img').get(0),
+                    validations: {
+                        'noBackgroundImage': function() {
+                            return $('.right-ad img').attr('src').indexOf(res.data[4][0].picUrl) < 0
+                        }
+                    }
+                });
+                res.data[15] && res.data[15].length > 0 && (elemArr['lemma-configModule-banner'] = $('.configModuleBanner').get(0));
+                res.data[16] && res.data[16].length > 0 && (elemArr['lemma-configModule-declaration'] = $('.lemmaWgt-declaration').get(0));
+
+                testElem.log(elemArr, 70000102);
+            }, 1000);
+        },
+        error: function () {
+            // log 词条页广告被拦截情况（此处 log 请求失败）
+            nslog(70000101, window.location.href, {
+                api: 'lemma-ad',
+                action: 'error'
+            });
+        }
+    });
+
+    // 设置分享内容
+    window.BKShare.setCommon({
+        bdText: "\u3010\u8d3e\u8dc3\u4ead_\u767e\u5ea6\u767e\u79d1\u3011\u8d3e\u8dc3\u4ead\uff0c\u7537\uff0c\u6c49\u65cf\uff0c1973\u5e742\u67086\u65e5\u51fa\u751f\u4e8e\u5c71\u897f\u8944\u6c7e\uff0c\u4e50\u89c6\u63a7\u80a1\u96c6\u56e2\u521b\u59cb\u4eba\uff0c\u4e50\u89c6\u6c7d\u8f66\u751f\u6001\u5168\u7403\u8463\u4e8b\u957f\u30022004\u5e74\u521b\u5efa\u4e50\u89c6\u7f51\uff0c\u4e8e2010\u5e748\u6708\u5728\u521b\u4e1a\u677f\u4e0a\u5e02\uff0c\u81f4\u529b\u4e8e\u6253\u9020\u57fa\u4e8e\u89c6\u9891\u4ea7\u4e1a\u3001\u5185\u5bb9\u4ea7\u4e1a\u548c\u667a\u80fd\u7ec8\u7aef\u7684\u201c\u5e73\u53f0+\u5185\u5bb9+\u7ec8\u7aef+\u5e94\u7528\u201d\u5b8c\u6574\u751f\u6001\u7cfb\u7edf\uff0c\u88ab\u4e1a\u754c\u79f0\u4e3a\u201c\u4e50\u89c6\u6a21\u5f0f\u201d\u30022016\u5e74\u80e1\u6da6\u767e\u5bcc\u699c\uff0c\u8d3e\u8dc3\u4ead\u4ee5420\u4ebf\u8d22\u5bcc\u6392\u540d\u7b2c31\u4f4d\u30022016\u80e1\u6da6IT\u5bcc\u8c6a\u699c\uff0c\u8d3e\u8dc3\u4ead\u4ee5355\u4ebf\u5143\u6392\u540d\u7b2c\u516b\u30022016\u798f\u5e03\u65af\u4e2d\u56fd\u5bcc\u8c6a\u699c\uff0c\u8d3e\u8dc3\u4ead\u6392\u540d\u7b2c37\u4f4d\u30022017\u5e746\u670813\u65e5\uff0c\u4e50\u89c6\u63a7\u80a1(\u5317\u4eac)\u6709\u9650\u516c\u53f8\u7684\u6cd5\u5b9a\u4ee3\u8868\u4eba\u53d1\u751f\u53d8\u66f4\uff0c\u7531\u8d3e\u8dc3\u4ead\u53d8\u66f4\u4e3a\u5434\u5b5f\uff1b7\u67086\u65e5\uff0c\u8f9e\u53bb\u4e50\u89c6\u7f51\u8463\u4e8b\u957f\uff0c\u5e76\u51fa\u4efb\u4e50\u89c6\u6c7d\u8f66\u751f\u6001\u5168\u7403\u8463\u4e8b\u957f\uff1b7\u670827\u65e5\u665a\uff0c\u4e50\u89c6\u7f51\uff08300104\uff09\u6536\u5230\u63a7\u80a1\u80a1\u4e1c\u8d3e\u8dc3\u4ead\u901a\u77e5\uff0c\u8d3e\u8dc3\u4ead\u76f4\u63a5\u6240\u6301\u4e50\u89c6\u7f51\u80a1\u4efd\u88ab\u5168\u90e8\u51bb\u7ed3\u30022017\u5e7411\u670810\u65e5\uff0c\u4e50\u89c6\u7f51\u53d1\u5e03\u516c\u544a\uff0c\u79f0\u8d3e\u8dc3\u4ead\u5728\u56de\u51fd\u4e2d\u8868\u793a\u65e0\u529b\u5c65\u884c\u65e0\u606f\u501f\u6b3e\u4e0e\u589e\u6301\u627f\u8bfa\uff0c\u201c\u6df1\u8868\u6b49\u610f\u201d\u3002 2017\u5e7412\u670812\u65e5\uff0c\u8d3e\u8dc3\u4ead\u88ab\u5217\u5165\u4e86\u5931\u4fe1\u88ab.....\uff08\u5206\u4eab\u81ea@\u767e\u5ea6\u767e\u79d1\uff09",
+        bdDesc: '',
+        bdUrl: 'http:\/\/baike.baidu.com\/item\/%E8%B4%BE%E8%B7%83%E4%BA%AD\/5757030',
+        bdPic: '',
+        onBeforeClick: function (){
+            $('.bdshare_dialog_box').hide();
+        }
+    });
+
+    // 底部投诉带入当前页面 url
+    var map = [1, 2, 6, 5];
+    $('.wgt-footer-main .suggestion').find('a').each(function(i) {
+        $(this).attr('href', 'http://help.baidu.com/newadd?word=%E8%B4%BE%E8%B7%83%E4%BA%AD' + '&&submit_link=' + encodeURIComponent(window.location.href) + '&prod_id=10&category=' + map[i]);
+    });
+
+    // 为超出预设内容的表格添加table-responsive控制
+    $('.main-content').find('table').each(function(index) {
+        var $that = $(this);
+        if ($that.width() > 790) {
+            $that.wrap('<div class="table-responsive"></div>');
+        }
+    });
+}();
+!function(){      require('wiki-common:widget/component/psLink/psLink');
+    }();
+!function(){      require('wiki-common:widget/component/recruitment/recruitment');
+    }();</script>
+<script type="text/javascript">
+  var Hunter = window.Hunter || {};
+  Hunter.userConfig = Hunter.userConfig || [];
+  </script>
+<script type="text/javascript" src="https://gss0.baidu.com/70cFsjip0QIZ8tyhnq/hunter/baike.js?st=17865" defer></script><script type="text/javascript">
+  // DOM Ready时，统计用户可操作时间。
+  alog('speed.set', 'drt', +new Date);
+
+  void function(a,b,c,d,e,f){function g(b){a.attachEvent?a.attachEvent("onload",b,!1):a.addEventListener&&a.addEventListener("load",b)}function h(a,c,d){d=d||15;var e=new Date;e.setTime((new Date).getTime()+1e3*d),b.cookie=a+"="+escape(c)+";path=/;expires="+e.toGMTString()}function i(a){var c=b.cookie.match(new RegExp("(^| )"+a+"=([^;]*)(;|$)"));return null!=c?unescape(c[2]):null}function j(){var a=i("PMS_JT");if(a){h("PMS_JT","",-1);try{a=a.match(/{["']s["']:(\d+),["']r["']:["']([\s\S]+)["']}/),a=a&&a[1]&&a[2]?{s:parseInt(a[1]),r:a[2]}:{}}catch(c){a={}}a.r&&b.referrer.replace(/#.*/,"")!=a.r||alog("speed.set","wt",a.s)}}if(a.alogObjectConfig){var k=a.alogObjectConfig.sample,l=a.alogObjectConfig.rand;d="https:"===a.location.protocol?"https://fex.bdstatic.com"+d:"http://fex.bdstatic.com"+d,k&&l&&l>k||(g(function(){alog("speed.set","lt",+new Date),e=b.createElement(c),e.async=!0,e.src=d+"?v="+~(new Date/864e5)+~(new Date/864e5),f=b.getElementsByTagName(c)[0],f.parentNode.insertBefore(e,f)}),j())}}(window,document,"script","/hunter/alog/dp.min.js");
+</script>
+</html>

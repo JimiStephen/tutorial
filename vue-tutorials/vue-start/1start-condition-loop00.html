@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>起步一</title>
+
+    <!-- 开发环境版本，包含了有帮助的命令行警告 -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+    <!-- 生产环境版本，优化了尺寸和速度 -->
+    <!--<script src="https://cdn.jsdelivr.net/npm/vue"></script>-->
+
+
+</head>
+<body>
+<div id="app-3">
+    <p v-if="seen">现在你看到我了</p>
+</div>
+<div>
+    <b>说明：</b>
+    因为 app3.seen = true，才会显示消息，如果改为false就不会显示 。
+
+</div>
+<script type="application/javascript">
+
+    var app3 = new Vue({
+        el: '#app-3',
+        data: {
+            seen: true
+        }
+    })
+</script>
+</body>
+</html>

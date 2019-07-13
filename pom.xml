@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.jimi.parent</groupId>
+    <artifactId>tutorial</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <properties>
+
+        <jdk.version>1.8</jdk.version>
+    </properties>
+
+    <modules>
+        <module>plantuml</module>
+        <module>java-tutorials</module>
+        <module>solr-tutorials</module>
+        <module>vue-tutorials</module>
+        <module>poi-tutorial</module>
+        <module>spring-test-tutorial</module>
+    </modules>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.0</version>
+                <configuration>
+                    <verbose>true</verbose>
+                    <fork>true</fork>
+                    <compilerVersion>{jdk.version}</compilerVersion>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

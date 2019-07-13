@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>起步一</title>
+
+    <!-- 开发环境版本，包含了有帮助的命令行警告 -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+    <!-- 生产环境版本，优化了尺寸和速度 -->
+    <!--<script src="https://cdn.jsdelivr.net/npm/vue"></script>-->
+
+
+</head>
+<body>
+<div id="app-4">
+    <ol>
+        <li v-for="todo in todos">
+            {{ todo.text }}
+        </li>
+    </ol>
+</div>
+<div>
+    <b>说明：</b>
+    在控制台里，输入 app4.todos.push({ text: '新项目' })，你会发现列表最后添加了一个新项目。
+</div>
+<script type="application/javascript">
+
+    var app4 = new Vue({
+        el: '#app-4',
+        data: {
+            todos: [
+                { text: '学习 JavaScript' },
+                { text: '学习 Vue' },
+                { text: '整个牛项目' }
+            ]
+        }
+    })
+</script>
+</body>
+</html>

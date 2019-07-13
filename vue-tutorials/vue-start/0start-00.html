@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>起步一</title>
+
+    <!-- 开发环境版本，包含了有帮助的命令行警告 -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+    <!-- 生产环境版本，优化了尺寸和速度 -->
+    <!--<script src="https://cdn.jsdelivr.net/npm/vue"></script>-->
+
+
+</head>
+<body>
+<div id="app">
+    {{ message }}
+</div>
+<div>
+    现在数据和 DOM 已经被建立了关联，所有东西都是响应式的。
+</div>
+<script type="application/javascript">
+
+    var app = new Vue({
+        el: '#app',
+        data: {
+            message: 'Hello Vue!'
+        }
+    })
+</script>
+</body>
+</html>

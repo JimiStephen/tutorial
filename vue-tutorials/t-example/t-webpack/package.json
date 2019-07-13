@@ -1,0 +1,31 @@
+{
+  "name": "t-webpack",
+  "version": "1.0.0",
+  "description": "> Before we begin, make sure you have a fresh version of Node.js installed. The current Long Term Support (LTS) release is an ideal starting point. You may run into a variety of issues with the older versions as they may be missing functionality webpack and/or its related packages require.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server --open",
+    "server": "node server.js",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.19",
+    "css-loader": "^1.0.0",
+    "csv-loader": "^3.0.2",
+    "express": "^4.16.3",
+    "file-loader": "^2.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "papaparse": "^4.5.0",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-middleware": "^3.2.0",
+    "webpack-dev-server": "^3.1.7",
+    "xml-loader": "^1.2.1"
+  }
+}
