@@ -12,8 +12,8 @@ public class PathTutorials01 {
     public static Path path = Paths.get(pathC);
 
     public static void main(String... args) {
-        //testPaths();
-        //checkPaths();
+//        testPaths();
+        checkPaths();
 
 
     }
@@ -45,7 +45,8 @@ public class PathTutorials01 {
 
         Path p1 = Paths.get("C://Windows");
         //p1 = Paths.get("C://usr");
-        Path p2 = Paths.get("C://usr");
+        Path p2 = Paths.get("C://Temp" +
+                "");
 
         try {
             if (Files.isSameFile(p1, p2)) {
