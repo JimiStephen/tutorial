@@ -1,0 +1,5 @@
+# codelingo.yaml file
+
+tenets:
+  - import: codelingo/go
+  - import: codelingo/psr2
