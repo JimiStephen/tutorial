@@ -4,5 +4,9 @@ module.exports={
 		["@babel/preset-env",{
 			"useBuiltIns":"useage"
 		}]
+	],
+	plugins:[
+	//>npm install @babel/plugin-syntax-dynamic-import --save-dev
+	'@babel/plugin-syntax-dynamic-import'
 	]
 }
