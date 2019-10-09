@@ -1,8 +1,8 @@
 //build/webpack.config.js
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const webpack = require('webpack');
-const VueLoaderPlugin = require('vue-load/lib/plugin');
+const webpack = require('webpack')
+const VueLoaderPlugin = require('vue-loader/lib/plugin');
 
 module.exports={
 	//package mode
@@ -150,8 +150,8 @@ module.exports={
 			template:path.resolve(__dirname,'../public/index.html')
 		}),
 		//npm install webpack-dev-server -D 代码热更新
-		new webpack.NameModulesPlugin(),
-		new webpack.HotModuleRepacementPlugin(),
+		new webpack.NamedModulesPlugin(),
+		new webpack.HotModuleReplacementPlugin(),
 		//定义环境变量
 		 new webpack.DefinePlugin({
 		  'process.env': {
