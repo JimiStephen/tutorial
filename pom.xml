@@ -17,7 +17,6 @@
         <module>plantuml</module>
         <module>java-tutorials</module>
         <module>solr-tutorials</module>
-        <module>vue-tutorials</module>
         <module>poi-tutorial</module>
         <module>spring-test-tutorial</module>
     </modules>
