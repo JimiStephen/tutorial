@@ -15,7 +15,7 @@ public class BasicChannelTest {
 
         RandomAccessFile aFile = null;
         try {
-            aFile = new RandomAccessFile("/data/nio-data.txt", "rw");
+            aFile = new RandomAccessFile(ClassLoader.getSystemResource("./data/nio-data.txt").getFile(), "rw");
             FileChannel inChannel = aFile.getChannel();
 
 
