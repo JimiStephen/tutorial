@@ -13,3 +13,17 @@ Java NIO enables you to do non-blocking IO. For instance, a thread can ask a cha
 ### Java NIO: Selectors
 Java NIO contains the concept of "selectors". A selector is an object that can monitor multiple channels for events 
 (like: connection opened, data arrived etc.). Thus, a single thread can monitor multiple channels for data.
+
+
+Java NIO consist of the following core components:
+
+Channels
+Buffers
+Selectors
+
+Java NIO has more classes and components than these, but the Channel, 
+Buffer and Selector forms the core of the API, in my opinion. The rest of the components, 
+like Pipe and FileLock are merely utility classes to be used in conjunction with the three core components. 
+Therefore, I'll focus on these three components in this NIO overview. The other components are explained in their own texts
+ elsewhere in this tutorial.
+ See the menu at the top corner of this page.
