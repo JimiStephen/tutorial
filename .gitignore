@@ -1,1 +1,5 @@
 '.idea' 
+/java-tutorials/target
+/plantuml/target
+/poi-tutorial/target
+/solr-tutorials/target
