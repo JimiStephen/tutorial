@@ -3,3 +3,4 @@
 /plantuml/target
 /poi-tutorial/target
 /solr-tutorials/target
+*.iml
