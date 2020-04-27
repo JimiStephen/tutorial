@@ -19,6 +19,7 @@
         <module>solr-tutorials</module>
         <module>poi-tutorial</module>
         <module>spring-test-tutorial</module>
+        <module>spcloud-zk</module>
     </modules>
     <build>
         <plugins>
