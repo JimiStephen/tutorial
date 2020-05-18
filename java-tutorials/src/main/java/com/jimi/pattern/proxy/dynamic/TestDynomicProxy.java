@@ -3,7 +3,7 @@ package com.jimi.pattern.proxy.dynamic;
 import java.lang.reflect.InvocationHandler;
 
 /**
- * @author xianyao.ye@ucarinc.com
+ * @author jimi
  * @version 1.0
  * @date 2020/5/14 10:05
  */

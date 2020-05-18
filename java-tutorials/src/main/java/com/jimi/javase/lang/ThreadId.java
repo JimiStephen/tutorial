@@ -11,7 +11,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * A thread's id is assigned the first time it invokes {@code ThreadId.get()}
  * and remains unchanged on subsequent calls.
  *
- * @author xianyao.ye@ucarinc.com
+ * @author jimi
  * @version 1.0
  * @date 2020/3/17 13:39
  */

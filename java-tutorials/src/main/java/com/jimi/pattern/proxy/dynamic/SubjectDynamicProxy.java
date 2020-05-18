@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationHandler;
 import java.util.Objects;
 
 /**
- * @author xianyao.ye@ucarinc.com
+ * @author jimi
  * @version 1.0
  * @date 2020/5/14 10:10
  */

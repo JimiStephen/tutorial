@@ -8,7 +8,7 @@ package com.jimi.pattern.proxy;
  * 虚拟代理
  * 动态代理
  *
- * @author xianyao.ye@ucarinc.com
+ * @author jimi
  * @version 1.0
  * @date 2020/5/9 10:36
  */

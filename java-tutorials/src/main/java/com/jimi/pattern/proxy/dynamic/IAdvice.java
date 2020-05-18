@@ -1,7 +1,7 @@
 package com.jimi.pattern.proxy.dynamic;
 
 /**
- * @author xianyao.ye@ucarinc.com
+ * @author jimi
  * @version 1.0
  * @date 2020/5/14 9:42
  */
