@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="506.84375" y="79.0">com.jimi.pattern.decorator.DarkRoast</node>
+    <node x="368.84375" y="79.0">com.jimi.pattern.decorator.HouseBlend</node>
+    <node x="310.0" y="0.0">com.jimi.pattern.decorator.Beverage</node>
+    <node x="96.0" y="158.0">com.jimi.pattern.decorator.Mocha</node>
+    <node x="50.84375" y="79.0">com.jimi.pattern.decorator.CondimentDecorator</node>
+    <node x="199.0" y="158.0">com.jimi.pattern.decorator.Soy</node>
+    <node x="0.0" y="158.0">com.jimi.pattern.decorator.Whip</node>
+    <node x="244.84375" y="79.0">com.jimi.pattern.decorator.Espresso</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.jimi.pattern.decorator.Espresso" target="com.jimi.pattern.decorator.Beverage">
+      <point x="0.0" y="-14.5" />
+      <point x="296.84375" y="59.0" />
+      <point x="349.0" y="59.0" />
+      <point x="-13.0" y="14.5" />
+    </edge>
+    <edge source="com.jimi.pattern.decorator.CondimentDecorator" target="com.jimi.pattern.decorator.Beverage">
+      <point x="0.0" y="-14.5" />
+      <point x="137.84375" y="49.0" />
+      <point x="323.0" y="49.0" />
+      <point x="-39.0" y="14.5" />
+    </edge>
+    <edge source="com.jimi.pattern.decorator.Mocha" target="com.jimi.pattern.decorator.CondimentDecorator">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="com.jimi.pattern.decorator.DarkRoast" target="com.jimi.pattern.decorator.Beverage">
+      <point x="0.0" y="-14.5" />
+      <point x="562.34375" y="49.0" />
+      <point x="401.0" y="49.0" />
+      <point x="39.0" y="14.5" />
+    </edge>
+    <edge source="com.jimi.pattern.decorator.HouseBlend" target="com.jimi.pattern.decorator.Beverage">
+      <point x="0.0" y="-14.5" />
+      <point x="427.84375" y="59.0" />
+      <point x="375.0" y="59.0" />
+      <point x="13.0" y="14.5" />
+    </edge>
+    <edge source="com.jimi.pattern.decorator.Soy" target="com.jimi.pattern.decorator.CondimentDecorator">
+      <point x="0.0" y="-14.5" />
+      <point x="233.5" y="133.0" />
+      <point x="195.84375" y="133.0" />
+      <point x="58.0" y="14.5" />
+    </edge>
+    <edge source="com.jimi.pattern.decorator.Whip" target="com.jimi.pattern.decorator.CondimentDecorator">
+      <point x="0.0" y="-14.5" />
+      <point x="38.0" y="133.0" />
+      <point x="79.84375" y="133.0" />
+      <point x="-58.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.1" x="510.99999999999994" y="200.18181818181813" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
