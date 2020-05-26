@@ -12,7 +12,7 @@ Do not Return Null to Indicate the Absence of a Value
 
 
 Do This:
-```java
+```
 public Optional<String> getComment() {
     return Optional.ofNullable(comment);
 }
@@ -21,7 +21,7 @@ public Optional<String> getComment() {
 
 
 Don't Do This:
-```java
+```
 public String getComment() {
     return comment; // comment is nullable
 }
@@ -37,14 +37,14 @@ public String getComment() {
 * Do not use arrays as input parameters for methods either, since this — unless a defensive copy of the array is made — makes it possible for another thread to modify the content of the array during method execution.
 
 Do This:
-```java
+```
 public Stream<String> comments() {
     return Stream.of(comments);
 }
 ```
 
 Don't Do This:
-```java
+```
 public String[] comments() {
     return comments; // Exposes the backing array!
 }
@@ -58,12 +58,12 @@ public String[] comments() {
 * So, if x and y are both zero, we can return a special implementation class PointOrigoImpl (with no x or y fields), or else we return another class PointImpl that holds the given x and y values. Ensure that the implementation classes are in another package that are clearly not a part of the API (e.g. put the Point interface in com.company. product.shape and the implementations in com.company.product.internal.shape).
 
 Do This:
-```java 
+``` 
 Point point = Point.of(1,2);
 ```
 
 Don't Do This:
-```java
+```
 Point point = new PointImpl(1,2);
 ```
 
@@ -74,14 +74,14 @@ Point point = new PointImpl(1,2);
 * This also creates a much clearer separation of concerns. For example, instead of inheriting from a public API class AbstractReader and overriding abstract void handleError(IOException ioe), it is better to expose a static method or a builder in the Reader interface that takes a Consumer<IOException> and applies it to an internal generic ReaderImpl.
 
 Do This:
-```java
+```
 Reader reader = Reader.builder()
     .withErrorHandler(IOException::printStackTrace)
     .build();
 ```
 
 Don't Do This:
-```java
+```
 Reader reader = new AbstractReader() {
     @Override
     public void handleError(IOException ioe) {
@@ -94,7 +94,7 @@ Reader reader = new AbstractReader() {
 * Tagging an interface with the @FunctionalInterface annotation signals that API users may use lambdas to implement the interface, and it also makes sure the interface remains usable for lambdas over time by preventing abstract methods from accidently being added to the API later on.
 
 Do This:
-```java
+```
 @FunctionalInterface
 public interface CircleSegmentConstructor {
     CircleSegment apply(Point cntr, Point p, double ang);
@@ -103,7 +103,7 @@ public interface CircleSegmentConstructor {
 ```
 
 Don't Do This:
-```java
+```
 public interface CircleSegmentConstructor {
     CircleSegment apply(Point cntr, Point p, double ang);
     // abstract methods may be accidently added later
@@ -114,7 +114,7 @@ public interface CircleSegmentConstructor {
 * If there are two or more functions with the same name that take functional interfaces as parameters, then this would likely create a lambda ambiguity on the client side. For example, if there are two Point methods add(Function<Point, String> renderer) and add(Predicate<Point> logCondition) and we try to call point.add(p -> p + “ lambda”) from the client code, the compiler is unable to determine which method to use and will produce an error. Instead, consider naming methods according to their specific use.
 
 Do This:
-```java
+```
 public interface Point {
     addRenderer(Function<Point, String> renderer);
     addLogCondition(Predicate<Point> logCondition);
@@ -122,7 +122,7 @@ public interface Point {
 ```
 
 Don't Do This:
-```java
+```
 public interface Point {
     add(Function<Point, String> renderer);
     add(Predicate<Point> logCondition);
@@ -135,7 +135,7 @@ public interface Point {
 * As we all know, functional interfaces contain exactly one abstract method, so default methods provide an escape hatch when additional methods must be added. However, avoid having the API interface evolve to an implementation class by polluting it with unnecessary implementation concerns. If in doubt, consider moving the method logic to a separate utility class and/or place it in the implementing classes.
 
 Do This:
-```java
+```
 public interface Line {
     Point start();
     Point end();
@@ -144,7 +144,7 @@ public interface Line {
 ```
 
 Don't Do This:
-```java
+```
 public interface Line {
     Point start();
     Point end();
@@ -164,7 +164,7 @@ public interface Line {
 * The JVM will be able to optimize away redundant checking and produce efficient code. Make use of the Objects.requireNonNull() method. Parameter checking is also an important way to enforce the API’s contract. If the API was not supposed to accept nulls but did anyhow, users will become confused.
 
 Do This: 
-```java
+```
 public void addToSegment(Segment segment, Point point) {
     Objects.requireNonNull(segment);
     Objects.requireNonNull(point);
@@ -173,7 +173,7 @@ public void addToSegment(Segment segment, Point point) {
 ```
 
 DON’T DO THIS:
-```java
+```
 public void addToSegment(Segment segment, Point point) {
     segment.add(point);
 }
@@ -183,7 +183,7 @@ public void addToSegment(Segment segment, Point point) {
 * The API designers of Java 8 made a mistake when they selected the name Optional.get() when it should really have been named Optional.getOrThrow() or something similar instead. Calling get() without checking if a value is present with the Optional.isPresent() method is a very common mistake which fully negates the null elimination features Optional originally promised. Consider using any of the Optional’s other methods such as map(), flatMap() or ifPresent() instead in the API’s implementing classes or ensure that isPresent() is called before any get() is called.
 
 Do This:
-```java
+```
 Optional<String> comment = // some Optional value 
 String guiText = comment
   .map(c -> "Comment: " + c)
@@ -191,7 +191,7 @@ String guiText = comment
 ```
 
 Don't Do This:
-```java
+```
 Optional<String> comment = // some Optional value 
 String guiText = "Comment: " + comment.get();
 ```
@@ -200,7 +200,7 @@ String guiText = "Comment: " + comment.get();
 * Eventually, all APIs will contain errors. When receiving stack traces from API users, it is often much easier to determine the actual cause of the error if a Stream pipeline is split into distinct lines compared to a Stream pipeline that is expressed on a single line. Also, code readability will improve.
 
 Do This:
-```java
+```
 Stream.of("this", "is", "secret") 
   .map(toGreek()) 
   .map(encrypt()) 
@@ -208,6 +208,6 @@ Stream.of("this", "is", "secret")
 ```
 
 Don't Do This:
-```java
+```
 Stream.of("this", "is", "secret").map(toGreek()).map(encrypt()).collect(joining(" "));
 ```
