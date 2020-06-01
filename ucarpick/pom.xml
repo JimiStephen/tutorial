@@ -3,10 +3,63 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
+    <packaging>pom</packaging>
+    <parent>
+        <groupId>com.ucarinc.framework</groupId>
+        <artifactId>ucarinc-framework-parent</artifactId>
+        <version>6.0.36</version>
+    </parent>
+    <properties>
+        <findbugs.skip>true</findbugs.skip>
+    </properties>
     <groupId>com.ucar.parent</groupId>
     <artifactId>ucar-pick</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
 
+        <module>ucar-pick-os</module>
+    </modules>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-antrun-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>mvn-copy-file</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>run</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <tasks>
+                        <mkdir dir="${basedir}/target/${project.name}"/>
+                        <mkdir dir="${basedir}/target/${project.name}/bin"/>
+                        <mkdir dir="${basedir}/target/${project.name}/app/${project.name}"/>
 
+                        <copy todir="${basedir}/target/${project.name}/bin" overwrite="true">
+                            <fileset dir="${basedir}/deploy/bin" includes="**"/>
+                        </copy>
+                        <copy todir="${basedir}/target/${project.name}/app/${project.name}" overwrite="true">
+                            <fileset dir="${basedir}/${project.name}-os/target/${project.name}-os"
+                                     includes="${project.name}-os.jar"/>
+                        </copy>
+                    </tasks>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.sonarsource.scanner.maven</groupId>
+                <artifactId>sonar-maven-plugin</artifactId>
+                <version>3.4.0.905</version>
+            </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>findbugs-maven-plugin</artifactId>
+                <version>3.0.5</version>
+            </plugin>
+        </plugins>
+    </build>
 </project>
