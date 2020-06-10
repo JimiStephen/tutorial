@@ -3,7 +3,7 @@ package com.jimi.javase.concurrent;
 import java.util.concurrent.Semaphore;
 
 /**
- * @author xianyao.ye@ucarinc.com
+ * @author jimi
  * @version 1.0
  * @date 2020/6/9 15:19
  */
