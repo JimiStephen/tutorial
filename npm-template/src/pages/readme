@@ -1,0 +1,9 @@
+经销商平台的界面都在此系统里面：本系统所有的菜单都在admin系统里配置
+
+此系统界面在pages下  开发时候直接访问前端路由中的界面开发
+
+开发的时候先注释掉os项目里面的CmtHandlerInterceptor拦截器，跳过登录校验
+
+例如: 新增个pages/info/province/list.vue界面  路由里配置 /info/province/list
+
+那么访问界面为http://localhost/#/info/province/list

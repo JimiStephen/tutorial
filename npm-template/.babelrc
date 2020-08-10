@@ -1,0 +1,23 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "modules": false
+      }
+    ],
+    "stage-2",
+    "es2015"
+  ],
+  "plugins": [
+    "transform-runtime",
+    "transform-vue-jsx",
+    [
+      "component",
+      {
+        "libraryName": "@ucar/ucar-vue",
+        "style": true
+      }
+    ]
+  ]
+}
