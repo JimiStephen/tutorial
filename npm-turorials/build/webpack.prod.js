@@ -82,8 +82,12 @@ module.exports = merge(webpackConfig, {
         from: path.resolve(__dirname, '../public'),
         to: path.resolve(__dirname, '../dist')
       }
-    ]),
-    new CleanWebpackPlugin()
+    ])
+    // ,
+    // new CleanWebpackPlugin(['dist'], {
+    //   root: path.resolve(__dirname, '..'),
+    //   dry: false // 启用删除文件
+    // })
   ]
 })
  

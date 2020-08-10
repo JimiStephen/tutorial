@@ -10,14 +10,15 @@ module.exports = merge(webpackConfig, {
       {
         test: /\.(scss|sass)$/,
         use: [
+          // {
+          //   loader: 'style-loader'
+          // },
           {
             loader: 'style-loader'
-          },
-          {
-            loader: 'css-loader',
-            options: {
-              importLoaders: 2
-            }
+            // ,
+            // options: {
+            //   importLoaders: 2
+            // }
           },
           {
             loader: 'sass-loader',

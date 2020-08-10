@@ -2,7 +2,7 @@
 module.exports={
 	presets:[
 		["@babel/preset-env",{
-			"useBuiltIns":"useage"
+			"useBuiltIns":"usage"
 		}]
 	],
 	plugins:[

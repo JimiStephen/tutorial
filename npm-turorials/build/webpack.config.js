@@ -9,8 +9,8 @@ module.exports={
 	mode:'development',
 	entry:{
 	  //config entry file 
-	 // main:path.resolve(__dirname,'../src/main.js')
-	  main:["@babel/ployfill",path.resolve(__dirname,'../src/main.js')]
+	 main:path.resolve(__dirname,'../src/main.js')
+	 //  main:["@babel/ployfill",path.resolve(__dirname,'../src/main.js')]
 	},
 	output:{
 		//config package file output directory
@@ -60,7 +60,7 @@ module.exports={
 				},{
 					loader:'thread-loader'
 				},{
-					loader:'babel-loader-loader'
+					loader:'babel-loader'
 				},
 			]
 		},
@@ -76,7 +76,7 @@ module.exports={
 			test:/\.(scss|sass)$/,
 			use:[
 				{
-					loader:'sytle-loader'
+					loader:'style-loader'
 				},{
 					loader:'css-loader'
 				},{
@@ -152,6 +152,7 @@ module.exports={
 		//npm install webpack-dev-server -D 代码热更新
 		new webpack.NamedModulesPlugin(),
 		new webpack.HotModuleReplacementPlugin(),
+		new VueLoaderPlugin(),
 		//定义环境变量
 		 new webpack.DefinePlugin({
 		  'process.env': {
