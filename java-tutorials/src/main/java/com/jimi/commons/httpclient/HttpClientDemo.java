@@ -6,7 +6,7 @@ import java.io.InputStream;
 import java.net.URL;
 
 /**
- * @author xianyao.ye@ucarinc.com
+ * @author jimi
  * @version 1.0
  * @date 2020/8/13 9:02
  */
