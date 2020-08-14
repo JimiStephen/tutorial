@@ -5,3 +5,4 @@
 /solr-tutorials/target
 *.iml
 /npm-turorials/node_modules/
+/.idea/
