@@ -14,24 +14,58 @@ import java.util.Locale;
  */
 public class LocaleDemo {
     public static void main(String[] args) {
+        localeLanguageTagFilterAndLookup();
+        createALocale();
+
+//        showAvailableLocales();
+//        createYourLocale();
+    }
+
+    private static void createALocale() {
+
+        //method one
+        Locale aLocale = new Locale.Builder().setLanguage("fr").setRegion("CA").build();
+        Locale bLocale = new Locale.Builder().setLanguage("en").setRegion("US").build();
+        Locale cLocale = new Locale.Builder().setLanguage("en").setRegion("GB").build();
+        Locale dLocale = new Locale.Builder().setLanguage("ru").setScript("Cyrl").build();
+
         String language = "ISO";
         String country = "";
         String variant = "";
 
-        Locale localeOne = new Locale(language, country, variant);
-        Locale localeTwo = new Locale(language, country);
-        Locale localeThree = new Locale(language);
+        //method two
+        aLocale = new Locale("fr", "CA");
+        bLocale = new Locale("en", "US");
+        cLocale = new Locale("en", "GB");
+        dLocale = new Locale("ru");
+
+//method  forLanguageTag Factory Method javase 7
+        aLocale = Locale.forLanguageTag("en-US");
+        bLocale = Locale.forLanguageTag("ja-JP-u-ca-japanese");
+
+        //method
+        cLocale = Locale.JAPAN;
+        dLocale = Locale.CANADA_FRENCH;
+//        When you specify a language constant, the region portion of the Locale is undefined. The next three statements create equivalent Locale objects:
+
+        Locale j1Locale = Locale.JAPANESE;
+        Locale j2Locale = new Locale.Builder().setLanguage("ja").build();
+        Locale j3Locale = new Locale("ja");
+//        The Locale objects created by the following three statements are also equivalent:
+
+        Locale j4Locale = Locale.JAPAN;
+        Locale j5Locale = new Locale.Builder().setLanguage("ja").setRegion("JP").build();
+        Locale j6Locale = new Locale("ja", "JP");
 
         Locale localeForLang = Locale.forLanguageTag("en-US");
 
         // Define Some LanguageRange Objects
         Locale.LanguageRange range1 = new Locale.LanguageRange("en-US", Locale.LanguageRange.MAX_WEIGHT);
-        Locale.LanguageRange range2 = new Locale.LanguageRange("en-GB*", 0.5);
+        Locale.LanguageRange range2 = new Locale.LanguageRange("en-GB", 0.5);
         Locale.LanguageRange range3 = new Locale.LanguageRange("fr-FR", Locale.LanguageRange.MIN_WEIGHT);
+    }
 
-        // Create Locale
-
-        Locale l = Locale.forLanguageTag("en-US");
+    private static void localeLanguageTagFilterAndLookup() {
 
         // Create a Language Priority List
 
@@ -81,10 +115,6 @@ public class LocaleDemo {
 // Find the BEST match, and return just one result
         String lookupTagResult = Locale.lookupTag(languageRangesByTags, tags);
         System.out.println(lookupTagResult);
-
-
-//        showAvailableLocales();
-//        createYourLocale();
     }
 
     private static void showAvailableLocales() {
