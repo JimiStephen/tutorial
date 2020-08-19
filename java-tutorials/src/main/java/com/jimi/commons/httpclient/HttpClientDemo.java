@@ -1,9 +1,10 @@
 package com.jimi.commons.httpclient;
-import sun.net.www.http.HttpClient;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.net.URL;
+import org.apache.http.HttpEntity;
+import org.apache.http.client.methods.CloseableHttpResponse;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.client.methods.HttpUriRequest;
+import org.apache.http.util.EntityUtils;
 
 /**
  * @author jimi
@@ -15,15 +16,16 @@ public class HttpClientDemo {
         try {
 
 
-            URL url = new URL("http://www.zhipin.com");
-            HttpClient httpClient = HttpClient.New(url);
+            HttpUriRequest request = new HttpGet("http://www.zhipin.com");
+            CloseableHttpResponse response = HttpClientFactory.getInstance().getHttpClient().execute(request);
+            HttpEntity httpEntity = response.getEntity();
+            String responseString = EntityUtils.toString(httpEntity);
 
-            InputStream is = httpClient.getInputStream();
-            byte[] buff = new byte[516];
-           while ( is.read(buff) > -1){
-               System.out.println(String.valueOf(buff));
-           };
-        } catch (IOException e) {
+
+            System.out.println(responseString);
+            response.close();
+
+        } catch (Exception e) {
             e.printStackTrace();
         } finally {
         }
