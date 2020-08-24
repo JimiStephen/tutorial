@@ -1,0 +1,7 @@
+@startuml
+skinparam responseMessageBelowArrow true
+Bob -> Alice : hello
+Alice -> Bob : ok
+@enduml
+
+给自己发消息

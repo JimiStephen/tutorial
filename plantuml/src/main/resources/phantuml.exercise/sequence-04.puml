@@ -1,0 +1,8 @@
+@startuml
+participant Last order 30
+participant Middle order 20
+participant First order 10
+@enduml
+
+/'
+您可以使用关键字 order自定义顺序来打印参与者。'/

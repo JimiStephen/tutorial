@@ -7,7 +7,7 @@
   
   
 2，简单认识
-> plantuml 是一个开源的UML画图工具，可以支持的画图类型有：
+> `plantuml` https://plantuml.com/ 是一个开源的UML画图工具，可以支持的画图类型有：
 PlantUML是一个开源项目，支持快速绘制： 
 时序图
 用例图
