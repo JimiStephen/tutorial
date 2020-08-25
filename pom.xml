@@ -21,6 +21,16 @@
         <module>spring-test-tutorial</module>
         <module>spcloud-zk</module>
     </modules>
+    <dependencyManagement>
+
+    </dependencyManagement>
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.6</version>
+        </dependency>
+    </dependencies>
     <build>
         <plugins>
             <plugin>
