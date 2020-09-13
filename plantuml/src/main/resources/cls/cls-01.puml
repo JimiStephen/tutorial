@@ -1,0 +1,86 @@
+/'类之间的关系通过下面的符号定义:
+Type Symbol Drawing
+Extension（扩展） <|--
+Composition（组合） *--
+Aggregation（聚合） o--
+
+使用.. 来代替 -- 可以得到点线.
+在这些规则下，也可以绘制下列图形'/
+@startuml
+
+Class01 <|-- Class02
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 -- Class10
+
+newpage
+
+Class11 <|.. Class12
+Class13 --> Class14
+Class15 ..> Class16
+Class17 ..|> Class18
+Class19 <--* Class20
+
+newpage
+
+Class21 #-- Class22
+Class23 x-- Class24
+Class25 }-- Class26
+Class27 +-- Class28
+Class29 ^-- Class30
+
+newpage
+
+Class01 "1" *-- "many" Class02 : contains(包含)
+Class03 o-- Class04 : aggregation（聚合）
+Class05 --> "1" Class06
+
+newpage
+class Car
+Driver - Car : drives >
+Car *- Wheel : have 4 >
+Car -- Person : < owns
+
+newpage
+'添加方法'
+Object <|-- ArrayList
+Object : equals()
+ArrayList : Object[] elementData
+ArrayList : size()
+
+newpage
+'使用{} 把属性方法包起来'
+class Dummy {
+String data
+void methods()
+}
+class Flight {
+flightNumber : Integer
+departureTime : Date
+}
+class Dummy1 {
+{field} A field (despite parentheses)
+{method} Some method
+}
+
+newpage
+
+/'一旦你定义了域或者方法，你可以定义相应条目的可访问性质。
+Character Icon for field Icon for method Visibility
+- private
+# protected
+~ package private
++ public '/
+
+/'show ico open'/
+'skinparam classAttributeIconSize 0
+
+class Dummy {
+-field1
+#field2
+~method1()
++method2()
+}
+
+@enduml
