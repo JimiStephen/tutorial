@@ -1,7 +1,5 @@
 package com.jimi.javase.lang;
 
-import com.sun.istack.internal.NotNull;
-
 import java.util.Random;
 
 /**
@@ -14,7 +12,7 @@ public class StringUtils {
     private static final String RAND_SOURCE = "abcefghijklmnopqrstuvwxyz1234567890ABCEFGHIJKLMNOPQRSTUVWXYZ";
 
 
-    public static String getRandString(@NotNull int maxLen) {
+    public static String getRandString(int maxLen) {
         StringBuilder sb = new StringBuilder("");
 
         Random random = new Random();

@@ -6,7 +6,6 @@ import java.io.Serializable;
 
 /**
  * Zk信息
- *
  */
 @Data
 public class ZkInfo implements Serializable {
@@ -24,4 +23,5 @@ public class ZkInfo implements Serializable {
      * 连接字符串
      */
     private String connectString;
+
 }
