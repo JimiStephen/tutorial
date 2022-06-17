@@ -25,7 +25,7 @@
         <checkstyle.skip>true</checkstyle.skip>
         <pmd.skip>true</pmd.skip>
         <findbugs.skip>true</findbugs.skip>
-        <fastjson.version>1.2.60</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <!-- 低版本fastjson反序列化漏洞，升级Fastjosn�.2.58版本，项目锁定此版本 -->
